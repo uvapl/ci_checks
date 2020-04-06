@@ -2,6 +2,7 @@ check50:
   dependencies:
     - "jupyter"
     - "pandas"
+    - "nbformat"
   files:
     - !exclude "*"
     - !require "module 1.ipynb"
