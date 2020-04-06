@@ -7,5 +7,5 @@ check50:
     - !exclude "*"
     - !require "module 2.ipynb"
     - !require "answers.py"
-    - !require "micro-movielens"
-    - !require "mini-movielens"
+    - !require "micro-movielens/"
+    - !require "mini-movielens/"
