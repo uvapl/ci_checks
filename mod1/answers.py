@@ -1357,25 +1357,33 @@ def test_17(df_ratings, df_tags, df_ratings_solution, df_tags_solution):
     assert all(type(dt) is pd.Timestamp for dt in df_ratings['datetime'])
     assert all(type(dt) is pd.Timestamp for dt in df_tags['datetime'])
 
+    from dateutil.tz import tzlocal
+
+    tz = datetime.now(tzlocal()).tzname()
+
     partial_solution = DataFrame(
-        [[1, 1, 4.0, 964982703, Timestamp('2000-07-30 20:45:03', tz="CET")],
-         [1, 3, 4.0, 964981247, Timestamp('2000-07-30 20:20:47', tz="CET")],
-         [1, 6, 4.0, 964982224, Timestamp('2000-07-30 20:37:04', tz="CET")],
-         [1, 47, 5.0, 964983815, Timestamp('2000-07-30 21:03:35', tz="CET")],
-         [1, 50, 5.0, 964982931, Timestamp('2000-07-30 20:48:51', tz="CET")]],
+        [[1, 1, 4.0, 964982703, Timestamp('2000-07-30 20:45:03', tz=tz)],
+         [1, 3, 4.0, 964981247, Timestamp('2000-07-30 20:20:47', tz=tz)],
+         [1, 6, 4.0, 964982224, Timestamp('2000-07-30 20:37:04', tz=tz)],
+         [1, 47, 5.0, 964983815, Timestamp('2000-07-30 21:03:35', tz=tz)],
+         [1, 50, 5.0, 964982931, Timestamp('2000-07-30 20:48:51', tz=tz)]],
         columns=['userId', 'movieId', 'rating', 'timestamp', 'datetime'],
         index=[0, 1, 2, 3, 4])
     pd.testing.assert_frame_equal(df_ratings.head(), partial_solution, check_dtype=False)
 
+    from dateutil.tz import tzlocal
+
+    tz = datetime.now(tzlocal()).tzname()
+
     partial_solution = DataFrame(
-        [[2, 60756, 'funny', 1445714994, Timestamp('2015-10-24 21:29:54', tz="CET")],
+        [[2, 60756, 'funny', 1445714994, Timestamp('2015-10-24 21:29:54', tz=tz)],
          [2, 60756, 'Highly quotable', 1445714996,
-          Timestamp('2015-10-24 21:29:56', tz="CET")],
+          Timestamp('2015-10-24 21:29:56', tz=tz)],
          [2, 60756, 'will ferrell', 1445714992,
-          Timestamp('2015-10-24 21:29:52', tz="CET")],
+          Timestamp('2015-10-24 21:29:52', tz=tz)],
          [2, 89774, 'Boxing story', 1445715207,
-          Timestamp('2015-10-24 21:33:27', tz="CET")],
-         [2, 89774, 'MMA', 1445715200, Timestamp('2015-10-24 21:33:20', tz="CET")]],
+          Timestamp('2015-10-24 21:33:27', tz=tz)],
+         [2, 89774, 'MMA', 1445715200, Timestamp('2015-10-24 21:33:20', tz=tz)]],
         columns=['userId', 'movieId', 'tag', 'timestamp', 'datetime'],
         index=[0, 1, 2, 3, 4])
     pd.testing.assert_frame_equal(df_tags.head(), partial_solution, check_dtype=False)
@@ -1486,12 +1494,16 @@ def test_22(df_ratings_filtered, df_ratings_solution):
     print("Testing: ", end="")
     assert type(df_ratings_filtered) is DataFrame
 
+    from dateutil.tz import tzlocal
+
+    tz = datetime.now(tzlocal()).tzname()
+
     partial_solution = DataFrame(
-        [[1, 1, 4.0, 964982703, Timestamp('2000-07-30 20:45:03', tz="CET")],
-         [1, 3, 4.0, 964981247, Timestamp('2000-07-30 20:20:47', tz="CET")],
-         [1, 6, 4.0, 964982224, Timestamp('2000-07-30 20:37:04', tz="CET")],
-         [1, 47, 5.0, 964983815, Timestamp('2000-07-30 21:03:35', tz="CET")],
-         [1, 50, 5.0, 964982931, Timestamp('2000-07-30 20:48:51', tz="CET")]],
+        [[1, 1, 4.0, 964982703, Timestamp('2000-07-30 20:45:03', tz=tz)],
+         [1, 3, 4.0, 964981247, Timestamp('2000-07-30 20:20:47', tz=tz)],
+         [1, 6, 4.0, 964982224, Timestamp('2000-07-30 20:37:04', tz=tz)],
+         [1, 47, 5.0, 964983815, Timestamp('2000-07-30 21:03:35', tz=tz)],
+         [1, 50, 5.0, 964982931, Timestamp('2000-07-30 20:48:51', tz=tz)]],
         columns=['userId', 'movieId', 'rating', 'timestamp',
                  'datetime'], index=[0, 1, 2, 3, 4])
 
