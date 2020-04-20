@@ -1,0 +1,1269 @@
+<font color="#80ffff">T
+<font color="#80ffff">Th
+<font color="#80ffff">The
+<font color="#80ffff">The_
+<font color="#80ffff">The_S
+<font color="#80ffff">The_Si
+<font color="#80ffff">The_Sig
+<font color="#80ffff">The_Sign
+<font color="#80ffff">The_Signa
+<font color="#80ffff">The_Signal
+<font color="#80ffff">The_Signal
+<font color="#80ffff">The_Signal
+<font color="#80ffff">The_Signal
+S
+<font color="#80ffff">The_Signal
+Su
+<font color="#80ffff">The_Signal
+Sub
+<font color="#80ffff">The_Signal
+Subt
+<font color="#80ffff">The_Signal
+Subti
+<font color="#80ffff">The_Signal
+Subtit
+<font color="#80ffff">The_Signal
+Subtitl
+<font color="#80ffff">The_Signal
+Subtitle
+<font color="#80ffff">The_Signal
+Subtitle_
+<font color="#80ffff">The_Signal
+Subtitle_C
+<font color="#80ffff">The_Signal
+Subtitle_Cr
+<font color="#80ffff">The_Signal
+Subtitle_Cre
+<font color="#80ffff">The_Signal
+Subtitle_Crea
+<font color="#80ffff">The_Signal
+Subtitle_Creat
+<font color="#80ffff">The_Signal
+Subtitle_Creat_
+<font color="#80ffff">The_Signal
+Subtitle_Creat_B
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+T
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Th
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tha
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Thar
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Thari
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharin
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharind
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_L
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_La
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lak
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakm
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakma
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_J
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Je
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jee
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeew
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewa
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewan
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewant
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewanth
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewantha</font>
+Which one are you going for, bud?
+The white one? With goggles?
+Okay, I'm gonna show you
+how to get there. Okay?
+Okay, you're gonna follow...
+this line till it gets to...
+Till it gets to this circle, okay?
+When it hits that circle,
+you press the button.
+Then you're gonna follow this bottom
+line until it gets to this circle.
+Then you press the
+button, okay? Got it?
+Okay, you got any money?
+Okay, well, here's $1.
+Good luck.
+Hey.
+Nomad's back. He's
+messing with us again.
+What did he say?
+"Your hack into MIT
+servers was legit."
+That was fast.
+"Ta, ta, ta." What is that?
+"They put that shit on us.
+"We almost got expelled."
+"Vibes."
+Who's this Vibes? Okay, guy.
+"We're going to expose
+you at DEF CON,
+"so you better watch your back."
+Dude, what is that?
+What the...
+<i>Go into the building.</i>
+Get the Pwnie.
+All right, let's do this.
+Open up a Linux terminal
+and start an Nmap, dude.
+Haley's gonna have
+to drive tomorrow.
+Hey, focus.
+That's what I'm saying,
+I won't be able to.
+Technically she's the one moving, so
+technically she should be driving.
+- Is it open yet?
+- In a sec.
+- Okay, I'm good.
+- Okay.
+Okay, type something.
+I'm trying to think
+of something funny.
+Damn.
+"Do androids take
+an electric sheet?"
+You're stupid.
+Okay, read me out the
+IPs on the C&C servers.
+"192. 236. 19. 147."
+147. Start sniffing connections.
+Copy that. Firing up the listeners.
+All right, this guy's toast.
+Nevada.
+Dude, we're going
+right through Nevada.
+- We got him.
+- We got him!
+Are you guys being
+serious right now?
+Well, you're driving
+in the morning, so...
+good night.
+I'd like to see you make
+me, you Caltech turncoat.
+Haley, this fish tank's
+leaking something.
+It's water, Jonah.
+- It's gross.
+- Shut up.
+- You Caltech turncoats.
+- Dude, can you stop saying that?
+- Signal sucks out here.
+- You're right, it does suck.
+- Hey, you want one of these?
+- No, I'm good, thanks.
+You want?
+Dude.
+- What?
+- Check this out.
+What the hell?
+Why isn't that working?
+Is that my car?
+- Yeah. It's a traffic camera.
+- This guy is so gnarly.
+- How does he have a picture of my car?
+- Hold on a sec.
+Why would this guy go to all
+the trouble to hack into MIT,
+and then, you know,
+just taunt us like this?
+The same reason anyone does
+anything. Acknowledgment.
+"I'm better than you, you're
+better than me," whatever.
+Here, dude, I can't
+unlock it. You try.
+You guys should just
+stop provoking him.
+He's probably just some little kid.
+- Nic, are we doing this or not?
+- I can't, dude.
+What do you mean, you can't?
+I just can't right now.
+Look, I get we have to
+take Haley to California.
+But there's no reason we
+shouldn't do this, too.
+Nomad hacking into MIT is one
+thing, but Haley's computer?
+No, but it's crazy not
+to go after this guy.
+- Jonah, what's the sales tax?
+- We're so close.
+6.3. It's on the way.
+$14.74. You can keep the change.
+- You guys want something?
+- Yeah.
+- Coffee?
+- Yeah, I'd love a coffee.
+- Black?
+- There you go. Yeah, please.
+What?
+Has Nic said anything
+to you about me moving?
+No.
+Nothing?
+No, obviously he's bummed you're
+gonna be gone for a year.
+It just seems like he's trying to
+distance himself from me, you know?
+Look, you guys are my best friends,
+and I'm just...
+I'm the wrongest guy to ask.
+Yeah.
+Oh, crap.
+Hey.
+You all right, bud?
+- I'm fine.
+- Yeah?
+I'm fine, I'm fine.
+I'm gonna get more coffees.
+I'm gonna... move the car.
+Best friends!
+Is this one mine?
+Yeah. I already put two in.
+- Here you go.
+- I got it.
+Nic, I offer to help not
+because I think you need it,
+but because I know you don't.
+Yeah, well, you won't have to
+worry about that soon, will you?
+Okay.
+Thanks, bud.
+We're not really that far
+from this guy, are we?
+180 miles, give or take.
+All right, dude, let's do it.
+Let's go.
+Now, see, this is the
+Nicholas Eastman I love.
+You know, just determined,
+ruthless, competitive.
+Oh, and favors caffeine.
+Where's Haley?
+I don't know. I think
+she walked, uh...
+That way.
+Haley, look, I'm sorry. It's
+just, I've been distracted.
+I think you're getting ready
+to make a big speech.
+I think this whole trip is about
+you getting ready to make it.
+What are you talking about?
+I'm not gonna make a speech.
+Stop.
+Haley, you know how many times
+I've played this out in my head?
+Twice-a-week doctor's appointments.
+Who knows how many MRis and
+tests. Eventually a wheelchair.
+All the time wondering if
+you're gonna break up with me.
+- Stop.
+- When you're gonna get tired of this...
+It's not fair to
+make me the bad guy
+- without my input.
+- Haley, that's not what I'm saying.
+I'm just saying I'm not gonna
+be the guy who holds you back.
+Cool. So, uh...
+I move away for one year and...
+because you're scared
+of what's gonna happen,
+you immediately resort
+to breaking up?
+I'm just saying...
+I'm just saying...
+- I need to protect myself.
+- From what?
+- Is it your heart talking or your head?
+- It's me talking.
+But you're the one that always told me to
+run toward something and not away from it.
+Yeah, well, that was
+before all this shit.
+What are you doing?
+You can keep your promises.
+I don't want them.
+Haley.
+You just take a left up here.
+It's about 20 miles or so.
+Maybe we should drop
+Haley off first.
+Can you not talk about
+me like I'm not in the car?
+Haley, you don't
+have to come along.
+No, I wanna meet this asshole.
+Me, too.
+Just keep going. We still
+got, like, a quarter mile.
+- Stop, stop, we passed it.
+- What?
+Yeah, back up.
+Say, 20 or 30 feet.
+Stop, stop.
+- I think it's right here.
+- You serious?
+It's right here. It's right here.
+- Don't get us stuck. Please, Nic.
+- We're fine.
+It's over here.
+You should kill the headlights.
+Are you sure you want to do this?
+I'm not gonna lie.
+This doesn't look right.
+What do you think?
+We're not gonna know
+by sitting in the car.
+Come on, let's go. Get your camera.
+Haley, stay in and
+lock the doors, okay?
+Nic.
+You know all this is stupid, right?
+- Where do you think we went wrong?
+- What are you talking about?
+You know, it must have been,
+like, a random IP allocation.
+Like, they could be in
+Georgia for all we know.
+- Like, Europe Georgia.
+- Shut up.
+Or they could be using
+this as a relay point.
+A big mama sat in that chair.
+I'm gonna have to say
+there's nobody here, Nic.
+Dude, Nomad is not here.
+- Let's take a look.
+- He's not here.
+We'll take a look
+and then we'll go.
+Let's go find him.
+A hillbilly lives here.
+- This guy has a baby?
+- Shh!
+Shh!
+Jonah?
+Jonah?
+Jonah?
+Dude, I can see you.
+What are you doing?
+Hey!
+Dude, you're such an asshole!
+How funny is this little chair?
+It was really facing
+the corner like this.
+Come on. There's a basement.
+You're such a kike.
+- Go down.
+- Screw that, you go down.
+Be careful.
+What is this place?
+Check it out, man.
+What are those?
+- Server racks.
+- That's weird.
+Oh, wait. Haley!
+Haley! Haley! Haley!
+Haley!
+What the hell?
+- What was that sound?
+- I don't know.
+- Why are the car doors open like that?
+- I don't know!
+Haley!
+- Haley!
+- Shh!
+Listen.
+Oh, my God.
+- Haley!
+- Haley!
+Haley!
+Can you... speak?
+Where am I?
+I can't move.
+Can you tell me your name?
+Nicholas Eastman.
+I'm Damon. Dr. Wallace Damon.
+I'm heading up the transition
+team that's going to help you,
+help all of us understand exactly
+what you've been through.
+What are you talking about?
+Can you recall for me the first
+time you encountered the signal?
+The what?
+Why can't I move?
+What happened to us?
+Due to the circumstances
+surrounding your condition,
+I'm afraid that our information
+is... extremely limited.
+Wait, what's my condition?
+What I'm about to tell you, Nic,
+you may find a bit disturbing.
+You have made contact
+with an E.B.E.
+E.B.E.?
+Extraterrestrial Biological
+Entity. E.B.E.
+I want to talk to my parents.
+- I'm sorry, that's just not possible.
+- What are you talking about?
+Where's Haley and Jonah?
+What happened to us?
+Why am I... in a wheelchair?
+Why...
+Why are you wearing that suit?
+We're not 100% certain about
+what we're dealing with here.
+The possibility for alien
+contamination is... very real.
+When you say "alien
+contamination," do you mean...
+microbiological
+contamination, as in foreign?
+Hold still.
+Oh.
+It's just blood.
+<i>It's just blood.</i>
+I think we'll stop here for today.
+<i>Contact values at 9, 8,</i>
+<i>47, 91, 72.</i>
+<i>Level 12. Do we know current value?</i>
+Stop! Will you stop? Stop!
+Go back! Can you go back?
+What's wrong with Haley?
+As advanced as we are,
+it's amazing that a tool as crude
+as a pen still has its place.
+There we go.
+I want to talk to Haley. Please.
+I'm afraid that's not
+possible right now.
+Why?
+She's in good hands,
+Nic, I promise you.
+The best thing you can do for
+her right now is to help us.
+Now, will you please try
+to cooperate with me?
+- Okay.
+- Good.
+First I'm going to ask you
+some simple control questions.
+Do you have 10 toes?
+Yes.
+Are you from Earth?
+- Yes, I am from Earth.
+- Good, thank you.
+Now, this signal that you and
+your friends were pursuing,
+when did you first encounter it?
+- You mean Nomad.
+- Yes.
+MIT. He got into our
+school's security network
+and ruined some major servers,
+including our personal ones.
+Nic, I want you to watch something.
+<i>A big mama sat in that chair.</i>
+You definitely weren't
+pursuing a hacker.
+Hey.
+Hey.
+- Jonah?
+- Nic.
+- Jonah!
+- Nic!
+Oh, my God! Jonah, where are you?
+I don't know. I'm locked
+up, I'm in a room.
+Me, too. I'm in a locked room,
+dude. Where are we?
+I heard them say we're not allowed above
+ground because we were contaminated.
+What the hell was Nomad?
+What have they told you?
+Not much.
+I saw Haley. She's in
+a coma or something.
+Nic, they're doing some
+weird shit here, man.
+My body doesn't feel right.
+- Nic, I gotta go.
+- What? Where?
+This place is run like a clock.
+I can't believe you're in the vent!
+What? Dude, I'm not in the vent.
+I'm not in the vent! Jonah! Jonah!
+- Why don't you have any clocks that work?
+- Clocks that work?
+Yeah. The one in the
+hallway is stuck at 12:30.
+- Which hallway?
+- Seven windows back. Left turn.
+Four windows. Right turn.
+Two windows on the right.
+Next to the bathroom with its sign
+upside down. It's stuck at 12:30.
+Nic, it's a broken clock. Thank you
+for bringing it to my attention.
+Can we please proceed with
+the shapes and colors?
+- Screw this. This is stupid.
+- What's the matter, Nic?
+- Can't you do it?
+- No, I choose not to do it.
+Choose? You choose not to do it?
+That sounds like pride talking.
+False and foolish pride. That's all.
+Pyramid, yellow.
+- And the...
+- Cube, blue. Sphere, green.
+The blue tile here that says "Zero"
+corresponds with the green cube.
+The yellow tile here that says
+"Six" goes with the cube.
+The green tile here that says "Five"
+goes with the yellow pyramid.
+The green cube goes with
+the blue shaped cube.
+The yellow written sphere goes
+with the green-shaped sphere.
+The blue written pyramid goes
+with the yellow-shaped pyramid.
+"Blue," written in yellow,
+"yellow," in green,
+correspond the visible colors and
+shapes rather than the written words
+because the spectral quality of light
+is more objective, so to speak,
+than the written English
+words of those colors.
+- I see.
+- You see? What do you mean, you see?
+You, Nic.
+I see you and I think I'm beginning to
+understand something more about you.
+Understand what?
+The colors, the shapes,
+they have an effect on you.
+I'd say it was an emotional
+effect, wouldn't you?
+I don't care about the shapes and
+colors, they don't mean anything to me.
+They don't mean shit to me! You're the
+one that's infuriating me, you quack!
+"Quack."
+"Quack."
+I wanna see Haley
+and I'm not gonna say another
+word until you let me see her.
+Okay, Nic.
+There's nothing on here.
+She's in a coma, Nic.
+There's nothing that can
+be done for her right now.
+I promise, as soon as she wakes up,
+you'll be the first one to see her.
+Right now we're doing
+everything humanly possible.
+<i>Nic, this place is insane.</i>
+Yeah, I know. Listen.
+You were right.
+This place is run like a clock.
+Listen, I need your help.
+I've been keeping some
+event sequences...
+Nic, it was hard to put
+all this together,
+but, you know, I think
+we're sick, or infected.
+Hey, Jonah, stop thinking
+like that, man. Seriously.
+No, they're trying to keep whatever's
+inside us from metastasizing.
+Jonah, stop. Nothing's
+metastasizing, okay?
+- We're fine. We're gonna be fine.
+- No, I'm not.
+- Just trust me on this.
+- No, my body is not.
+We gotta get out of here.
+Yeah, I know. We will.
+Okay, I've got the
+variables on my keypad.
+Now I need you to take back
+half the sequences, okay?
+- Yeah. I'll help.
+- Okay.
+- But my glasses are messed up, though.
+- Hey, it's gonna be fine.
+It's gonna be fine. Don't
+worry about your glasses.
+Okay, I'm gonna give
+it to you spatially.
+Three v three phone style.
+Okay, you ready?
+- Yeah.
+- Okay.
+Top-middle, middle-middle,
+top-left, bottom-left.
+- 2-5-1-7.
+- You got it?
+Bottom-left first.
+Middle-middle second.
+Top-middle third.
+Top-left last.
+Nic, I'm having a hard
+time handling this.
+They made me drink some
+weird stuff the other day
+and I haven't really been
+able to feel my arms.
+Your arms? What? What do you mean?
+Oh, God!
+- Dude, who is it?
+- I gotta go.
+Jonah, hold on a second.
+Jonah! Jonah!
+Jonah!
+Agitate.
+<i>Everybody outside.</i>
+<i>Recovery team to level 14.
+Subject has breached.</i>
+<i>Subject has escaped.</i>
+Oh, sorry, I was just looking
+for the water fountain.
+<i>Recovery team to level 14.</i>
+<i>Subject has breached. Escaped.</i>
+<i>Can you raise your arm?</i>
+<i>What happened in the hallway?</i>
+Good.
+Still no feeling in your legs?
+What happened to Jonah?
+Look, I know you guys know I
+can talk to him through the vent.
+What the hell did you
+guys do with him?
+Yes, Nic, we have been
+listening to you,
+- but the truth of the matter...
+- The truth of the matter is,
+total Mickey Mouse operation here.
+Antiquated methodologies,
+dinosaurs with government grants.
+A whole facility built during
+the first wave of Big Science
+outdated but allowed to continue
+pretending that you're important.
+- I feel sorry for you. It's pathetic.
+- Nic.
+"The truth of the matter."
+What is the truth
+of the matter here?
+The only thing I know for certain is that
+you don't know what you're dealing with.
+You will be pulled from this shitty little
+shack you call a research facility so fast
+that the only thing relevant
+to be shown for any of this
+is the way it's all exposed,
+wrecked, and forgotten.
+You have no idea!
+You have no clue! Do you?
+Have any clue how fast dumb,
+lost little kids like me,
+Jonah or Nomad could
+ruin a place like this?
+Have it come to a grinding halt
+like the stone wheel it is?
+You're clueless law in
+the Wild West, Damon.
+You're a relic protecting
+ruins. You're pathetic.
+The truth of the matter is, I'm the
+only one with any sense around here.
+Your friend Jonah...
+was never here, Nic.
+- We never recovered him.
+- Bullshit!
+I've been talking to him through
+the vent this whole time.
+Have you really?
+Through your vent, Nic?
+Three, four, five, six, seven...
+Shit.
+Shit!
+God damn it!
+Nic.
+Hey.
+How are you feeling?
+Better.
+I had a wonderful dream.
+Oh, yeah?
+You, um...
+You...
+You won your regionals.
+Hay, wake up. Wake up.
+Haley.
+Stop it, get off of me!
+Get off of me!
+What the hell are you doing? Let go
+of me! Haley! Haley, wake up!
+Hey, let go of me! Stop it! What
+the hell do you think you're doing?
+Haley, wake up! Haley! Wake up!
+Holy... Holy...
+No! What the hell?
+Damon!
+<i>What did they do to my legs?</i>
+Nic, we are going to
+need you to calm down.
+<i>Now you understand why we've
+been so interested in you.</i>
+<i>As you can see, your
+circumstances are very peculiar.</i>
+And believe me, we didn't
+want to shock you with this.
+I'm sure by now you can appreciate
+where we're coming from.
+<i>Now, for your safety and ours,</i>
+I'm going to need you to
+hook yourself up to that IV.
+Right over there.
+Nic.
+I need you...
+to calm down.
+<i>Nic.</i>
+Nic.
+Don't do this.
+Why...
+Why didn't you tell me
+what happened to my legs?
+How could we? We had
+just recovered you.
+Now listen to me.
+It is extremely dangerous
+for you up there.
+I can only safeguard you
+from them down here.
+Safeguard me from who?
+You okay? Can you feel your legs?
+Come on, we gotta move.
+We gotta move.
+You okay?
+- What's happening?
+- Come on, let's go.
+I'm sorry to interrupt, but do you know
+how long it is until the gas station?
+Hmm? Oh, it's just up a ways.
+Okay. Thank you. And
+where are we exactly?
+When our car broke down,
+we kind of got lost.
+That's okay. That happens to a
+lot of people out in these parts.
+Right.
+I always tell people they should
+take comfort in the thought
+that they are always
+watching over us.
+Hmm.
+- Did you hear that?
+- Hear what?
+Listen, with your
+mouth open, like this.
+Excuse me?
+Their horns are watching over us.
+- I'm sorry. Who's watching us?
+- God's little angels.
+Who else?
+Thanks again for the ride.
+You have the rest
+of the day nicely.
+Just push from the inside out.
+Bye.
+- Bye.
+- Bye.
+- Inside out, don't forget.
+- Okay, thanks.
+I'm gonna go use the phone,
+okay? I'm gonna get us help.
+Stay here. Don't move.
+Haley! Haley, sit down. Sit down.
+I'm serious, okay?
+I'm serious. Don't move.
+- I'm gonna get us out of here, okay?
+- Yeah, okay.
+<i>The network is
+currently unavailable.</i>
+<i>Please try again later.</i>
+<i>The network is
+currently unavailable.</i>
+<i>Please try again later.</i>
+<i>The two subjects, considered
+possibly contagious,</i>
+<i>have escaped from a
+medical research facility.</i>
+<i>Nicholas Eastman and Haley Peterson</i>
+<i>are believed to be traveling on
+foot and should not be approached.</i>
+<i>Please alert your local
+authorities. Thank you.</i>
+<i>Now we'll return to your
+regularly scheduled programming.</i>
+Haley!
+Hey!
+Hey!
+Hey!
+Haley!
+- Stop the truck!
+- Christ. What the hell are you doing?
+Get back! You get back now!
+Stop the truck! Stop it!
+- Get off my truck!
+- Haley! Stop the truck!
+- Haley!
+- Get off the goddamn truck!
+- Get away!
+- Haley!
+- Stop!
+- What is wrong with you?
+Boy, what's going on with your leg?
+Come on.
+You won't get far.
+Nic.
+Nic, what happened to your legs?
+Haley, I already explained to you.
+Are you feeling okay?
+Yeah.
+Yeah, I'm okay.
+We're gonna be fine. Just...
+Just try to relax.
+Oh, shit.
+Is something wrong, Officer?
+Is there some kind of trouble?
+No trouble at all, ma'am.
+No trouble at all.
+Please.
+Will you accompany me?
+Certainly.
+It doesn't make any sense.
+Where's the rest of the road?
+<i>Mirabelle, have you had contact
+with any strangers lately?</i>
+Oh, yes.
+We talked about... so
+many wonderful things.
+But where did you
+take them, Mirabelle?
+What was your proximity to them?
+It is so easy to find.
+<i>Always such a nice bit of color
+against the dark nights.</i>
+<i>Dark nights, dark nights.</i>
+Dark nights, dark nights.
+Dark nights, nights...
+We could have a picnic.
+A picnic.
+<i>A picnic. Have a picnic.</i>
+<i>In a...</i>
+In a...
+<i>In a...</i>
+<i>On a...</i>
+<i>On a...</i>
+<i>We're coming to get you.</i>
+Is that the same canyon?
+I don't know. I thought we
+already passed it. Before.
+Maybe we circled back?
+Yeah, maybe. I don't know.
+It looks abandoned.
+What are you looking for?
+A gun, like, a cell phone or
+a map or something in here.
+Do you wanna wear that?
+Come on, let's check it out.
+<i>The network is
+currently unavailable.</i>
+Haley, did you find anything?
+Haley?
+Hey.
+Yeah, I found a map, but there's
+not much information on it.
+"You are here."
+But we can't be. We
+drove down, right?
+Isn't that the same gorge
+we just came from?
+Then that town, Good Springs,
+should be down here, right?
+I guess.
+I don't get it.
+What do you think that sound is?
+I don't hear anything, Hay.
+What sound?
+There.
+I think we should
+stay here tonight.
+Is this my fault?
+What? No.
+If anything, it's my fault.
+I was the one who
+wanted to follow Nomad.
+I don't remember.
+Do they hurt?
+It's okay.
+So wide.
+I hope we can get across it.
+Haley. Hey, hey.
+We should go inside.
+Jonah!
+Jonah! Jonah!
+No, Jonah! Jonah! It's me!
+Jonah, Jonah, Jonah!
+Hey, it's Nic! Hey! It's Nic!
+Jonah, hey. Hey,
+buddy, it's me. It's me.
+Shit.
+Hello, James. Long time no see.
+"Hello, James."
+I'm trying to locate three individuals.
+Two males, one female.
+All extremely contagious.
+Have you had any contact
+with them, James?
+What are you doing in my house?
+I'm glad to see you're comfortable
+here, but is this your house?
+Belongs to my mommy.
+- My brother sleeps right there.
+- Yes?
+And I sleep right there,
+and I have a little kitty.
+Your brother, your
+mother and your kitty.
+Yeah.
+Can you remember
+their names, James?
+Extraordinary, your will to survive
+fueled by your anger, your
+fear, loneliness, frustration.
+- I admire you.
+- I don't understand.
+It's all right, James.
+<i>I'm sorry I left you guys there.</i>
+You know, I swear someone was helping me,
+though I just can't bring it together.
+- Jonah, that place was...
+- That place!
+This place! It's all the same, Nic.
+It's all the same.
+- What are you talking about?
+- Look at your legs, man.
+Look at your legs. Look at us.
+Look for the numbers.
+For... the tattoo.
+Do you have a tattoo?
+This isn't an ID number?
+It is an ID number,
+but it's just not for you.
+It's an ID for this
+whole area, Nic.
+Two, plus three,
+plus five, plus 41.
+51.
+Area 51, Nic. We're in Area 51.
+- Jonah, I'm not sure...
+- No, look at your legs!
+I'm looking at my legs!
+Watch. Empty.
+Everything is empty.
+They're testing us, Nic.
+We're like little rats.
+Now, did you see the maps?
+What are you talking
+about, the maps?
+What are you telling me, it's
+not real? Of course it's real.
+There's roads, highways,
+cities on these maps.
+They don't exist.
+We're trapped in a
+huge government annex.
+Did you meet any of
+the charming locals?
+Jonah. Jonah, listen to me.
+Listen to me. Haley is
+really, really sick.
+Okay, we have to tell someone.
+We have to tell someone.
+- We have to expose this.
+- I'm sick, too.
+It's hard to explain, but
+there's something in me.
+There's something that is... It's like
+they took something from me, Nic.
+Took what?
+I feel like I'm...
+I feel like I'm full of...
+- Gaps?
+- Yes.
+That's exactly what it is.
+I mean, not exactly, but,
+you know, it's really close.
+- So you know what I mean?
+- Jonah, whose blood is that?
+Is that yours?
+I was trying to get them off.
+I was trying to get them off.
+Hey, buddy.
+We're gonna get somewhere where we can be
+seen by as many people as possible, okay?
+- It's the only way to be safe.
+- They won't come off.
+But how would we do that?
+From what I've seen, there's
+only one road in here.
+Well, that's the one we take.
+Okay, we're good. We're good.
+<i>Stop right there. Hold up.</i>
+Hey, boss. We have
+full clearance to pass.
+<i>Check it out. Let's go.</i>
+<i>- Step out of your vehicle, sir.
+- No. That's okay.</i>
+<i>- It's time to go!
+- Block him down. Block him down.</i>
+Shit! Come on!
+Shit!
+For God's sake, Nic! Stay
+in the truck! Run, Nic!
+Jonah, what are you doing?
+It doesn't fucking type!
+Jonah!
+Jonah!
+Jonah, come on,
+let's go! Get in the truck!
+Come on! Get back in!
+- Jonah, get in the truck!
+- I'm done. I'm done.
+Just get in the truck.
+Nic, keep up.
+Get in the truck.
+You put this shit on the
+accelerator, go when I yell, "Go."
+You go, Nic.
+Okay, Nic?
+I need you to go.
+I need you to go. Please.
+Put your seatbelt on.
+- Nic, I think we should just...
+- Hold on.
+Nic, stop!
+<i>I'm sorry.</i>
+I love you.
+Haley!
+Don't even think about it, Nic.
+You can't reach her.
+<i>On my side.</i>
+Take a look at yourself, Nic.
+The perfect integration
+of human will and...
+alien technology.
+Our finest achievement.
+Nomad?
+Nomad!
+Nomad, yes. I brought you here.
+But remember, Nic, you were the
+one who came looking for me.
+So you might want to ask yourself,
+"Did I find what
+I was looking for?"
+<font color="#80ffff">T
+<font color="#80ffff">Th
+<font color="#80ffff">The
+<font color="#80ffff">The_
+<font color="#80ffff">The_S
+<font color="#80ffff">The_Si
+<font color="#80ffff">The_Sig
+<font color="#80ffff">The_Sign
+<font color="#80ffff">The_Signa
+<font color="#80ffff">The_Signal
+<font color="#80ffff">The_Signal
+<font color="#80ffff">The_Signal
+<font color="#80ffff">The_Signal
+S
+<font color="#80ffff">The_Signal
+Su
+<font color="#80ffff">The_Signal
+Sub
+<font color="#80ffff">The_Signal
+Subt
+<font color="#80ffff">The_Signal
+Subti
+<font color="#80ffff">The_Signal
+Subtit
+<font color="#80ffff">The_Signal
+Subtitl
+<font color="#80ffff">The_Signal
+Subtitle
+<font color="#80ffff">The_Signal
+Subtitle_
+<font color="#80ffff">The_Signal
+Subtitle_C
+<font color="#80ffff">The_Signal
+Subtitle_Cr
+<font color="#80ffff">The_Signal
+Subtitle_Cre
+<font color="#80ffff">The_Signal
+Subtitle_Crea
+<font color="#80ffff">The_Signal
+Subtitle_Creat
+<font color="#80ffff">The_Signal
+Subtitle_Creat_
+<font color="#80ffff">The_Signal
+Subtitle_Creat_B
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+T
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Th
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tha
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Thar
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Thari
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharin
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharind
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_L
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_La
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lak
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakm
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakma
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_J
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Je
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jee
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeew
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewa
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewan
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewant
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewanth
+<font color="#80ffff">The_Signal
+Subtitle_Creat_By
+Tharindu_Lakmal_Jeewantha</font>

@@ -1,0 +1,1658 @@
+<b><font face="Arial Narrow">Start simple.</font></b>
+<b><font face="Arial Narrow">Start with what you know is true.</font></b>
+<b><font face="Arial Narrow">My name is Katniss Everdeen.
+My home is District 12.</font></b>
+<b><font face="Arial Narrow">I was in the Hunger Games. I escaped.</font></b>
+<b><font face="Arial Narrow">Peeta...Peeta was left behind.</font></b>
+<b><font face="Arial Narrow">Miss Everdeen?</font></b>
+<b><font face="Arial Narrow">You can't be in here.</font></b>
+<b><font face="Arial Narrow">I had a nightmare. Just five more minutes.</font></b>
+<b><font face="Arial Narrow">You need to sleep. We can help you sleep.</font></b>
+<b><font face="Arial Narrow">Just five more minutes.</font></b>
+<b><font face="Arial Narrow">No.</font></b>
+<b><font face="Arial Narrow">No, please, don't. It's just five more...</font></b>
+<b><font face="Arial Narrow">Don't touch me! Don't! No!
+No! Get off of me!</font></b>
+<b><font face="Arial Narrow">Finnick.</font></b>
+<b><font face="Arial Narrow">I wanted to go back for Peeta and Johanna,</font></b>
+<b><font face="Arial Narrow">but I, uh...</font></b>
+<b><font face="Arial Narrow">I couldn't move.</font></b>
+<b><font face="Arial Narrow">They have Annie, too. They took her.</font></b>
+<b><font face="Arial Narrow">She's, uh...</font></b>
+<b><font face="Arial Narrow">She's in the Capitol.</font></b>
+<b><font face="Arial Narrow">I wish she was dead.</font></b>
+<b><font face="Arial Narrow">I wish they were all dead and we were, too.</font></b>
+<b><font face="Arial Narrow">Miss Everdeen.</font></b>
+<b><font face="Arial Narrow">Colonel Boggs, District 13's head of security.</font></b>
+<b><font face="Arial Narrow">I know you've been discharged,</font></b>
+<b><font face="Arial Narrow">but President Coin's requested
+to meet with you first.</font></b>
+<b><font face="Arial Narrow">Is there any news?</font></b>
+<b><font face="Arial Narrow">I'm just here to escort you.</font></b>
+<b><font face="Arial Narrow">We were always told there was nothing left of 13.</font></b>
+<b><font face="Arial Narrow">Capitol bombed the surface to rubble.</font></b>
+<b><font face="Arial Narrow">But we're military, so we learned
+to survive down here.</font></b>
+<b><font face="Arial Narrow">Preparing, training.</font></b>
+<b><font face="Arial Narrow">The war never stopped for us.</font></b>
+<b><font face="Arial Narrow">There she is.</font></b>
+<b><font face="Arial Narrow">Our Girl on Fire.</font></b>
+<b><font face="Arial Narrow">Madam President, may I present you
+with the Mockingjay.</font></b>
+<b><font face="Arial Narrow">What an honor it is to meet you.</font></b>
+<b><font face="Arial Narrow">You're a courageous young woman.</font></b>
+<b><font face="Arial Narrow">I know how disorienting this must be.</font></b>
+<b><font face="Arial Narrow">And I can't imagine what it's like to live
+through the atrocities of those Games.</font></b>
+<b><font face="Arial Narrow">Katniss,</font></b>
+<b><font face="Arial Narrow">President Alma Coin.</font></b>
+<b><font face="Arial Narrow">Please know how welcome you are.</font></b>
+<b><font face="Arial Narrow">I hope you'll find some comfort with us.</font></b>
+<b><font face="Arial Narrow">We've known loss in 13, too.</font></b>
+<b><font face="Arial Narrow">This is history. Right here at this table.</font></b>
+<b><font face="Arial Narrow">I apologize.</font></b>
+<b><font face="Arial Narrow">I wish you had more time to recover, but
+unfortunately, we don't have that luxury.</font></b>
+<b><font face="Arial Narrow">Please, have a seat.</font></b>
+<b><font face="Arial Narrow">Are you aware of what's happened?</font></b>
+<b><font face="Arial Narrow">When you fired your arrow at the force field,</font></b>
+<b><font face="Arial Narrow">you electrified the nation.</font></b>
+<b><font face="Arial Narrow">There have been riots and uprisings
+and strikes in seven districts.</font></b>
+<b><font face="Arial Narrow">We believe that if we keep this energy going,
+we can unify the districts against the Capitol.</font></b>
+<b><font face="Arial Narrow">But if we don't, if we let it dissipate,</font></b>
+<b><font face="Arial Narrow">we could be waiting another 75 years
+for this opportunity.</font></b>
+<b><font face="Arial Narrow">Everyone in 13 is ready for this.</font></b>
+<b><font face="Arial Narrow">What about Peeta? Is he alive?</font></b>
+<b><font face="Arial Narrow">I don't know. And I wish that I did.</font></b>
+<b><font face="Arial Narrow">But there's no way for me to contact
+my operatives inside the Capitol.</font></b>
+<b><font face="Arial Narrow">The Capitol has always suppressed communication
+between the districts.</font></b>
+<b><font face="Arial Narrow">But I know their system very well.</font></b>
+<b><font face="Arial Narrow">I managed to break through.</font></b>
+<b><font face="Arial Narrow">All we need now is the perfect message.</font></b>
+<b><font face="Arial Narrow">Katniss, here's what we need to do.</font></b>
+<b><font face="Arial Narrow">We need to show them that the Mockingjay's
+alive and well</font></b>
+<b><font face="Arial Narrow">and willing to stand up
+and join this fight.</font></b>
+<b><font face="Arial Narrow">'Cause we need every district
+to stand up to this Capitol.</font></b>
+<b><font face="Arial Narrow">The way you did.</font></b>
+<b><font face="Arial Narrow">So we're gonna shoot a series
+of propaganda clips,</font></b>
+<b><font face="Arial Narrow">propos, I like to call them,</font></b>
+<b><font face="Arial Narrow">on the Mockingjay.</font></b>
+<b><font face="Arial Narrow">Spreads the word</font></b>
+<b><font face="Arial Narrow">that we're gonna stoke the fire
+of this rebellion.</font></b>
+<b><font face="Arial Narrow">The fire that the Mockingjay started.</font></b>
+<b><font face="Arial Narrow">You left him there.</font></b>
+<b><font face="Arial Narrow">- You left Peeta in that arena to die.
+- Katniss, there are so many...</font></b>
+<b><font face="Arial Narrow">Peeta was the one who was supposed to live.</font></b>
+<b><font face="Arial Narrow">Miss Everdeen.</font></b>
+<b><font face="Arial Narrow">This revolution is about everyone.</font></b>
+<b><font face="Arial Narrow">It's about all of us.</font></b>
+<b><font face="Arial Narrow">And we need a voice.</font></b>
+<b><font face="Arial Narrow">Then you should've saved Peeta.</font></b>
+<b><font face="Arial Narrow">Maybe you should have rescued the boy instead.</font></b>
+<b><font face="Arial Narrow">Oh, no.</font></b>
+<b><font face="Arial Narrow">No, listen to me. No one else can do this but her.</font></b>
+<b><font face="Arial Narrow">This is not the girl you described.</font></b>
+<b><font face="Arial Narrow">Obviously, we need to make it personal.</font></b>
+<b><font face="Arial Narrow">Remind her who the real enemy is.</font></b>
+<b><font face="Arial Narrow">She knows who the enemy is.
+That's not the issue.</font></b>
+<b><font face="Arial Narrow">Unless she's forgotten.</font></b>
+<b><font face="Arial Narrow">There's explaining and there's showing.</font></b>
+<b><font face="Arial Narrow">Let her see what the Capitol did to 12.</font></b>
+<b><font face="Arial Narrow">She can't handle it. The Games destroyed her.</font></b>
+<b><font face="Arial Narrow">This is the only choice you have.</font></b>
+<b><font face="Arial Narrow">People don't always show up the way
+you want them to, Madam President.</font></b>
+<b><font face="Arial Narrow">But that anger, that anger-driven defiance,
+that's what we want. And we can redirect it.</font></b>
+<b><font face="Arial Narrow">We need to unite these people out there</font></b>
+<b><font face="Arial Narrow">that have been doing nothing
+but killing each other</font></b>
+<b><font face="Arial Narrow">in an arena for years.</font></b>
+<b><font face="Arial Narrow">We have to have a lightning rod.</font></b>
+<b><font face="Arial Narrow">They'll follow her. She's the face
+of the revolution.</font></b>
+<b><font face="Arial Narrow">Let her see it. Let her go home.</font></b>
+<b><font face="Arial Narrow">Send her.</font></b>
+<b><font face="Arial Narrow">I can't believe you're going through with this.</font></b>
+<b><font face="Arial Narrow">You can say "no".</font></b>
+<b><font face="Arial Narrow">I need to see it for myself.</font></b>
+<b><font face="Arial Narrow">This way.</font></b>
+<b><font face="Arial Narrow">13 swept everything, top to bottom</font></b>
+<b><font face="Arial Narrow">so you'd be safe.</font></b>
+<b><font face="Arial Narrow">You sure you don't want me to go with you?</font></b>
+<b><font face="Arial Narrow">Yeah. I'm sure.</font></b>
+<b><font face="Arial Narrow">We'll have our eyes on you from above.</font></b>
+<b><font face="Arial Narrow">Figures.</font></b>
+<b><font face="Arial Narrow">Hey!</font></b>
+<b><font face="Arial Narrow">Come on.</font></b>
+<b><font face="Arial Narrow">Don't you wanna see Prim?</font></b>
+<b><font face="Arial Narrow">There you go. You're breakin' my heart.</font></b>
+<b><font face="Arial Narrow">Shhh.</font></b>
+<b><font face="Arial Narrow">Egeria!</font></b>
+<b><font face="Arial Narrow">We need to fix these lines.</font></b>
+<b><font face="Arial Narrow">I won't say "rebels".</font></b>
+<b><font face="Arial Narrow">These are senseless acts of defiance.</font></b>
+<b><font face="Arial Narrow">And I won't legitimize them.</font></b>
+<b><font face="Arial Narrow">We'll call them "criminals".</font></b>
+<b><font face="Arial Narrow">Hmm.</font></b>
+<b><font face="Arial Narrow">"Radicals".</font></b>
+<b><font face="Arial Narrow">Hmm.</font></b>
+<b><font face="Arial Narrow">Otherwise we're breaking my oldest rule.</font></b>
+<b><font face="Arial Narrow">Never let them see you bleed.</font></b>
+<b><font face="Arial Narrow">Citizens,</font></b>
+<b><font face="Arial Narrow">tonight I address all of Panem as one.</font></b>
+<b><font face="Arial Narrow">Since the Dark Days,</font></b>
+<b><font face="Arial Narrow">Panem has had an unprecedented era of peace.</font></b>
+<b><font face="Arial Narrow">It is a peace built upon cooperation.</font></b>
+<b><font face="Arial Narrow">And a respect for law and order.</font></b>
+<b><font face="Arial Narrow">In the past weeks, you have heard
+of sporadic violence</font></b>
+<b><font face="Arial Narrow">following the actions of a few radicals
+in the Quarter Quell.</font></b>
+<b><font face="Arial Narrow">Those who choose this destructive path,</font></b>
+<b><font face="Arial Narrow">your actions are based
+on a misunderstanding</font></b>
+<b><font face="Arial Narrow">of how we have survived. Together.</font></b>
+<b><font face="Arial Narrow">It is a contract.</font></b>
+<b><font face="Arial Narrow">Each district supplies the Capitol.
+Like blood to a heart.</font></b>
+<b><font face="Arial Narrow">In return, the Capitol provides
+order and security.</font></b>
+<b><font face="Arial Narrow">To refuse work</font></b>
+<b><font face="Arial Narrow">is to put the entire system in danger.</font></b>
+<b><font face="Arial Narrow">The Capitol is the beating heart of Panem.</font></b>
+<b><font face="Arial Narrow">Nothing can survive without a heart.</font></b>
+<b><font face="Arial Narrow">The criminals that kneel before you use symbols
+for the purpose of sedition.</font></b>
+<b><font face="Arial Narrow">Which is why all images of the Mockingjay
+are now forbidden.</font></b>
+<b><font face="Arial Narrow">Possessing them will be considered treason.</font></b>
+<b><font face="Arial Narrow">Punishable by death.</font></b>
+<b><font face="Arial Narrow">Justice shall be served swiftly.</font></b>
+<b><font face="Arial Narrow">Order shall be restored.</font></b>
+<b><font face="Arial Narrow">To those who ignore the warnings
+of history...</font></b>
+<b><font face="Arial Narrow">prepare to pay the ultimate price.</font></b>
+<b><font face="Arial Narrow">It's okay.</font></b>
+<b><font face="Arial Narrow">We're okay.</font></b>
+<b><font face="Arial Narrow">We're all here now.</font></b>
+<b><font face="Arial Narrow">Buttercup!</font></b>
+<b><font face="Arial Narrow">I smuggled him in.</font></b>
+<b><font face="Arial Narrow">I got Dad.</font></b>
+<b><font face="Arial Narrow">And I got some of your herbs
+from the kitchen.</font></b>
+<b><font face="Arial Narrow">They have strict rules.</font></b>
+<b><font face="Arial Narrow">I don't know what they'll do
+if they find him here.</font></b>
+<b><font face="Arial Narrow">You should try to eat something.</font></b>
+<b><font face="Arial Narrow">Hello. Good evening.</font></b>
+<b><font face="Arial Narrow">And a big welcome to all in Panem.</font></b>
+<b><font face="Arial Narrow">I'm Caesar Flickerman.</font></b>
+<b><font face="Arial Narrow">And whoever you are, whatever
+it is you're doing,</font></b>
+<b><font face="Arial Narrow">if you're working, put down your work.</font></b>
+<b><font face="Arial Narrow">If you're having dinner,
+stop having dinner.</font></b>
+<b><font face="Arial Narrow">Because you are going to want
+to witness this tonight.</font></b>
+<b><font face="Arial Narrow">There has been rampant speculation</font></b>
+<b><font face="Arial Narrow">about what really happened
+in the Quarter Quell.</font></b>
+<b><font face="Arial Narrow">And here to shed a little light on the subject for us
+is a very special guest.</font></b>
+<b><font face="Arial Narrow">Please welcome Mr. Peeta Mellark.</font></b>
+<b><font face="Arial Narrow">Peeta, a lot of people feel as though
+they are in the dark.</font></b>
+<b><font face="Arial Narrow">Yeah, I know how they feel.</font></b>
+<b><font face="Arial Narrow">Now, so set the stage for us.</font></b>
+<b><font face="Arial Narrow">Talk us through what really happened
+on that final and controversial night.</font></b>
+<b><font face="Arial Narrow">Well, first off, you have to understand
+that when you're in the Games</font></b>
+<b><font face="Arial Narrow">you only get one wish. It's very costly.</font></b>
+<b><font face="Arial Narrow">You're alive.</font></b>
+<b><font face="Arial Narrow">It costs your life.</font></b>
+<b><font face="Arial Narrow">I think it costs more than your life.</font></b>
+<b><font face="Arial Narrow">How do you mean? What's more than your life?</font></b>
+<b><font face="Arial Narrow">I mean to murder innocent people,
+that costs everything that you are.</font></b>
+<b><font face="Arial Narrow">Yes.</font></b>
+<b><font face="Arial Narrow">So you hold on to that one wish.</font></b>
+<b><font face="Arial Narrow">And that night my wish
+was to save Katniss.</font></b>
+<b><font face="Arial Narrow">Yes.</font></b>
+<b><font face="Arial Narrow">I should've just run off with her earlier
+in the day like she'd wanted.</font></b>
+<b><font face="Arial Narrow">But you didn't.</font></b>
+<b><font face="Arial Narrow">Why? Were you caught up in Beetee's plan?</font></b>
+<b><font face="Arial Narrow">No, I was caught up trying to play allies.</font></b>
+<b><font face="Arial Narrow">And then they separated us</font></b>
+<b><font face="Arial Narrow">and that's when I lost her.</font></b>
+<b><font face="Arial Narrow">And then the lightning hit</font></b>
+<b><font face="Arial Narrow">and the whole force field around the arena
+just blew out.</font></b>
+<b><font face="Arial Narrow">Yes, but, Peeta,</font></b>
+<b><font face="Arial Narrow">Katniss is the one who blew it out.</font></b>
+<b><font face="Arial Narrow">No.</font></b>
+<b><font face="Arial Narrow">You saw the footage.</font></b>
+<b><font face="Arial Narrow">No, she didn't know what she was doing.</font></b>
+<b><font face="Arial Narrow">Neither of us knew</font></b>
+<b><font face="Arial Narrow">there was a bigger plan going on.
+We had no idea.</font></b>
+<b><font face="Arial Narrow">- You had no "idea"?
+- No.</font></b>
+<b><font face="Arial Narrow">Alright. Well, Peeta, there are many who
+find this suspicious, to say the least.</font></b>
+<b><font face="Arial Narrow">Mm-hmm.</font></b>
+<b><font face="Arial Narrow">It seems as though she was part
+of a rebel plan.</font></b>
+<b><font face="Arial Narrow">Do you think it was part of her plan
+to be almost killed by Johanna?</font></b>
+<b><font face="Arial Narrow">Or part of the plan to be paralyzed
+by lightning?</font></b>
+<b><font face="Arial Narrow">No, we were not part of any rebel plan.
+We had no idea what was going on.</font></b>
+<b><font face="Arial Narrow">Alright. I believe you, Peeta Mellark.
+Thank you.</font></b>
+<b><font face="Arial Narrow">Yeah.</font></b>
+<b><font face="Arial Narrow">And I was going to ask you
+to speak about the unrest</font></b>
+<b><font face="Arial Narrow">but I think you might be too upset.</font></b>
+<b><font face="Arial Narrow">No, I can.</font></b>
+<b><font face="Arial Narrow">- Are you sure?
+- Yeah, absolutely.</font></b>
+<b><font face="Arial Narrow">Thank you.</font></b>
+<b><font face="Arial Narrow">I want everyone who's watching to stop</font></b>
+<b><font face="Arial Narrow">and to think about what
+a civil war could mean.</font></b>
+<b><font face="Arial Narrow">We almost went extinct once before.</font></b>
+<b><font face="Arial Narrow">And now our numbers are even fewer.</font></b>
+<b><font face="Arial Narrow">He's one of them.</font></b>
+<b><font face="Arial Narrow">Is this really what we wanna do?</font></b>
+<b><font face="Arial Narrow">He's a traitor.</font></b>
+<b><font face="Arial Narrow">Kill ourselves off?</font></b>
+<b><font face="Arial Narrow">Killing is not the answer.</font></b>
+<b><font face="Arial Narrow">I can't believe he's doing this.</font></b>
+<b><font face="Arial Narrow">Everyone needs to lay down
+their weapons immediately.</font></b>
+<b><font face="Arial Narrow">Traitor!</font></b>
+<b><font face="Arial Narrow">He's not one of us!</font></b>
+<b><font face="Arial Narrow">This is treason!</font></b>
+<b><font face="Arial Narrow">Are you calling for a ceasefire?</font></b>
+<b><font face="Arial Narrow">Yeah. I am.</font></b>
+<b><font face="Arial Narrow">You're a puppet!</font></b>
+<b><font face="Arial Narrow">Hang him!</font></b>
+<b><font face="Arial Narrow">I want everyone to stop
+the senseless violence.</font></b>
+<b><font face="Arial Narrow">This is not the path to change.</font></b>
+<b><font face="Arial Narrow">Traitor!</font></b>
+<b><font face="Arial Narrow">It's not the path to justice.</font></b>
+<b><font face="Arial Narrow">There can't be a ceasefire.</font></b>
+<b><font face="Arial Narrow">Not after everything Snow's done.</font></b>
+<b><font face="Arial Narrow">He could have done a lot of damage tonight.</font></b>
+<b><font face="Arial Narrow">Most districts, people are still
+too afraid to join.</font></b>
+<b><font face="Arial Narrow">They need the courage.</font></b>
+<b><font face="Arial Narrow">Why do you think he said that?</font></b>
+<b><font face="Arial Narrow">I don't know. Maybe he was forced.</font></b>
+<b><font face="Arial Narrow">He didn't look that bad.</font></b>
+<b><font face="Arial Narrow">Maybe he made some kind of deal
+to protect you.</font></b>
+<b><font face="Arial Narrow">He's still playing the game.</font></b>
+<b><font face="Arial Narrow">No! No! No!</font></b>
+<b><font face="Arial Narrow">I'm sorry. It's just a nightmare.</font></b>
+<b><font face="Arial Narrow">That's okay. I get 'em, too.</font></b>
+<b><font face="Arial Narrow">Peeta,</font></b>
+<b><font face="Arial Narrow">will you stay with me?</font></b>
+<b><font face="Arial Narrow">Yeah.</font></b>
+<b><font face="Arial Narrow">Always.</font></b>
+<b><font face="Arial Narrow">Hey.</font></b>
+<b><font face="Arial Narrow">Can't sleep?</font></b>
+<b><font face="Arial Narrow">Tell me what's happening.</font></b>
+<b><font face="Arial Narrow">I'm good at keeping secrets.</font></b>
+<b><font face="Arial Narrow">Even from Mom.</font></b>
+<b><font face="Arial Narrow">No one hates the Capitol more than me.</font></b>
+<b><font face="Arial Narrow">And I wanna help. But I just keep thinking.</font></b>
+<b><font face="Arial Narrow">Even if we win this war,
+what happens to Peeta?</font></b>
+<b><font face="Arial Narrow">I know he's not safe there, but
+he's definitely not safe here.</font></b>
+<b><font face="Arial Narrow">I don't think you know how important
+you are to them.</font></b>
+<b><font face="Arial Narrow">If you want something,
+you just have to ask.</font></b>
+<b><font face="Arial Narrow">You could demand almost anything.</font></b>
+<b><font face="Arial Narrow">They'd have to agree to it.</font></b>
+<b><font face="Arial Narrow">I should wake you up more often, Little Duck.</font></b>
+<b><font face="Arial Narrow">Get some sleep now.</font></b>
+<b><font face="Arial Narrow">You, too.</font></b>
+<b><font face="Arial Narrow">Thank you for agreeing to meet with me.</font></b>
+<b><font face="Arial Narrow">I've decided I'll be your Mockingjay.</font></b>
+<b><font face="Arial Narrow">But I have some conditions.</font></b>
+<b><font face="Arial Narrow">Peeta and the other Tributes, Johanna Mason
+and Annie Cresta,</font></b>
+<b><font face="Arial Narrow">will be rescued at the earliest opportunity.</font></b>
+<b><font face="Arial Narrow">If and when Peeta is liberated,</font></b>
+<b><font face="Arial Narrow">he will receive a full and unconditional pardon.</font></b>
+<b><font face="Arial Narrow">No punishment will be inflicted.</font></b>
+<b><font face="Arial Narrow">And the same goes for the other Tributes.</font></b>
+<b><font face="Arial Narrow">No.</font></b>
+<b><font face="Arial Narrow">It's not their fault you abandoned them
+in the arena.</font></b>
+<b><font face="Arial Narrow">They're doing and saying whatever
+they can to survive.</font></b>
+<b><font face="Arial Narrow">Individuals don't make demands in 13.</font></b>
+<b><font face="Arial Narrow">There will be a tribunal.
+And a fair judgment.</font></b>
+<b><font face="Arial Narrow">Thank you.</font></b>
+<b><font face="Arial Narrow">The Victors will be granted immunity.</font></b>
+<b><font face="Arial Narrow">And you will announce that in front
+of the entire population of 13.</font></b>
+<b><font face="Arial Narrow">You will hold yourself and your
+government responsible,</font></b>
+<b><font face="Arial Narrow">or you will find another Mockingjay.</font></b>
+<b><font face="Arial Narrow">That's it. That's her. Right there.</font></b>
+<b><font face="Arial Narrow">Isn't that who I promised you?</font></b>
+<b><font face="Arial Narrow">She wears the costume.</font></b>
+<b><font face="Arial Narrow">Gunfire in the background.
+A hint of smoke.</font></b>
+<b><font face="Arial Narrow">Our Mockingjay.</font></b>
+<b><font face="Arial Narrow">Madam President, we're losing ground,
+because the people are losing heart.</font></b>
+<b><font face="Arial Narrow">This is worth the risk.</font></b>
+<b><font face="Arial Narrow">She's worth the risk.</font></b>
+<b><font face="Arial Narrow">Pardons, tribunals. Power of the people.</font></b>
+<b><font face="Arial Narrow">It can all be the bedrock
+of the new Panem, but,</font></b>
+<b><font face="Arial Narrow">in wartime I think even the noblest of causes
+can be bent a little bit. Right?</font></b>
+<b><font face="Arial Narrow">Do you have any other conditions?</font></b>
+<b><font face="Arial Narrow">My sister gets to keep her cat.</font></b>
+<b><font face="Arial Narrow">Go away.</font></b>
+<b><font face="Arial Narrow">Is it visiting hours again?</font></b>
+<b><font face="Arial Narrow">Miss Trinket,</font></b>
+<b><font face="Arial Narrow">you see this door.</font></b>
+<b><font face="Arial Narrow">It opens. From the inside.</font></b>
+<b><font face="Arial Narrow">I've told you, these are the standard
+living quarters. Same as everyone.</font></b>
+<b><font face="Arial Narrow">You're not a prisoner. You're
+free to join the rest of 13.</font></b>
+<b><font face="Arial Narrow">Not looking like this. Thank you very much.</font></b>
+<b><font face="Arial Narrow">We have a bigger issue than wardrobe,
+Miss Trinket.</font></b>
+<b><font face="Arial Narrow">Katniss has agreed to be the Mockingjay.</font></b>
+<b><font face="Arial Narrow">That poor thing.</font></b>
+<b><font face="Arial Narrow">And your Girl on Fire is burnt out.</font></b>
+<b><font face="Arial Narrow">I need you to join this team now.</font></b>
+<b><font face="Arial Narrow">I need someone she trusts.</font></b>
+<b><font face="Arial Narrow">What about Haymitch?</font></b>
+<b><font face="Arial Narrow">He's drying out in some facility a mile down.</font></b>
+<b><font face="Arial Narrow">Aiding rebels is not really my forte.</font></b>
+<b><font face="Arial Narrow">Miss Trinket, your days
+in the Capitol are over,</font></b>
+<b><font face="Arial Narrow">no matter what happens here.</font></b>
+<b><font face="Arial Narrow">If you wanna play a prisoner of war, fine.</font></b>
+<b><font face="Arial Narrow">Stay here and rot.</font></b>
+<b><font face="Arial Narrow">I'll find someone else to be
+the Mockingjay's escort.</font></b>
+<b><font face="Arial Narrow">Who?</font></b>
+<b><font face="Arial Narrow">Anyone can be replaced.</font></b>
+<b><font face="Arial Narrow">Not your Mockingjay.</font></b>
+<b><font face="Arial Narrow">There isn't a soul in this dungeon who
+knows the first thing about Katniss.</font></b>
+<b><font face="Arial Narrow">You honestly believe one
+of these cave dwellers</font></b>
+<b><font face="Arial Narrow">is going to take my place?</font></b>
+<b><font face="Arial Narrow">No.</font></b>
+<b><font face="Arial Narrow">Good afternoon.</font></b>
+<b><font face="Arial Narrow">Thank you for interrupting your schedules.</font></b>
+<b><font face="Arial Narrow">They have already been adjusted
+to compensate for the delay.</font></b>
+<b><font face="Arial Narrow">I hardly ever see children around here.</font></b>
+<b><font face="Arial Narrow">Please, check in with your unit supervisors
+when you resume work.</font></b>
+<b><font face="Arial Narrow">A lot of them were lost in an epidemic
+a few years ago.</font></b>
+<b><font face="Arial Narrow">I have an announcement
+for the citizens of 13.</font></b>
+<b><font face="Arial Narrow">Coin lost her family, too.</font></b>
+<b><font face="Arial Narrow">Daughter and a husband.</font></b>
+<b><font face="Arial Narrow">And our welcome guests from 12.</font></b>
+<b><font face="Arial Narrow">Katniss Everdeen has consented
+to be the face of our cause</font></b>
+<b><font face="Arial Narrow">to help unite the districts
+against the Capitol.</font></b>
+<b><font face="Arial Narrow">In exchange, I have promised
+several concessions.</font></b>
+<b><font face="Arial Narrow">First, we'll assess all opportunities
+for the extraction of the Victors</font></b>
+<b><font face="Arial Narrow">held hostage in the Capitol.</font></b>
+<b><font face="Arial Narrow">Peeta Mellark...</font></b>
+<b><font face="Arial Narrow">Johanna Mason...</font></b>
+<b><font face="Arial Narrow">Finnick, I made the deal for Annie, too.</font></b>
+<b><font face="Arial Narrow">And Annie Cresta.</font></b>
+<b><font face="Arial Narrow">Once freed,</font></b>
+<b><font face="Arial Narrow">they will be granted full pardon
+for any and all crimes</font></b>
+<b><font face="Arial Narrow">committed against the rebel cause.</font></b>
+<b><font face="Arial Narrow">Good.</font></b>
+<b><font face="Arial Narrow">That's good, Katniss.</font></b>
+<b><font face="Arial Narrow">If Katniss Everdeen fails to fulfill
+her duties, the deal will be off.</font></b>
+<b><font face="Arial Narrow">Thank you for your attention.</font></b>
+<b><font face="Arial Narrow">Please, resume your daily schedules.</font></b>
+<b><font face="Arial Narrow">Madam President.</font></b>
+<b><font face="Arial Narrow">Effie Trinket.</font></b>
+<b><font face="Arial Narrow">Welcome to 13.</font></b>
+<b><font face="Arial Narrow">- Madam President, may I say you are so very concise.
+- Hmm.</font></b>
+<b><font face="Arial Narrow">You believe that there's more to be said?</font></b>
+<b><font face="Arial Narrow">May I speak freely?</font></b>
+<b><font face="Arial Narrow">You don't appear to do anything else.</font></b>
+<b><font face="Arial Narrow">I'm only talking about salesmanship.</font></b>
+<b><font face="Arial Narrow">The thing with revolutions,
+they're a tender flame.</font></b>
+<b><font face="Arial Narrow">They need to be nurtured
+with a little kindling</font></b>
+<b><font face="Arial Narrow">and warmth.</font></b>
+<b><font face="Arial Narrow">Bit of oxygen.</font></b>
+<b><font face="Arial Narrow">Oxygen.</font></b>
+<b><font face="Arial Narrow">One sure way to put it out
+is to smother it.</font></b>
+<b><font face="Arial Narrow">Or to use up all the air in the room.</font></b>
+<b><font face="Arial Narrow">Excuse me.</font></b>
+<b><font face="Arial Narrow">You know what could use a revolution?
+That hair.</font></b>
+<b><font face="Arial Narrow">Effie?</font></b>
+<b><font face="Arial Narrow">Oh!</font></b>
+<b><font face="Arial Narrow">What are you doing here?</font></b>
+<b><font face="Arial Narrow">I'm a political refugee.</font></b>
+<b><font face="Arial Narrow">Plutarch rescued you?</font></b>
+<b><font face="Arial Narrow">Rescued, yes, that's what he calls it.</font></b>
+<b><font face="Arial Narrow">You and I were both in the dark.</font></b>
+<b><font face="Arial Narrow">Now I'm condemned to this life of jumpsuits.</font></b>
+<b><font face="Arial Narrow">It is wonderful to see you again.</font></b>
+<b><font face="Arial Narrow">Can you believe this place?</font></b>
+<b><font face="Arial Narrow">I miss coffee.</font></b>
+<b><font face="Arial Narrow">I never knew anyplace could be so strict.</font></b>
+<b><font face="Arial Narrow">I mean, I thought at least in the higher ranks
+there'd be some side action.</font></b>
+<b><font face="Arial Narrow">I miss my wigs.</font></b>
+<b><font face="Arial Narrow">Luckily, I remembered that this was all
+the rage when I was coming up.</font></b>
+<b><font face="Arial Narrow">You know, everything old
+can be made new again.</font></b>
+<b><font face="Arial Narrow">Like democracy.</font></b>
+<b><font face="Arial Narrow">Which brings me to this.</font></b>
+<b><font face="Arial Narrow">Cinna.</font></b>
+<b><font face="Arial Narrow">He's dead, isn't he?</font></b>
+<b><font face="Arial Narrow">Yes, dear.</font></b>
+<b><font face="Arial Narrow">He made Plutarch promise
+not to show you this</font></b>
+<b><font face="Arial Narrow">until you'd decided to be the Mockingjay
+on your own.</font></b>
+<b><font face="Arial Narrow">He knew the risks. As we all do.</font></b>
+<b><font face="Arial Narrow">He believed in this revolution.</font></b>
+<b><font face="Arial Narrow">He believed in you.</font></b>
+<b><font face="Arial Narrow">They're beautiful.</font></b>
+<b><font face="Arial Narrow">They have it.</font></b>
+<b><font face="Arial Narrow">They have the Mockingjay outfit.</font></b>
+<b><font face="Arial Narrow">There's not much of a prep team here in 13,</font></b>
+<b><font face="Arial Narrow">but we will make you</font></b>
+<b><font face="Arial Narrow">the best-dressed rebel in history.</font></b>
+<b><font face="Arial Narrow">Okay.</font></b>
+<b><font face="Arial Narrow">Bring up the lights.</font></b>
+<b><font face="Arial Narrow">Cinna's final touch.</font></b>
+<b><font face="Arial Narrow">Everyone's either gonna
+wanna kiss you, kill you,</font></b>
+<b><font face="Arial Narrow">or be you.</font></b>
+<b><font face="Arial Narrow">Perfect.</font></b>
+<b><font face="Arial Narrow">Absolutely perfect.</font></b>
+<b><font face="Arial Narrow">Okay. Let's bring up the setting.</font></b>
+<b><font face="Arial Narrow">Huh.</font></b>
+<b><font face="Arial Narrow">Little Wind.</font></b>
+<b><font face="Arial Narrow">Okay, Katniss, we're gonna start
+you down on one knee.</font></b>
+<b><font face="Arial Narrow">- Okay.
+- And as you rise up,</font></b>
+<b><font face="Arial Narrow">you're gonna hold your flag in the air
+and deliver your line.</font></b>
+<b><font face="Arial Narrow">And remember you've just stormed
+the outskirts of the Capitol</font></b>
+<b><font face="Arial Narrow">arm-in-arm with your brothers and sisters.</font></b>
+<b><font face="Arial Narrow">Okay.</font></b>
+<b><font face="Arial Narrow">Whenever you're ready.</font></b>
+<b><font face="Arial Narrow">People of Panem, we fight, we dare, we...</font></b>
+<b><font face="Arial Narrow">Does she know the line?</font></b>
+<b><font face="Arial Narrow">- I know it. I got it. I'm sorry.
+- Okay, alright.</font></b>
+<b><font face="Arial Narrow">- Let's do it again.
+- She's warming up.</font></b>
+<b><font face="Arial Narrow">Alright. With energy. Go.</font></b>
+<b><font face="Arial Narrow">People of Panem, we fight!</font></b>
+<b><font face="Arial Narrow">We dare to end this hunger for justice!</font></b>
+<b><font face="Arial Narrow">You've just been in battle!</font></b>
+<b><font face="Arial Narrow">I'm sorry. Excuse my outburst.</font></b>
+<b><font face="Arial Narrow">You've just been in battle.</font></b>
+<b><font face="Arial Narrow">Let's try it again.</font></b>
+<b><font face="Arial Narrow">Whenever you're ready.</font></b>
+<b><font face="Arial Narrow">People of Panem, we fight!</font></b>
+<b><font face="Arial Narrow">We dare to end this hunger for justice.</font></b>
+<b><font face="Arial Narrow">And that, my friends, is how a revolution dies.</font></b>
+<b><font face="Arial Narrow">Hello, Katniss.</font></b>
+<b><font face="Arial Narrow">This how you greet an old friend?</font></b>
+<b><font face="Arial Narrow">Maybe I don't recognize you sober.</font></b>
+<b><font face="Arial Narrow">I guess it looks as bad as it feels.</font></b>
+<b><font face="Arial Narrow">People of Panem, we fight!</font></b>
+<b><font face="Arial Narrow">We dare! We end this hunger for justice!</font></b>
+<b><font face="Arial Narrow">Uh, Madam President,</font></b>
+<b><font face="Arial Narrow">indulge me for a moment, if you would.</font></b>
+<b><font face="Arial Narrow">Let's everybody think of one incident</font></b>
+<b><font face="Arial Narrow">where Katniss Everdeen
+genuinely moved you.</font></b>
+<b><font face="Arial Narrow">Not where you were jealous
+of her hairstyle</font></b>
+<b><font face="Arial Narrow">or her dress went up in flames</font></b>
+<b><font face="Arial Narrow">or she made a halfway decent shot
+with an arrow.</font></b>
+<b><font face="Arial Narrow">And not where Peeta made you like her.</font></b>
+<b><font face="Arial Narrow">No, I'd like you all to think of one moment
+where she made you feel something real.</font></b>
+<b><font face="Arial Narrow">Oh.</font></b>
+<b><font face="Arial Narrow">When she volunteered for her sister
+at the Reaping.</font></b>
+<b><font face="Arial Narrow">Excellent example.</font></b>
+<b><font face="Arial Narrow">Okay.</font></b>
+<b><font face="Arial Narrow">I hope that wasn't important.</font></b>
+<b><font face="Arial Narrow">Uh...okay. "Volunteer for sister".</font></b>
+<b><font face="Arial Narrow">Good. What else?</font></b>
+<b><font face="Arial Narrow">Oh. When she sang that song for little Rue.</font></b>
+<b><font face="Arial Narrow">Oh, yeah. Who didn't get choked up at that?</font></b>
+<b><font face="Arial Narrow">You know, I like you better, Effie,
+without all that makeup.</font></b>
+<b><font face="Arial Narrow">Well, I like you better sober.</font></b>
+<b><font face="Arial Narrow">When she chose Rue as an Ally, as well.</font></b>
+<b><font face="Arial Narrow">Hmm, yes.</font></b>
+<b><font face="Arial Narrow">Now, what do all these have in common?</font></b>
+<b><font face="Arial Narrow">No one told her what to do.</font></b>
+<b><font face="Arial Narrow">Unscripted, yes.</font></b>
+<b><font face="Arial Narrow">So maybe we should just leave her alone.</font></b>
+<b><font face="Arial Narrow">And wash her face.</font></b>
+<b><font face="Arial Narrow">She's still a girl. You made her look 35.</font></b>
+<b><font face="Arial Narrow">The opportunities for spontaneity
+are obviously</font></b>
+<b><font face="Arial Narrow">lacking below ground.</font></b>
+<b><font face="Arial Narrow">So what you're suggesting
+is we toss her into combat?</font></b>
+<b><font face="Arial Narrow">I can't sanction putting
+an untrained civilian</font></b>
+<b><font face="Arial Narrow">in battle just for effect.</font></b>
+<b><font face="Arial Narrow">This is not the Capitol.</font></b>
+<b><font face="Arial Narrow">That is exactly what I'm suggesting.
+Put her in the field.</font></b>
+<b><font face="Arial Narrow">No, we can't protect her.</font></b>
+<b><font face="Arial Narrow">It has to come from her.</font></b>
+<b><font face="Arial Narrow">That's what people respond to.</font></b>
+<b><font face="Arial Narrow">You want a symbol for the revolution?</font></b>
+<b><font face="Arial Narrow">She cannot be coached into it.
+Trust me, I know.</font></b>
+<b><font face="Arial Narrow">Maybe there's someplace
+that's less dangerous.</font></b>
+<b><font face="Arial Narrow">District 8. They reported heavy bombing
+last week.</font></b>
+<b><font face="Arial Narrow">There are no military targets left.</font></b>
+<b><font face="Arial Narrow">We can't guarantee her safety.</font></b>
+<b><font face="Arial Narrow">You'll never be able to guarantee my safety.</font></b>
+<b><font face="Arial Narrow">I wanna go.</font></b>
+<b><font face="Arial Narrow">And if you're killed?</font></b>
+<b><font face="Arial Narrow">Make sure you get it on camera.</font></b>
+<b><font face="Arial Narrow">I've made you some surprises.</font></b>
+<b><font face="Arial Narrow">Maybe you wanna try one out.</font></b>
+<b><font face="Arial Narrow">If you're gonna be a part
+of Katniss' propo team,</font></b>
+<b><font face="Arial Narrow">you may as well look the part.</font></b>
+<b><font face="Arial Narrow">And this one is for you.</font></b>
+<b><font face="Arial Narrow">Plutarch wanted you to have a weapon</font></b>
+<b><font face="Arial Narrow">for the sake of the propos</font></b>
+<b><font face="Arial Narrow">but I couldn't just make you
+a fashion accessory.</font></b>
+<b><font face="Arial Narrow">It's beautiful.</font></b>
+<b><font face="Arial Narrow">And look here.</font></b>
+<b><font face="Arial Narrow">Regular. Incendiary. Explosive arrows.</font></b>
+<b><font face="Arial Narrow">All color-coded.</font></b>
+<b><font face="Arial Narrow">And tell Finnick</font></b>
+<b><font face="Arial Narrow">I've got a trident for him</font></b>
+<b><font face="Arial Narrow">when he's ready.</font></b>
+<b><font face="Arial Narrow">Might just cheer him...cheer him up.</font></b>
+<b><font face="Arial Narrow">Uh...</font></b>
+<b><font face="Arial Narrow">Let's not fire the red ones in here.</font></b>
+<b><font face="Arial Narrow">You had all of this and you just left
+the districts to fend for themselves?</font></b>
+<b><font face="Arial Narrow">It's not that simple, Katniss.
+We barely survived.</font></b>
+<b><font face="Arial Narrow">We weren't in any kind of shape
+to launch a counterattack.</font></b>
+<b><font face="Arial Narrow">Yeah, we could've bombed the Capitol</font></b>
+<b><font face="Arial Narrow">but they would've retaliated with
+at least twice the firepower.</font></b>
+<b><font face="Arial Narrow">Then what?</font></b>
+<b><font face="Arial Narrow">There would've been nobody left
+to claim victory.</font></b>
+<b><font face="Arial Narrow">Sounds like exactly what Peeta said
+and then you all called him a traitor.</font></b>
+<b><font face="Arial Narrow">This way, soldier.</font></b>
+<b><font face="Arial Narrow">You are camera-ready.</font></b>
+<b><font face="Arial Narrow">Doesn't your comrade look handsome?</font></b>
+<b><font face="Arial Narrow">Let's go.</font></b>
+<b><font face="Arial Narrow">Come back safe.</font></b>
+<b><font face="Arial Narrow">Quick introductions, Katniss.</font></b>
+<b><font face="Arial Narrow">These people have come a long way
+to support the cause.</font></b>
+<b><font face="Arial Narrow">This is Cressida.</font></b>
+<b><font face="Arial Narrow">In my opinion one of the best up-and-coming
+directors in the Capitol.</font></b>
+<b><font face="Arial Narrow">Until I up-and-left. Hey.</font></b>
+<b><font face="Arial Narrow">Hey.</font></b>
+<b><font face="Arial Narrow">Let's see what you can do.</font></b>
+<b><font face="Arial Narrow">Alright. Be careful.</font></b>
+<b><font face="Arial Narrow">This is my assistant, Messalla.</font></b>
+<b><font face="Arial Narrow">It's an honor to meet you.</font></b>
+<b><font face="Arial Narrow">And your cameramen over there, Castor.</font></b>
+<b><font face="Arial Narrow">Hello.</font></b>
+<b><font face="Arial Narrow">And Pollux.</font></b>
+<b><font face="Arial Narrow">Let's get locked in.</font></b>
+<b><font face="Arial Narrow">You're all from the Capitol?</font></b>
+<b><font face="Arial Narrow">Plutarch got you out?</font></b>
+<b><font face="Arial Narrow">Don't expect much chitchat from him.</font></b>
+<b><font face="Arial Narrow">He's an Avox. Capitol cut
+his tongue out years ago.</font></b>
+<b><font face="Arial Narrow">And, no, it wasn't any sort of rescue,
+if that's what you mean.</font></b>
+<b><font face="Arial Narrow">We all fled on our own.</font></b>
+<b><font face="Arial Narrow">For this.</font></b>
+<b><font face="Arial Narrow">For you.</font></b>
+<b><font face="Arial Narrow">This has gotta be fast. In and out.</font></b>
+<b><font face="Arial Narrow">Move out.</font></b>
+<b><font face="Arial Narrow">You're alive then. We weren't sure.</font></b>
+<b><font face="Arial Narrow">Katniss, Commander Paylor, District 8.</font></b>
+<b><font face="Arial Narrow">Katniss has been recovering, but
+she insisted on coming out</font></b>
+<b><font face="Arial Narrow">and seein' some of your wounded.</font></b>
+<b><font face="Arial Narrow">Well, we've got plenty of those.</font></b>
+<b><font face="Arial Narrow">We have a mass grave a few blocks west, but,
+I can't spare the manpower to move them yet.</font></b>
+<b><font face="Arial Narrow">Hospital's past that curtain.</font></b>
+<b><font face="Arial Narrow">Any hope you can give them, it's worth it.</font></b>
+<b><font face="Arial Narrow">The Capitol's done everything
+they can to break us.</font></b>
+<b><font face="Arial Narrow">Aren't you worried about having all
+your wounded in one place?</font></b>
+<b><font face="Arial Narrow">I think it's better than
+leaving them to die.</font></b>
+<b><font face="Arial Narrow">That's not what I meant.</font></b>
+<b><font face="Arial Narrow">Well, that's my only other option.</font></b>
+<b><font face="Arial Narrow">You can come up with another,
+I'm all ears.</font></b>
+<b><font face="Arial Narrow">It's right through here.</font></b>
+<b><font face="Arial Narrow">Don't film me in there. I can't help them.</font></b>
+<b><font face="Arial Narrow">Just let them see your face.</font></b>
+<b><font face="Arial Narrow">Huh?</font></b>
+<b><font face="Arial Narrow">Excuse me.</font></b>
+<b><font face="Arial Narrow">Yeah. You alright?</font></b>
+<b><font face="Arial Narrow">It's okay. Here, it's okay.</font></b>
+<b><font face="Arial Narrow">I've got you. It's alright.</font></b>
+<b><font face="Arial Narrow">Katniss Everdeen?</font></b>
+<b><font face="Arial Narrow">What are you doing here?</font></b>
+<b><font face="Arial Narrow">I came to see you.</font></b>
+<b><font face="Arial Narrow">What about the baby?</font></b>
+<b><font face="Arial Narrow">I lost it.</font></b>
+<b><font face="Arial Narrow">Are you fighting, Katniss?</font></b>
+<b><font face="Arial Narrow">You here to fight with us?</font></b>
+<b><font face="Arial Narrow">I am.</font></b>
+<b><font face="Arial Narrow">I will.</font></b>
+<b><font face="Arial Narrow">Tighter.</font></b>
+<b><font face="Arial Narrow">Tighter, tighter.</font></b>
+<b><font face="Arial Narrow">Sir, some cameras were damaged
+in the bombings,</font></b>
+<b><font face="Arial Narrow">but we confirmed it's her.</font></b>
+<b><font face="Arial Narrow">Zoom in.</font></b>
+<b><font face="Arial Narrow">She was visiting a makeshift hospital.</font></b>
+<b><font face="Arial Narrow">We're not sure if she's still there.</font></b>
+<b><font face="Arial Narrow">Hmm.</font></b>
+<b><font face="Arial Narrow">We can scramble hovercraft
+from the border of 11.</font></b>
+<b><font face="Arial Narrow">We may be able to target her.</font></b>
+<b><font face="Arial Narrow">Hmm.</font></b>
+<b><font face="Arial Narrow">Kill the wounded.</font></b>
+<b><font face="Arial Narrow">Sir...</font></b>
+<b><font face="Arial Narrow">You wrote that speech yourself, Egeria.</font></b>
+<b><font face="Arial Narrow">Any association with the Mockingjay symbol
+is forbidden.</font></b>
+<b><font face="Arial Narrow">Everyone inside that hospital
+has committed treason.</font></b>
+<b><font face="Arial Narrow">Show them what it costs to be friends
+with Katniss Everdeen.</font></b>
+<b><font face="Arial Narrow">Your mom's gonna be proud of you
+when she sees the footage.</font></b>
+<b><font face="Arial Narrow">Will this play in the districts?</font></b>
+<b><font face="Arial Narrow">It'll be tattooed on their eyes.</font></b>
+<b><font face="Arial Narrow">There's a problem.</font></b>
+<b><font face="Arial Narrow">What kinda problem?</font></b>
+<b><font face="Arial Narrow">Incoming bombers from the north.</font></b>
+<b><font face="Arial Narrow">We need to find cover now.</font></b>
+<b><font face="Arial Narrow">There's a bunker in there.</font></b>
+<b><font face="Arial Narrow">Straight ahead and down the stairs.</font></b>
+<b><font face="Arial Narrow">Katniss!</font></b>
+<b><font face="Arial Narrow">Katniss!</font></b>
+<b><font face="Arial Narrow">Everdeen! Everdeen!</font></b>
+<b><font face="Arial Narrow">Gale, back away from the wall!</font></b>
+<b><font face="Arial Narrow">You okay?</font></b>
+<b><font face="Arial Narrow">Move!</font></b>
+<b><font face="Arial Narrow">They're going after something to the south.</font></b>
+<b><font face="Arial Narrow">That's towards the hospital.</font></b>
+<b><font face="Arial Narrow">They're circling back around. Come on!</font></b>
+<b><font face="Arial Narrow">That's the hospital.</font></b>
+<b><font face="Arial Narrow">They're targeting the hospital.</font></b>
+<b><font face="Arial Narrow">Help them!</font></b>
+<b><font face="Arial Narrow">Help them! Get them out!</font></b>
+<b><font face="Arial Narrow">Katniss?</font></b>
+<b><font face="Arial Narrow">Katniss, can you tell everyone
+what you're seeing right now?</font></b>
+<b><font face="Arial Narrow">Katniss, what do you wanna say?</font></b>
+<b><font face="Arial Narrow">I want the rebels to know that I'm alive.</font></b>
+<b><font face="Arial Narrow">That I'm in District 8</font></b>
+<b><font face="Arial Narrow">where the Capitol just bombed a hospital</font></b>
+<b><font face="Arial Narrow">filled with unarmed men,
+women and children.</font></b>
+<b><font face="Arial Narrow">And there will be no survivors.</font></b>
+<b><font face="Arial Narrow">If you think for one second that the Capitol
+will ever treat us fairly,</font></b>
+<b><font face="Arial Narrow">you are lying to yourselves.</font></b>
+<b><font face="Arial Narrow">Because we know who they are
+and what they do.</font></b>
+<b><font face="Arial Narrow">This is what they do! And we must fight back.</font></b>
+<b><font face="Arial Narrow">I have a message for President Snow.</font></b>
+<b><font face="Arial Narrow">You can torture us and bomb us and burn
+our districts to the ground.</font></b>
+<b><font face="Arial Narrow">But do you see that?</font></b>
+<b><font face="Arial Narrow">Fire is catching.</font></b>
+<b><font face="Arial Narrow">And if we burn, you burn with us!</font></b>
+<b><font face="Arial Narrow">We know who they are and what they do.</font></b>
+<b><font face="Arial Narrow">This is what they do!</font></b>
+<b><font face="Arial Narrow">And we must fight back.</font></b>
+<b><font face="Arial Narrow">You can torture us and bomb us</font></b>
+<b><font face="Arial Narrow">and burn our districts to the ground.</font></b>
+<b><font face="Arial Narrow">Plutarch's faith in you wasn't misplaced.</font></b>
+<b><font face="Arial Narrow">But do you see that?</font></b>
+<b><font face="Arial Narrow">Thank you.</font></b>
+<b><font face="Arial Narrow">Fire is catching.</font></b>
+<b><font face="Arial Narrow">Come up with me for the beginning.</font></b>
+<b><font face="Arial Narrow">And if we burn, you burn with us!</font></b>
+<b><font face="Arial Narrow">There is no progress without compromise.</font></b>
+<b><font face="Arial Narrow">No victory without sacrifice.</font></b>
+<b><font face="Arial Narrow">But I stand here with the Mockingjay</font></b>
+<b><font face="Arial Narrow">to announce that our moment has arrived.</font></b>
+<b><font face="Arial Narrow">Beetee has increased our use
+of the airwaves tenfold.</font></b>
+<b><font face="Arial Narrow">We will broadcast this message</font></b>
+<b><font face="Arial Narrow">to all the districts tonight.</font></b>
+<b><font face="Arial Narrow">the Mockingjay's words</font></b>
+<b><font face="Arial Narrow">inspiring everyone to join the rebellion.</font></b>
+<b><font face="Arial Narrow">Together, we will become an alliance
+to be reckoned with.</font></b>
+<b><font face="Arial Narrow">Hoorah! Hoorah! Hoorah!</font></b>
+<b><font face="Arial Narrow">You don't like hearing a fight song
+at a funeral, huh?</font></b>
+<b><font face="Arial Narrow">The more people on our side, the closer
+we are to Peeta and Annie.</font></b>
+<b><font face="Arial Narrow">Yeah.</font></b>
+<b><font face="Arial Narrow">By order of President Snow</font></b>
+<b><font face="Arial Narrow">daily production quotas
+have been increased.</font></b>
+<b><font face="Arial Narrow">All work shifts will be extended
+by an extra two hours.</font></b>
+<b><font face="Arial Narrow">Failure to meet these quotas
+will not be tolerated.</font></b>
+<b><font face="Arial Narrow">By order of President Snow daily production quotas
+have been increased.</font></b>
+<b><font face="Arial Narrow">If we burn, you burn with us!</font></b>
+<b><font face="Arial Narrow">Yeah!</font></b>
+<b><font face="Arial Narrow">Whoo!</font></b>
+<b><font face="Arial Narrow">Yeah!</font></b>
+<b><font face="Arial Narrow">- I got good news.
+- What?</font></b>
+<b><font face="Arial Narrow">Coin agreed to let us hunt above ground.</font></b>
+<b><font face="Arial Narrow">He's not even afraid of us.</font></b>
+<b><font face="Arial Narrow">It's 'cause they've never been hunted before.</font></b>
+<b><font face="Arial Narrow">It's almost not fair.</font></b>
+<b><font face="Arial Narrow">They want us back.</font></b>
+<b><font face="Arial Narrow">They asked us to head for Command.</font></b>
+<b><font face="Arial Narrow">Alright. I gotta drop these off.</font></b>
+<b><font face="Arial Narrow">She was arguably our favorite Tribute.</font></b>
+<b><font face="Arial Narrow">And I think that's what we
+all find most astonishing,</font></b>
+<b><font face="Arial Narrow">is that this girl was adored
+in the Capitol.</font></b>
+<b><font face="Arial Narrow">And I think for you, Peeta,</font></b>
+<b><font face="Arial Narrow">it must be particularly painful.</font></b>
+<b><font face="Arial Narrow">I wish I could give this rose to you, Katniss.</font></b>
+<b><font face="Arial Narrow">He's changed so much already.
+What are they doing to him?</font></b>
+<b><font face="Arial Narrow">A sweet gesture for a girl
+who has inspired</font></b>
+<b><font face="Arial Narrow">such violence.</font></b>
+<b><font face="Arial Narrow">You must love her very much
+to be able to forgive her.</font></b>
+<b><font face="Arial Narrow">He's shaking.</font></b>
+<b><font face="Arial Narrow">I don't think that I could.</font></b>
+<b><font face="Arial Narrow">Unless, of course, Peeta, you think
+that perhaps she's being</font></b>
+<b><font face="Arial Narrow">forced into saying</font></b>
+<b><font face="Arial Narrow">things that she doesn't even understand.</font></b>
+<b><font face="Arial Narrow">Yeah. That's exactly what I think.</font></b>
+<b><font face="Arial Narrow">Even his voice is different.</font></b>
+<b><font face="Arial Narrow">I think they're using her
+to whip up the rebels.</font></b>
+<b><font face="Arial Narrow">I doubt she even knows what's happening.</font></b>
+<b><font face="Arial Narrow">And what's really at stake.</font></b>
+<b><font face="Arial Narrow">Now, Peeta, I doubt that the rebels
+will ever let her see this.</font></b>
+<b><font face="Arial Narrow">But if they do, what would you say to her?</font></b>
+<b><font face="Arial Narrow">To Katniss Everdeen, the once sweet
+Katniss Everdeen.</font></b>
+<b><font face="Arial Narrow">I would tell her to think for herself.</font></b>
+<b><font face="Arial Narrow">Yes.</font></b>
+<b><font face="Arial Narrow">Don't be a fool, Katniss.</font></b>
+<b><font face="Arial Narrow">I know you never wanted the rebellion.</font></b>
+<b><font face="Arial Narrow">The things that you did in the Games were
+never intended to start all of this.</font></b>
+<b><font face="Arial Narrow">The rebels have made you into something
+that you're not.</font></b>
+<b><font face="Arial Narrow">Something that could destroy all of us.</font></b>
+<b><font face="Arial Narrow">So if you have any power or any say</font></b>
+<b><font face="Arial Narrow">in what they do or how they use you,</font></b>
+<b><font face="Arial Narrow">please, please, urge them to stop this war</font></b>
+<b><font face="Arial Narrow">before it's too late.</font></b>
+<b><font face="Arial Narrow">And ask yourself,</font></b>
+<b><font face="Arial Narrow">can you trust the people
+you're working with?</font></b>
+<b><font face="Arial Narrow">Do you know what they really want?</font></b>
+<b><font face="Arial Narrow">We need to respond.</font></b>
+<b><font face="Arial Narrow">Thank you, Peeta Mellark, for these</font></b>
+<b><font face="Arial Narrow">revelations about the real Mockingjay.</font></b>
+<b><font face="Arial Narrow">Did you see what he looks like?</font></b>
+<b><font face="Arial Narrow">I saw a coward.</font></b>
+<b><font face="Arial Narrow">You don't have any idea what
+he's going through.</font></b>
+<b><font face="Arial Narrow">I don't care. I would never say
+what he just said.</font></b>
+<b><font face="Arial Narrow">Not if they tortured me. Not
+with a gun to my head.</font></b>
+<b><font face="Arial Narrow">That is the same Peeta that defended you
+at the whipping post.</font></b>
+<b><font face="Arial Narrow">No, it's not. Now he's only
+defending himself.</font></b>
+<b><font face="Arial Narrow">Coin's called a meeting.
+We need to respond.</font></b>
+<b><font face="Arial Narrow">When did "we" become you and Coin?</font></b>
+<b><font face="Arial Narrow">Everyone has a choice.</font></b>
+<b><font face="Arial Narrow">How can he sit there in the Capitol
+and defend the people</font></b>
+<b><font face="Arial Narrow">who destroyed his home and
+murdered his family?</font></b>
+<b><font face="Arial Narrow">He doesn't know.</font></b>
+<b><font face="Arial Narrow">How could he?</font></b>
+<b><font face="Arial Narrow">Nobody's seen what the Capitol did to 12.</font></b>
+<b><font face="Arial Narrow">I have to show them.</font></b>
+<b><font face="Arial Narrow">So I wanna start with you in front
+of the Justice Building, okay?</font></b>
+<b><font face="Arial Narrow">Bang. First shot.</font></b>
+<b><font face="Arial Narrow">Katniss, tell us what happened here.</font></b>
+<b><font face="Arial Narrow">We were all standin' right here</font></b>
+<b><font face="Arial Narrow">watchin' the Games when
+you fired that arrow.</font></b>
+<b><font face="Arial Narrow">The screens just went dark.</font></b>
+<b><font face="Arial Narrow">Nobody had any idea what happened.</font></b>
+<b><font face="Arial Narrow">Peacekeepers forced us back
+into our homes.</font></b>
+<b><font face="Arial Narrow">For maybe an hour, the town
+was just dead quiet.</font></b>
+<b><font face="Arial Narrow">Little past 9:00, we heard
+their trucks pullin' out.</font></b>
+<b><font face="Arial Narrow">All of them. Every single Peacekeeper.</font></b>
+<b><font face="Arial Narrow">And I knew what that meant.</font></b>
+<b><font face="Arial Narrow">Me and a couple of guys from the mines,</font></b>
+<b><font face="Arial Narrow">we started pulling people
+from their houses</font></b>
+<b><font face="Arial Narrow">and tried to get 'em to the fence line</font></b>
+<b><font face="Arial Narrow">but a lotta people were scared
+of the forest.</font></b>
+<b><font face="Arial Narrow">So they headed up onto the road.</font></b>
+<b><font face="Arial Narrow">Make a break for it that way.</font></b>
+<b><font face="Arial Narrow">Stay with Gale.</font></b>
+<b><font face="Arial Narrow">915 of us made it to the fence.</font></b>
+<b><font face="Arial Narrow">Then we watched as bombers circled back
+towards the road.</font></b>
+<b><font face="Arial Narrow">They firebombed them as they ran away.</font></b>
+<b><font face="Arial Narrow">915 outta 10,000.</font></b>
+<b><font face="Arial Narrow">I should've grabbed people. I should've
+dragged 'em with me.</font></b>
+<b><font face="Arial Narrow">Some of the kids I could've carried.</font></b>
+<b><font face="Arial Narrow">You saved so many people, Gale.</font></b>
+<b><font face="Arial Narrow">Without you, there would be no District 12.</font></b>
+<b><font face="Arial Narrow">Not even the memory of it.</font></b>
+<b><font face="Arial Narrow">This is where you kissed me.</font></b>
+<b><font face="Arial Narrow">I didn't think you remembered that.</font></b>
+<b><font face="Arial Narrow">I'd have to be dead to forget that.</font></b>
+<b><font face="Arial Narrow">Maybe not even then.</font></b>
+<b><font face="Arial Narrow">I knew you'd do that.</font></b>
+<b><font face="Arial Narrow">How? I didn't.</font></b>
+<b><font face="Arial Narrow">'Cause I'm in pain.</font></b>
+<b><font face="Arial Narrow">That's the only way that
+I can get your attention.</font></b>
+<b><font face="Arial Narrow">Don't worry, Katniss. It'll pass.</font></b>
+<b><font face="Arial Narrow">Hey.</font></b>
+<b><font face="Arial Narrow">Yeah, that's a mockingjay.</font></b>
+<b><font face="Arial Narrow">Well, now they'll never shut up.</font></b>
+<b><font face="Arial Narrow">You want me to sing?</font></b>
+<b><font face="Arial Narrow">That line was originally
+"necklace of rope".</font></b>
+<b><font face="Arial Narrow">I had it changed to "necklace of hope".</font></b>
+<b><font face="Arial Narrow">Wow. You are a true wordsmith.</font></b>
+<b><font face="Arial Narrow">Little on the nose, but,
+of course, so is war.</font></b>
+<b><font face="Arial Narrow">Every district's seeing this?</font></b>
+<b><font face="Arial Narrow">Yes. But not the Capitol.</font></b>
+<b><font face="Arial Narrow">I designed this signal defense system
+for them.</font></b>
+<b><font face="Arial Narrow">But I can't find my way through it.</font></b>
+<b><font face="Arial Narrow">Guess I did my job too well.</font></b>
+<b><font face="Arial Narrow">At the time, I was just thinking
+of the science of it all.</font></b>
+<b><font face="Arial Narrow">We'll get through it.</font></b>
+<b><font face="Arial Narrow">Are you, are you comin' to the tree?</font></b>
+<b><font face="Arial Narrow">Where they strung up a man they say
+who murdered three.</font></b>
+<b><font face="Arial Narrow">Strange things did happen here.</font></b>
+<b><font face="Arial Narrow">No stranger would it be.</font></b>
+<b><font face="Arial Narrow">If we met at midnight in the hanging tree.</font></b>
+<b><font face="Arial Narrow">Are you, are you comin' to the tree?</font></b>
+<b><font face="Arial Narrow">Where a dead man called out
+for his love to flee.</font></b>
+<b><font face="Arial Narrow">Strange things did happen here.</font></b>
+<b><font face="Arial Narrow">No stranger would it be.</font></b>
+<b><font face="Arial Narrow">If we met at midnight in the hanging tree.</font></b>
+<b><font face="Arial Narrow">Moves and countermoves.</font></b>
+<b><font face="Arial Narrow">Katniss, you're wanted in Command.</font></b>
+<b><font face="Arial Narrow">Tonight, we've received reports</font></b>
+<b><font face="Arial Narrow">of derailed trains,</font></b>
+<b><font face="Arial Narrow">of granaries on fire,</font></b>
+<b><font face="Arial Narrow">and of a savage attack on the hydroelectric dam
+in District 5.</font></b>
+<b><font face="Arial Narrow">Oh, what have they done to you?</font></b>
+<b><font face="Arial Narrow">I'm begging for restraint and decency.</font></b>
+<b><font face="Arial Narrow">We interrupt your regularly scheduled
+horse manure</font></b>
+<b><font face="Arial Narrow">to bring you...</font></b>
+<b><font face="Arial Narrow">Comin' to the tree?</font></b>
+<b><font face="Arial Narrow">That's it. That's our footage.</font></b>
+<b><font face="Arial Narrow">Beetee's in.</font></b>
+<b><font face="Arial Narrow">They say who murdered three.</font></b>
+<b><font face="Arial Narrow">Katniss?</font></b>
+<b><font face="Arial Narrow">He sees it. He sees our propo.</font></b>
+<b><font face="Arial Narrow">No stranger would it be...</font></b>
+<b><font face="Arial Narrow">Katniss, are you there?</font></b>
+<b><font face="Arial Narrow">Peeta.</font></b>
+<b><font face="Arial Narrow">Katniss?</font></b>
+<b><font face="Arial Narrow">Peeta, please continue.</font></b>
+<b><font face="Arial Narrow">You were telling us about</font></b>
+<b><font face="Arial Narrow">these savage attacks.</font></b>
+<b><font face="Arial Narrow">Yeah.</font></b>
+<b><font face="Arial Narrow">The attack on the dam was a callous</font></b>
+<b><font face="Arial Narrow">and inhuman act of destruction...</font></b>
+<b><font face="Arial Narrow">Where a dead man called out
+for his love to flee.</font></b>
+<b><font face="Arial Narrow">Think about it.</font></b>
+<b><font face="Arial Narrow">How will this end? What will be left?</font></b>
+<b><font face="Arial Narrow">No one can survive this.</font></b>
+<b><font face="Arial Narrow">No one is safe now.</font></b>
+<b><font face="Arial Narrow">Not here in the Capitol.</font></b>
+<b><font face="Arial Narrow">Not in any of the districts.</font></b>
+<b><font face="Arial Narrow">They're coming, Katniss.</font></b>
+<b><font face="Arial Narrow">They're gonna kill everyone.</font></b>
+<b><font face="Arial Narrow">And in District 13, you'll
+be dead by morning.</font></b>
+<b><font face="Arial Narrow">He's warning us. That was a warning.</font></b>
+<b><font face="Arial Narrow">Yes, it was.</font></b>
+<b><font face="Arial Narrow">We have to get him out
+before they kill him.</font></b>
+<b><font face="Arial Narrow">Is there anything in the air?</font></b>
+<b><font face="Arial Narrow">Nothing on Doppler, ma'am.</font></b>
+<b><font face="Arial Narrow">He was in the mansion. He could
+have overheard something.</font></b>
+<b><font face="Arial Narrow">Possibly.</font></b>
+<b><font face="Arial Narrow">It's time for an air raid drill.</font></b>
+<b><font face="Arial Narrow">This is a code red alert.</font></b>
+<b><font face="Arial Narrow">Please, remain calm</font></b>
+<b><font face="Arial Narrow">and begin evacuation protocol.</font></b>
+<b><font face="Arial Narrow">Prim! Prim!</font></b>
+<b><font face="Arial Narrow">Proceed to your nearest stairwell
+and descend to level 40.</font></b>
+<b><font face="Arial Narrow">Blast doors will be sealed in six minutes.</font></b>
+<b><font face="Arial Narrow">This is a code red alert.</font></b>
+<b><font face="Arial Narrow">Please, remain calm and begin
+evacuation protocol.</font></b>
+<b><font face="Arial Narrow">Proceed in an orderly fashion
+to your nearest stairwell</font></b>
+<b><font face="Arial Narrow">and descend to level 40.</font></b>
+<b><font face="Arial Narrow">Madam President,</font></b>
+<b><font face="Arial Narrow">three Capitol squadrons just
+entered our airspace.</font></b>
+<b><font face="Arial Narrow">How much time do we have?</font></b>
+<b><font face="Arial Narrow">They're a few seconds from range.</font></b>
+<b><font face="Arial Narrow">Prepare to scramble the fleet.</font></b>
+<b><font face="Arial Narrow">Copy that.</font></b>
+<b><font face="Arial Narrow">Open up short-range air defense.</font></b>
+<b><font face="Arial Narrow">Arm long-range missiles for counterattack.</font></b>
+<b><font face="Arial Narrow">Blast doors will be sealed
+in five minutes.</font></b>
+<b><font face="Arial Narrow">This is a code red alert.</font></b>
+<b><font face="Arial Narrow">Please, remain calm and begin
+evacuation protocol.</font></b>
+<b><font face="Arial Narrow">Proceed in an orderly fashion
+to your nearest stairwell</font></b>
+<b><font face="Arial Narrow">and descend to level 40.</font></b>
+<b><font face="Arial Narrow">Blast doors will close in four minutes.</font></b>
+<b><font face="Arial Narrow">This is a code red alert.</font></b>
+<b><font face="Arial Narrow">Please, remain calm and begin
+evacuation protocol.</font></b>
+<b><font face="Arial Narrow">Proceed in an orderly fashion</font></b>
+<b><font face="Arial Narrow">to your nearest stairwell
+and descend to level 40.</font></b>
+<b><font face="Arial Narrow">Blast doors will close in three minutes.</font></b>
+<b><font face="Arial Narrow">This is a code red alert.</font></b>
+<b><font face="Arial Narrow">Proceed in an orderly fashion
+to your nearest stairwell</font></b>
+<b><font face="Arial Narrow">and descend to level 40.</font></b>
+<b><font face="Arial Narrow">Continue to the Supply Station
+and claim one pack</font></b>
+<b><font face="Arial Narrow">for each member of your compartment.</font></b>
+<b><font face="Arial Narrow">Please keep all personal items
+within your assigned area.</font></b>
+<b><font face="Arial Narrow">Be courteous to your fellow citizens.</font></b>
+<b><font face="Arial Narrow">This is a code red alert.</font></b>
+<b><font face="Arial Narrow">All citizens should be inside the bunker.</font></b>
+<b><font face="Arial Narrow">- Blast doors will close in two minutes.
+- Mom!</font></b>
+<b><font face="Arial Narrow">Where's Prim?</font></b>
+<b><font face="Arial Narrow">I thought she went to find you.</font></b>
+<b><font face="Arial Narrow">She must still be on the stairs.</font></b>
+<b><font face="Arial Narrow">There's no one on the stairs.</font></b>
+<b><font face="Arial Narrow">She went back for the cat.</font></b>
+<b><font face="Arial Narrow">This is a code red alert.</font></b>
+<b><font face="Arial Narrow">All citizens should be inside the bunker.</font></b>
+<b><font face="Arial Narrow">Hey, stop! Stop!</font></b>
+<b><font face="Arial Narrow">Blast doors will close in one minute.</font></b>
+<b><font face="Arial Narrow">They hit the far edge of
+the northwest quadrant.</font></b>
+<b><font face="Arial Narrow">Penetrated 40 feet.</font></b>
+<b><font face="Arial Narrow">Missed the living quarters.</font></b>
+<b><font face="Arial Narrow">Only minor damage to corridors 2 and 3.</font></b>
+<b><font face="Arial Narrow">Is there any radiation?</font></b>
+<b><font face="Arial Narrow">None detected.</font></b>
+<b><font face="Arial Narrow">Doppler shows a fourth wave approaching.</font></b>
+<b><font face="Arial Narrow">Blast doors will close in 30 seconds.</font></b>
+<b><font face="Arial Narrow">Prim!</font></b>
+<b><font face="Arial Narrow">Prim!</font></b>
+<b><font face="Arial Narrow">Katniss!</font></b>
+<b><font face="Arial Narrow">This is a code red alert.</font></b>
+<b><font face="Arial Narrow">Katniss!</font></b>
+<b><font face="Arial Narrow">Blast doors will close in 15 seconds.</font></b>
+<b><font face="Arial Narrow">Get down here!</font></b>
+<b><font face="Arial Narrow">- Hurry!
+- This is a code red alert.</font></b>
+<b><font face="Arial Narrow">Blast doors will close in 10 seconds.</font></b>
+<b><font face="Arial Narrow">Nine...</font></b>
+<b><font face="Arial Narrow">eight...</font></b>
+<b><font face="Arial Narrow">seven...</font></b>
+<b><font face="Arial Narrow">six...</font></b>
+<b><font face="Arial Narrow">- five...
+- Hold the doors!</font></b>
+<b><font face="Arial Narrow">four...</font></b>
+<b><font face="Arial Narrow">three...</font></b>
+<b><font face="Arial Narrow">- two...
+- Wait! Hold the doors!</font></b>
+<b><font face="Arial Narrow">one.</font></b>
+<b><font face="Arial Narrow">You went back for the cat?
+What were you thinking?</font></b>
+<b><font face="Arial Narrow">I wasn't gonna leave him behind.</font></b>
+<b><font face="Arial Narrow">I couldn't live with myself.</font></b>
+<b><font face="Arial Narrow">Blast doors are now sealed.</font></b>
+<b><font face="Arial Narrow">I know, Prim.</font></b>
+<b><font face="Arial Narrow">Let's go.</font></b>
+<b><font face="Arial Narrow">Damage to the aquifer in
+the northwest quadrant.</font></b>
+<b><font face="Arial Narrow">We lost a transport corridor.</font></b>
+<b><font face="Arial Narrow">There's nothing else in the northwest.</font></b>
+<b><font face="Arial Narrow">Our surface-to-air launchers just took</font></b>
+<b><font face="Arial Narrow">a direct hit in sector 3.</font></b>
+<b><font face="Arial Narrow">Because we revealed ourselves.</font></b>
+<b><font face="Arial Narrow">They saw us firing there.</font></b>
+<b><font face="Arial Narrow">Stand down. Don't launch the fleet.</font></b>
+<b><font face="Arial Narrow">Another 12 Capitol bombers approaching
+sector 3 in attack formation.</font></b>
+<b><font face="Arial Narrow">Hold fire on their approach.</font></b>
+<b><font face="Arial Narrow">Oh.</font></b>
+<b><font face="Arial Narrow">What'd they hit?</font></b>
+<b><font face="Arial Narrow">Bedrock. But there's debris
+in the ventilation shaft.</font></b>
+<b><font face="Arial Narrow">They're not targeting our fleet.</font></b>
+<b><font face="Arial Narrow">Or our Special Weaponry.</font></b>
+<b><font face="Arial Narrow">They don't know what we have
+or where we have it.</font></b>
+<b><font face="Arial Narrow">Can you confirm that everyone's
+safely in the bunker?</font></b>
+<b><font face="Arial Narrow">Already done.</font></b>
+<b><font face="Arial Narrow">Conceal all remaining anti-aircraft guns.</font></b>
+<b><font face="Arial Narrow">Seal launching pads and
+ventilation corridors.</font></b>
+<b><font face="Arial Narrow">We are gonna wait this out.</font></b>
+<b><font face="Arial Narrow">This is what we're built for.</font></b>
+<b><font face="Arial Narrow">They'll seal us in here like a tomb.</font></b>
+<b><font face="Arial Narrow">The Capitol's working off some
+outdated information.</font></b>
+<b><font face="Arial Narrow">I'd rather not update it for them.</font></b>
+<b><font face="Arial Narrow">Madam President, I know
+it's not my place...</font></b>
+<b><font face="Arial Narrow">It's not. You're a welcome guest, but
+you're out of your depth down here.</font></b>
+<b><font face="Arial Narrow">Reduce oxygen to 14% to conserve it.</font></b>
+<b><font face="Arial Narrow">Copy that.</font></b>
+<b><font face="Arial Narrow">Take a deep breath, Mr. Heavensbee.</font></b>
+<b><font face="Arial Narrow">It's gonna be a long night.</font></b>
+<b><font face="Arial Narrow">Prim, talk about something. Anything.</font></b>
+<b><font face="Arial Narrow">They promoted me at the hospital.</font></b>
+<b><font face="Arial Narrow">I forgot to tell you.</font></b>
+<b><font face="Arial Narrow">They're training me to be a doctor.</font></b>
+<b><font face="Arial Narrow">They'd be stupid not to.</font></b>
+<b><font face="Arial Narrow">Hey.</font></b>
+<b><font face="Arial Narrow">Can I sit?</font></b>
+<b><font face="Arial Narrow">Yeah.</font></b>
+<b><font face="Arial Narrow">Snow's using Annie to punish you.</font></b>
+<b><font face="Arial Narrow">He's taunting us with them.</font></b>
+<b><font face="Arial Narrow">I didn't understand until just now,
+watching that stupid cat.</font></b>
+<b><font face="Arial Narrow">After your first Games,</font></b>
+<b><font face="Arial Narrow">I thought the whole romance was an act.</font></b>
+<b><font face="Arial Narrow">We all expected you to
+continue that strategy.</font></b>
+<b><font face="Arial Narrow">But it wasn't until Peeta's heart stopped
+and he nearly died that</font></b>
+<b><font face="Arial Narrow">I knew I'd misjudged you.</font></b>
+<b><font face="Arial Narrow">You love him.</font></b>
+<b><font face="Arial Narrow">I'm not saying in what way.</font></b>
+<b><font face="Arial Narrow">Maybe you don't even know yourself.</font></b>
+<b><font face="Arial Narrow">But anyone paying attention can see it.</font></b>
+<b><font face="Arial Narrow">How do you live with it?</font></b>
+<b><font face="Arial Narrow">I drag myself outta nightmares and
+there's no relief in waking up.</font></b>
+<b><font face="Arial Narrow">But it's better not to give in to it.</font></b>
+<b><font face="Arial Narrow">Takes 10 times longer to put yourself
+back together</font></b>
+<b><font face="Arial Narrow">than it does to fall apart.</font></b>
+<b><font face="Arial Narrow">Katniss? Katniss?</font></b>
+<b><font face="Arial Narrow">Come with me.</font></b>
+<b><font face="Arial Narrow">We took their best shot. Didn't we?</font></b>
+<b><font face="Arial Narrow">Yeah.</font></b>
+<b><font face="Arial Narrow">Your mother and sister okay?</font></b>
+<b><font face="Arial Narrow">Yeah, they're fine.</font></b>
+<b><font face="Arial Narrow">I need you to do something for us.</font></b>
+<b><font face="Arial Narrow">I need you to tell Panem that we survived
+an attack by the Capitol</font></b>
+<b><font face="Arial Narrow">with no casualties.</font></b>
+<b><font face="Arial Narrow">And we remain fully operational.</font></b>
+<b><font face="Arial Narrow">Okay.</font></b>
+<b><font face="Arial Narrow">You should know something.</font></b>
+<b><font face="Arial Narrow">We had eight extra minutes
+of civilian evacuation</font></b>
+<b><font face="Arial Narrow">because of Peeta's warning.</font></b>
+<b><font face="Arial Narrow">I won't forget that.</font></b>
+<b><font face="Arial Narrow">Thank you.</font></b>
+<b><font face="Arial Narrow">So Katniss,</font></b>
+<b><font face="Arial Narrow">it's "13 is alive and well and so am I".</font></b>
+<b><font face="Arial Narrow">Katniss?</font></b>
+<b><font face="Arial Narrow">Katniss.</font></b>
+<b><font face="Arial Narrow">Never one to waste it
+in rehearsal, I know.</font></b>
+<b><font face="Arial Narrow">Why would they drop these?</font></b>
+<b><font face="Arial Narrow">For me.</font></b>
+<b><font face="Arial Narrow">Ready to go, Katniss?</font></b>
+<b><font face="Arial Narrow">We're gonna do this, just like District 8.</font></b>
+<b><font face="Arial Narrow">Tell me about the roses.</font></b>
+<b><font face="Arial Narrow">Tell Snow 13 is alive and well.</font></b>
+<b><font face="Arial Narrow">He's gonna kill Peeta.</font></b>
+<b><font face="Arial Narrow">Let's try again. Can you speak up?</font></b>
+<b><font face="Arial Narrow">We don't have a mic on you.</font></b>
+<b><font face="Arial Narrow">"13 is alive and well and so am I".</font></b>
+<b><font face="Arial Narrow">He's gonna kill Peeta.</font></b>
+<b><font face="Arial Narrow">I can't.</font></b>
+<b><font face="Arial Narrow">Katniss?</font></b>
+<b><font face="Arial Narrow">You can do it, Katniss.</font></b>
+<b><font face="Arial Narrow">I can't do this.</font></b>
+<b><font face="Arial Narrow">"13 is alive and well and so am I".</font></b>
+<b><font face="Arial Narrow">He's just gonna keep...</font></b>
+<b><font face="Arial Narrow">He's never gonna stop.</font></b>
+<b><font face="Arial Narrow">Cressida, we should cut the cameras.</font></b>
+<b><font face="Arial Narrow">- As long as I'm the Mockingjay.
+- It's okay, Katniss.</font></b>
+<b><font face="Arial Narrow">No. He warned me. He warned me about this.</font></b>
+<b><font face="Arial Narrow">He's doing this because
+I'm the Mockingjay.</font></b>
+<b><font face="Arial Narrow">He's punishing Peeta to punish me.</font></b>
+<b><font face="Arial Narrow">No.</font></b>
+<b><font face="Arial Narrow">No, I can't do this.</font></b>
+<b><font face="Arial Narrow">Katniss.</font></b>
+<b><font face="Arial Narrow">Don't make me do this!</font></b>
+<b><font face="Arial Narrow">Let her go.</font></b>
+<b><font face="Arial Narrow">I gotta get out of here.</font></b>
+<b><font face="Arial Narrow">So this is the end, huh?</font></b>
+<b><font face="Arial Narrow">I suppose you're just gonna
+hide down here forever?</font></b>
+<b><font face="Arial Narrow">I can't be the Mockingjay.</font></b>
+<b><font face="Arial Narrow">Not the Mockingjay. Just Katniss.</font></b>
+<b><font face="Arial Narrow">You know, you're the only real friend
+I have down here.</font></b>
+<b><font face="Arial Narrow">I don't suppose they gave you
+any kind of medication?</font></b>
+<b><font face="Arial Narrow">You're unbelievable.</font></b>
+<b><font face="Arial Narrow">Okay, but I meant what I said.</font></b>
+<b><font face="Arial Narrow">Look, the reason I'm here
+is to let you know</font></b>
+<b><font face="Arial Narrow">they're rescuing Peeta.</font></b>
+<b><font face="Arial Narrow">What?</font></b>
+<b><font face="Arial Narrow">The dam went down in District 5, took out
+most of the power to the Capitol.</font></b>
+<b><font face="Arial Narrow">Knocked out their signal defense.</font></b>
+<b><font face="Arial Narrow">Beetee's inside their system now,
+wreaking all kinds of havoc.</font></b>
+<b><font face="Arial Narrow">A window is open to us.</font></b>
+<b><font face="Arial Narrow">How much longer? I don't know.</font></b>
+<b><font face="Arial Narrow">I guess until the Capitol can
+get the power back on.</font></b>
+<b><font face="Arial Narrow">And President Coin?</font></b>
+<b><font face="Arial Narrow">You know, I can never fully
+support that woman</font></b>
+<b><font face="Arial Narrow">in light of the prohibition they have
+going on around this place,</font></b>
+<b><font face="Arial Narrow">but Plutarch got word</font></b>
+<b><font face="Arial Narrow">that Peeta and the others
+are in the Tribute Center.</font></b>
+<b><font face="Arial Narrow">And with the power out, Coin
+sees this as an opportunity.</font></b>
+<b><font face="Arial Narrow">She knows that Peeta</font></b>
+<b><font face="Arial Narrow">is the Capitol's weapon. The same way
+you're ours.</font></b>
+<b><font face="Arial Narrow">And as opposed to having you
+two pointing at each other,</font></b>
+<b><font face="Arial Narrow">she's going to get him.</font></b>
+<b><font face="Arial Narrow">I have to go help.</font></b>
+<b><font face="Arial Narrow">Hey, hey, whoa, kiddo. Wait.</font></b>
+<b><font face="Arial Narrow">Come on. What, are you just
+gonna jump outta the vent</font></b>
+<b><font face="Arial Narrow">and go storm the Capitol?</font></b>
+<b><font face="Arial Narrow">Besides, it's already underway.</font></b>
+<b><font face="Arial Narrow">Six soldiers went in. Volunteer only.</font></b>
+<b><font face="Arial Narrow">And guess who was the first
+brave soul to sign up.</font></b>
+<b><font face="Arial Narrow">Gale.</font></b>
+<b><font face="Arial Narrow">- Okay, Finnick?
+- Yeah. Yeah.</font></b>
+<b><font face="Arial Narrow">Go in the center there. Those rocks.</font></b>
+<b><font face="Arial Narrow">Castor, to left.</font></b>
+<b><font face="Arial Narrow">Pollux, you're with me.</font></b>
+<b><font face="Arial Narrow">So we'll go straight to camera.</font></b>
+<b><font face="Arial Narrow">Okay? Finnick?</font></b>
+<b><font face="Arial Narrow">Yeah.</font></b>
+<b><font face="Arial Narrow">Okay.</font></b>
+<b><font face="Arial Narrow">Take your time.</font></b>
+<b><font face="Arial Narrow">Just remember to keep talking
+and don't stop.</font></b>
+<b><font face="Arial Narrow">This is Finnick Odair.</font></b>
+<b><font face="Arial Narrow">Winner of the 65th Hunger Games.</font></b>
+<b><font face="Arial Narrow">And I'm coming to you from District 13,
+alive and well.</font></b>
+<b><font face="Arial Narrow">We've survived an assault
+from the Capitol.</font></b>
+<b><font face="Arial Narrow">But I'm not here to give you recent news.</font></b>
+<b><font face="Arial Narrow">Why is Finnick doing a propo?</font></b>
+<b><font face="Arial Narrow">It's a lot more than that.</font></b>
+<b><font face="Arial Narrow">Beetee's commandeered the system.</font></b>
+<b><font face="Arial Narrow">Now that they're down to generator power</font></b>
+<b><font face="Arial Narrow">there's a more limited range of
+frequencies available to them.</font></b>
+<b><font face="Arial Narrow">And I'm filling them all up with Finnick.</font></b>
+<b><font face="Arial Narrow">Not many will see it, but whoever does</font></b>
+<b><font face="Arial Narrow">will think it's another propo.</font></b>
+<b><font face="Arial Narrow">What they don't know is this broadcast</font></b>
+<b><font face="Arial Narrow">is jamming their entire system with noise.</font></b>
+<b><font face="Arial Narrow">Early defense warning, internal
+communications, everything.</font></b>
+<b><font face="Arial Narrow">As long as the broadcast goes through,</font></b>
+<b><font face="Arial Narrow">our team should be able to
+get in and out undetected.</font></b>
+<b><font face="Arial Narrow">The truth. Not the myths about
+a life of luxury.</font></b>
+<b><font face="Arial Narrow">Not the lie about glory for your homeland.</font></b>
+<b><font face="Arial Narrow">You can survive the arena.</font></b>
+<b><font face="Arial Narrow">The moment you leave, you're a slave.</font></b>
+<b><font face="Arial Narrow">Mockingjay One, Mockingjay One,</font></b>
+<b><font face="Arial Narrow">you are one minute out from
+perimeter defense.</font></b>
+<b><font face="Arial Narrow">Going dark.</font></b>
+<b><font face="Arial Narrow">Stay low in case they're on-line.</font></b>
+<b><font face="Arial Narrow">President Snow used to sell me.</font></b>
+<b><font face="Arial Narrow">Or my body, at least. I wasn't the only one.</font></b>
+<b><font face="Arial Narrow">If a Victor is considered desirable,</font></b>
+<b><font face="Arial Narrow">the President gives them as a reward
+or allows people to buy them.</font></b>
+<b><font face="Arial Narrow">If you refuse, he kills someone you love.</font></b>
+<b><font face="Arial Narrow">Mockingjay One, you are 20 seconds
+from perimeter defense.</font></b>
+<b><font face="Arial Narrow">Ten seconds.</font></b>
+<b><font face="Arial Narrow">Nine...eight...</font></b>
+<b><font face="Arial Narrow">seven...six...five...</font></b>
+<b><font face="Arial Narrow">four...three...two...</font></b>
+<b><font face="Arial Narrow">one.</font></b>
+<b><font face="Arial Narrow">No response from perimeter defense.</font></b>
+<b><font face="Arial Narrow">We're inside Capitol airspace.</font></b>
+<b><font face="Arial Narrow">To make themselves feel better,</font></b>
+<b><font face="Arial Narrow">my patrons would make presents
+of money or jewelry.</font></b>
+<b><font face="Arial Narrow">But I found a much more valuable form
+of payment.</font></b>
+<b><font face="Arial Narrow">Secrets.</font></b>
+<b><font face="Arial Narrow">Gear up.</font></b>
+<b><font face="Arial Narrow">Switching to Night View.</font></b>
+<b><font face="Arial Narrow">There.</font></b>
+<b><font face="Arial Narrow">Command, we have visual
+on the Tribute Center.</font></b>
+<b><font face="Arial Narrow">Initiating final approach.</font></b>
+<b><font face="Arial Narrow">Masks on.</font></b>
+<b><font face="Arial Narrow">See, I know all the depravity,
+the deceit and the cruelty</font></b>
+<b><font face="Arial Narrow">of the Capitol's pampered elite.</font></b>
+<b><font face="Arial Narrow">But the biggest secrets are about our
+good President, Coriolanus Snow.</font></b>
+<b><font face="Arial Narrow">Open the door.</font></b>
+<b><font face="Arial Narrow">Command, this is Team Leader.</font></b>
+<b><font face="Arial Narrow">Prepare to deploy gas. We
+will confirm once inside.</font></b>
+<b><font face="Arial Narrow">Such a young man when he rose to power.</font></b>
+<b><font face="Arial Narrow">Such a clever one to keep it.</font></b>
+<b><font face="Arial Narrow">How, you may ask, did he do it?</font></b>
+<b><font face="Arial Narrow">One word.</font></b>
+<b><font face="Arial Narrow">Poison.</font></b>
+<b><font face="Arial Narrow">Get ready to drop.</font></b>
+<b><font face="Arial Narrow">He stopped every mutiny
+before it even started.</font></b>
+<b><font face="Arial Narrow">Clear.</font></b>
+<b><font face="Arial Narrow">Clear. Command, we're inside.</font></b>
+<b><font face="Arial Narrow">Heading toward target number one.</font></b>
+<b><font face="Arial Narrow">Cell P45 lower level 2C.</font></b>
+<b><font face="Arial Narrow">Gas.</font></b>
+<b><font face="Arial Narrow">There are so many mysterious deaths</font></b>
+<b><font face="Arial Narrow">to adversaries.</font></b>
+<b><font face="Arial Narrow">Even to allies who were threats.</font></b>
+<b><font face="Arial Narrow">Snow would drink from the same cup,</font></b>
+<b><font face="Arial Narrow">to deflect suspicion.</font></b>
+<b><font face="Arial Narrow">But antidotes don't always work,</font></b>
+<b><font face="Arial Narrow">which is why he wears roses
+that reek of perfume.</font></b>
+<b><font face="Arial Narrow">Help cover the scent of blood from sores
+in his mouth that will never heal.</font></b>
+<b><font face="Arial Narrow">Gale.</font></b>
+<b><font face="Arial Narrow">But he can't hide the scent
+of who he really is.</font></b>
+<b><font face="Arial Narrow">He kills without mercy.</font></b>
+<b><font face="Arial Narrow">He rules with deception and fear.</font></b>
+<b><font face="Arial Narrow">His weapon of choice is the only thing
+suited to such a man.</font></b>
+<b><font face="Arial Narrow">Poison.</font></b>
+<b><font face="Arial Narrow">The perfect weapon for a snake.</font></b>
+<b><font face="Arial Narrow">What is this place?</font></b>
+<b><font face="Arial Narrow">- Beetee?
+- I'm losing them.</font></b>
+<b><font face="Arial Narrow">Powering back up.</font></b>
+<b><font face="Arial Narrow">Ma'am, the Capitol air defense system</font></b>
+<b><font face="Arial Narrow">is rebooting. It's coming back on-line.</font></b>
+<b><font face="Arial Narrow">Must be diverting power
+from another source.</font></b>
+<b><font face="Arial Narrow">And filtering transmissions.</font></b>
+<b><font face="Arial Narrow">Another 60 seconds and we'll be cut off.</font></b>
+<b><font face="Arial Narrow">Madam President, should we call back
+the hovercraft?</font></b>
+<b><font face="Arial Narrow">Broadcast me.</font></b>
+<b><font face="Arial Narrow">If Snow's watching this, maybe he'll
+let the signal in,</font></b>
+<b><font face="Arial Narrow">if he sees me.</font></b>
+<b><font face="Arial Narrow">Put me on the air so he can see me.</font></b>
+<b><font face="Arial Narrow">Yes. Yes.</font></b>
+<b><font face="Arial Narrow">Put her on.</font></b>
+<b><font face="Arial Narrow">Can we do this? Can we still get in?</font></b>
+<b><font face="Arial Narrow">Yes. For the moment.</font></b>
+<b><font face="Arial Narrow">The line's open. He will only see you.</font></b>
+<b><font face="Arial Narrow">Okay, Katniss, go.</font></b>
+<b><font face="Arial Narrow">President Snow?</font></b>
+<b><font face="Arial Narrow">President Snow. It's Katniss.</font></b>
+<b><font face="Arial Narrow">There's no guarantee he's even watching.</font></b>
+<b><font face="Arial Narrow">I know, but he might be.</font></b>
+<b><font face="Arial Narrow">President Snow, I need to speak with you.</font></b>
+<b><font face="Arial Narrow">Are you there?</font></b>
+<b><font face="Arial Narrow">President Snow, it's Katniss.
+Can you hear me?</font></b>
+<b><font face="Arial Narrow">I need to speak with you.</font></b>
+<b><font face="Arial Narrow">President Snow, it's Katniss.</font></b>
+<b><font face="Arial Narrow">President Snow,</font></b>
+<b><font face="Arial Narrow">are you there?</font></b>
+<b><font face="Arial Narrow">Can you hear me?</font></b>
+<b><font face="Arial Narrow">President Snow...</font></b>
+<b><font face="Arial Narrow">Miss Everdeen. What an honor.</font></b>
+<b><font face="Arial Narrow">I don't imagine you're calling
+to thank me for the roses.</font></b>
+<b><font face="Arial Narrow">I never asked for this.</font></b>
+<b><font face="Arial Narrow">I never asked to be in the Games.</font></b>
+<b><font face="Arial Narrow">Boggs? Come in. Boggs?</font></b>
+<b><font face="Arial Narrow">I never asked to be the Mockingjay.</font></b>
+<b><font face="Arial Narrow">Just wanted to save my sister.</font></b>
+<b><font face="Arial Narrow">And keep Peeta alive.</font></b>
+<b><font face="Arial Narrow">Come in. Boggs?</font></b>
+<b><font face="Arial Narrow">Please, just let him go.</font></b>
+<b><font face="Arial Narrow">And I will stop being the Mockingjay.</font></b>
+<b><font face="Arial Narrow">I will disappear. You will never
+have to see me ever again.</font></b>
+<b><font face="Arial Narrow">Miss Everdeen.</font></b>
+<b><font face="Arial Narrow">Boggs, come in.</font></b>
+<b><font face="Arial Narrow">You couldn't run from this...</font></b>
+<b><font face="Arial Narrow">Copy.</font></b>
+<b><font face="Arial Narrow">Any more than you could have run
+from the Games.</font></b>
+<b><font face="Arial Narrow">Command, I need a situation report.</font></b>
+<b><font face="Arial Narrow">Boggs, we're running out of time. Hurry.</font></b>
+<b><font face="Arial Narrow">Let's move.</font></b>
+<b><font face="Arial Narrow">Please.</font></b>
+<b><font face="Arial Narrow">You've won.</font></b>
+<b><font face="Arial Narrow">You've already beaten me.</font></b>
+<b><font face="Arial Narrow">Release Peeta. And take me instead.</font></b>
+<b><font face="Arial Narrow">We're long past the opportunity
+for noble sacrifice.</font></b>
+<b><font face="Arial Narrow">Then tell me what to do.</font></b>
+<b><font face="Arial Narrow">I've always kept my promises, haven't I?</font></b>
+<b><font face="Arial Narrow">You said you didn't want a war.</font></b>
+<b><font face="Arial Narrow">And that's just what's happened.</font></b>
+<b><font face="Arial Narrow">I told you what a fragile thing peace was.</font></b>
+<b><font face="Arial Narrow">And still, like a child, you took pleasure
+in breaking it.</font></b>
+<b><font face="Arial Narrow">I know what you are.</font></b>
+<b><font face="Arial Narrow">I know you can't see past
+your narrowest concerns.</font></b>
+<b><font face="Arial Narrow">But please, Miss Everdeen.</font></b>
+<b><font face="Arial Narrow">I doubt you know what honesty is anymore.</font></b>
+<b><font face="Arial Narrow">Command, we're at the first target.</font></b>
+<b><font face="Arial Narrow">Preparing to extract Peeta.</font></b>
+<b><font face="Arial Narrow">Will confirm when he's in hand.</font></b>
+<b><font face="Arial Narrow">Mockingjay One, prepare hovercraft for evac.</font></b>
+<b><font face="Arial Narrow">You asked me to convince you
+that I was in love with Peeta.</font></b>
+<b><font face="Arial Narrow">Haven't I at least done that?</font></b>
+<b><font face="Arial Narrow">Miss Everdeen,</font></b>
+<b><font face="Arial Narrow">it's the things we love most</font></b>
+<b><font face="Arial Narrow">that destroy us.</font></b>
+<b><font face="Arial Narrow">I want you to remember that I said that.</font></b>
+<b><font face="Arial Narrow">Don't you think I know your friends
+are in the Tribute Center?</font></b>
+<b><font face="Arial Narrow">Cut them off.</font></b>
+<b><font face="Arial Narrow">- What happened?
+- Boggs, come in.</font></b>
+<b><font face="Arial Narrow">What happened?</font></b>
+<b><font face="Arial Narrow">Boggs, come in. Do you read me?</font></b>
+<b><font face="Arial Narrow">He knows that they're in there.</font></b>
+<b><font face="Arial Narrow">- It's a trap.
+- Katniss, hold it.</font></b>
+<b><font face="Arial Narrow">We have to get a hold of them.</font></b>
+<b><font face="Arial Narrow">We have to tell them to get out. He knows.</font></b>
+<b><font face="Arial Narrow">There's no signal. We can't contact them.</font></b>
+<b><font face="Arial Narrow">No. Haymitch, he knew the whole time.
+He was taunting me.</font></b>
+<b><font face="Arial Narrow">No, Haymitch. They're in there.</font></b>
+<b><font face="Arial Narrow">No, we don't know that.</font></b>
+<b><font face="Arial Narrow">Did I lose them both tonight?</font></b>
+<b><font face="Arial Narrow">- Did I lose them both tonight?
+- Shhh.</font></b>
+<b><font face="Arial Narrow">Did I lose them? I lost them both.</font></b>
+<b><font face="Arial Narrow">No! No!</font></b>
+<b><font face="Arial Narrow">There's no news.</font></b>
+<b><font face="Arial Narrow">I'm sorry.</font></b>
+<b><font face="Arial Narrow">It's the worst torture in the world.</font></b>
+<b><font face="Arial Narrow">Waiting, when you know there's
+nothing you can do.</font></b>
+<b><font face="Arial Narrow">Especially for people like us.</font></b>
+<b><font face="Arial Narrow">But whatever strength, courage,</font></b>
+<b><font face="Arial Narrow">madness,</font></b>
+<b><font face="Arial Narrow">keeps us going, you find it,
+at times like these.</font></b>
+<b><font face="Arial Narrow">You have it, soldier.</font></b>
+<b><font face="Arial Narrow">It's what's kept you alive all this time.</font></b>
+<b><font face="Arial Narrow">And it won't fail you now.</font></b>
+<b><font face="Arial Narrow">They're back.</font></b>
+<b><font face="Arial Narrow">I don't want that.</font></b>
+<b><font face="Arial Narrow">Johanna.</font></b>
+<b><font face="Arial Narrow">Finnick!</font></b>
+<b><font face="Arial Narrow">Finnick!</font></b>
+<b><font face="Arial Narrow">Annie? Annie!</font></b>
+<b><font face="Arial Narrow">You're safe. You're safe.</font></b>
+<b><font face="Arial Narrow">Gale!</font></b>
+<b><font face="Arial Narrow">Are you okay?</font></b>
+<b><font face="Arial Narrow">What? What is it?</font></b>
+<b><font face="Arial Narrow">I don't get it.</font></b>
+<b><font face="Arial Narrow">Every gun was back on-line</font></b>
+<b><font face="Arial Narrow">and on us and we flew right past them.</font></b>
+<b><font face="Arial Narrow">They let us go.</font></b>
+<b><font face="Arial Narrow">He's in there.</font></b>
+<b><font face="Arial Narrow">Gas we used on the guards</font></b>
+<b><font face="Arial Narrow">knocked him out, too, but
+it's wearing off now.</font></b>
+<b><font face="Arial Narrow">You should be there when he wakes up.</font></b>
+<b><font face="Arial Narrow">Thank you.</font></b>
+<b><font face="Arial Narrow">Thank you.</font></b>
+<b><font face="Arial Narrow">Peeta.</font></b>
+<b><font face="Arial Narrow">Peeta!</font></b>
+<b><font face="Arial Narrow">Peeta! Get off! Get off of her!</font></b>
+<b><font face="Arial Narrow">Let go!</font></b>
+<b><font face="Arial Narrow">No, Katniss. No, you're swollen.
+Don't touch.</font></b>
+<b><font face="Arial Narrow">No, no, no. Calm down.</font></b>
+<b><font face="Arial Narrow">Calm down. You're okay.</font></b>
+<b><font face="Arial Narrow">Tell her she's awake.</font></b>
+<b><font face="Arial Narrow">Don't try to talk.</font></b>
+<b><font face="Arial Narrow">Peeta's okay. I promise.</font></b>
+<b><font face="Arial Narrow">I just had to get him off you.</font></b>
+<b><font face="Arial Narrow">It's called hijacking.</font></b>
+<b><font face="Arial Narrow">We don't know how long the Capitol's
+been doing this to Peeta.</font></b>
+<b><font face="Arial Narrow">It's fear conditioning.</font></b>
+<b><font face="Arial Narrow">Enhanced with tracker jacker venom.</font></b>
+<b><font face="Arial Narrow">You were stung your first Games. Remember?</font></b>
+<b><font face="Arial Narrow">The venom puts the subject
+in a dissociative state.</font></b>
+<b><font face="Arial Narrow">And they torture him.</font></b>
+<b><font face="Arial Narrow">With shocks and beatings, and
+strip down his identity.</font></b>
+<b><font face="Arial Narrow">And then all of that suffering
+and fear is redirected.</font></b>
+<b><font face="Arial Narrow">Associated with other memories or a person.</font></b>
+<b><font face="Arial Narrow">They can change his memories of Katniss?</font></b>
+<b><font face="Arial Narrow">To make her seem life-threatening.</font></b>
+<b><font face="Arial Narrow">They turned him into a weapon, Katniss.</font></b>
+<b><font face="Arial Narrow">To kill you.</font></b>
+<b><font face="Arial Narrow">But you can reverse it?</font></b>
+<b><font face="Arial Narrow">The fear is the most difficult thing
+to overcome.</font></b>
+<b><font face="Arial Narrow">We're hardwired to remember fear best.</font></b>
+<b><font face="Arial Narrow">It's new terrain.</font></b>
+<b><font face="Arial Narrow">But we've put together a team.</font></b>
+<b><font face="Arial Narrow">I'm optimistic.</font></b>
+<b><font face="Arial Narrow">Good evening.</font></b>
+<b><font face="Arial Narrow">Yesterday, I authorized</font></b>
+<b><font face="Arial Narrow">a covert rescue mission
+inside the Capitol.</font></b>
+<b><font face="Arial Narrow">I am pleased to announce</font></b>
+<b><font face="Arial Narrow">that the Victors have been liberated!</font></b>
+<b><font face="Arial Narrow">Let this day mark an historic change.</font></b>
+<b><font face="Arial Narrow">With the Mockingjay and
+the Victors beside us,</font></b>
+<b><font face="Arial Narrow">we have sent a clear message
+to the Capitol.</font></b>
+<b><font face="Arial Narrow">That we will never again endure injustice.</font></b>
+<b><font face="Arial Narrow">Today,</font></b>
+<b><font face="Arial Narrow">a day on which we reunited family,</font></b>
+<b><font face="Arial Narrow">friends, and loved ones.</font></b>
+<b><font face="Arial Narrow">Let all of Panem come together.</font></b>
+<b><font face="Arial Narrow">Not to battle for the amusement
+of the Capitol.</font></b>
+<b><font face="Arial Narrow">But to join hands in this fight.</font></b>
+<b><font face="Arial Narrow">Let today be the day we promise</font></b>
+<b><font face="Arial Narrow">never to give up, never to give in</font></b>
+<b><font face="Arial Narrow">until we have made a new Panem,</font></b>
+<b><font face="Arial Narrow">where leaders are elected,
+not imposed upon us.</font></b>
+<b><font face="Arial Narrow">And where the districts are free</font></b>
+<b><font face="Arial Narrow">to share the fruits of their labors</font></b>
+<b><font face="Arial Narrow">and not fight one another for scraps!</font></b>
+<b><font face="Arial Narrow">This new Panem is on the horizon.</font></b>
+<b><font face="Arial Narrow">But we must take it for ourselves.</font></b>
+<b><font face="Arial Narrow">The road there leads through
+the sharp mountains</font></b>
+<b><font face="Arial Narrow">and deep ravines of District 2.</font></b>
+<b><font face="Arial Narrow">There in the heart</font></b>
+<b><font face="Arial Narrow">of Panem's steepest mountain range lies</font></b>
+<b><font face="Arial Narrow">the Capitol's principal military facility.</font></b>
+<b><font face="Arial Narrow">We can conquer this stronghold</font></b>
+<b><font face="Arial Narrow">because we are one people,</font></b>
+<b><font face="Arial Narrow">one army, one voice.</font></b>
+<b><font face="Arial Narrow">Because today is our new beginning.</font></b>
+<b><font face="Arial Narrow">Today we have freed the Victors.</font></b>
+<b><font face="Arial Narrow">Tomorrow, Panem!</font></b>
+<b><font face="Arial Narrow">Hoorah! Hoorah! Hoorah!</font></b>
+<font face="Tw Cen MT Condensed Extra Bold">{\an2}SubText: NoRMITA.326</font>

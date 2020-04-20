@@ -1,0 +1,1636 @@
+<font color="#ffff80"><i>In the year 2026...</i></font>
+<font color="#ffff80"><i>archaeologists working
+in the Nevada desert...</i></font>
+<font color="#ffff80"><i>discovered a portal
+to an ancient city on Mars.</i></font>
+<font color="#ffff80"><i>They called this portal the Ark.</i></font>
+<font color="#ffff80"><i>Twenty years later, we're still
+struggling to understand...</i></font>
+<font color="#ffff80"><i>why it was built...</i></font>
+<font color="#ffff80"><i>and what happened to the
+civilization that built it.</i></font>
+<font color="#FFFF80">[Woman yelling]</font>
+Dr. Carmack!
+<font color="#FFFF80">[Woman yelling]</font>
+Dr. Carmack!
+Dr. Carmack!
+Dr. Carmack!
+This is Dr. Carmack,
+Classified Research, Olduvai, ID 6627.
+We've had a Level 5 breach.
+Implement quarantine
+procedures immediately.
+Implement quarantine procedures now.
+<font color="#ffff40">Doom</font>
+<font color="#FFFF80">[Sarge]</font>
+Reading you loud and clear, General.
+<i>Union Aerospace has requested
+assistance to contain...</i>
+<i>a Level 5 breach
+at their Olduvai facility.</i>
+<font color="#FFFF80">[Sarge]</font>
+How many personnel involved?
+<i>Six scientists are under lockdown
+in a high-security lab...</i>
+<i>where the breach occurred.</i>
+<i>Another 79 UAC employees are on site.</i>
+- <i>Ark travel has been suspended.</i>
+- What's the objective?
+- <i>Code red. Assess level of threat.</i>
+- Assess level of threat.
+<i>Protect and retrieve UAC property.</i>
+<i>Maintain quarantine at both Ark portals
+by any means necessary.</i>
+- Use extreme prejudice?
+- <i>Extreme prejudice.</i>
+<i>If necessary,
+search and destroy. Over.</i>
+Search and destroy.
+Orders received and understood.
+Out.
+<font color="#FFFF80">[Duke]</font>
+Oh, you're trying to get nasty now, huh?
+Now you dead. You dead, sucker.
+All right, all right.
+You wanna bring your boys?
+You wanna bring your boys?
+I don't believe this.
+I confess to God the father.
+<font color="#FFFF80">[Portman]</font>
+Oh, yeah!
+I need help.
+The wall, man.
+I don't believe this shit.
+Six months without a weekend...
+the goddamned transporters
+are five minutes late.
+And that's five minutes of R and R
+I ain't never gonna get back.
+Hey, relax, baby.
+We're on vacation.
+Yo.
+This game's layered, man.
+- <font color="#FFFF80">[Destroyer]</font> Where you going, Portman?
+- I'm going down to El Honto...
+and I'm gonna lock myself
+in a motel room...
+with a bottle of tequila
+and three she-boys.
+You're sick, man.
+- I'm sick of your filth, Portman.
+- He speaks. Hm.
+<font color="#FFFF80">[Duke]</font>
+What's it gonna be, Reaps?
+An armed conflict someplace quiet?
+<font color="#FFFF80">[Portman]</font>
+Yeah, a little relaxing jungle warfare?
+Or maybe you're just
+gonna stay right here.
+Spending my time doing pushups.
+Listen up, men.
+Leave is canceled.
+Oh, man. I just...
+I don't believe this shit.
+- Fuck!
+- Got a problem with that, Duke?
+Me, Sarge?
+Hell, no, I love my job.
+- What's up, Sarge?
+- We got us a game.
+Kid!
+Son, you are now in the
+Rapid Response Tactical Squad...
+the double R, T, S.
+Fall in.
+<font color="#FFFF80">[Duke]</font> All dressed up and
+nowhere to go, huh, Portman?
+- <font color="#FFFF80">[Portman]</font> Kid, don't forget your rattle.
+- <font color="#FFFF80">[Kid]</font> Shut up, Portman.
+- Not this time, John.
+- What?
+- We can handle this one.
+- You're bullshitting me.
+No, I'm not bullshitting.
+We're going to Olduvai.
+Olduvai?
+- Take the leave.
+- Is that an order?
+It's a recommendation.
+See you when I get back.
+- <i>Aircraft ready to load.</i>
+- Copy that.
+Great vacation.
+Damn, they go quick.
+Almost like we've never been away.
+We're a go.
+<font color="#FFFF80">[Man]</font> All systems are green.
+Prepare for takeoff.
+<font color="#FFFF80">[Man]</font>
+Okay, Sarge, roger.
+<i>RRTS Special Ops clearance verified.</i>
+<font color="#FFFF80">[synth voice]</font>
+<i>Handle ID: Destroyer.</i>
+- Daddy's home.
+- <font color="#FFFF80">[synth voice]</font> <i>Handle ID: Mac.</i>
+<i>Handle ID: Portman.
+Handle ID: Goat.</i>
+<i>Handle ID: The Kid.</i>
+- "The Kid"?
+- <font color="#FFFF80">[synth voice]</font> <i>Handle ID: Duke.</i>
+Say my name, baby.
+<font color="#FFFF80">[synth voice]</font>
+<i>RRTS Special Ops clearance verified.</i>
+<i>Handle ID: Sarge.</i>
+I can't believe we're
+going through the Ark.
+Don't worry, Kid.
+You're gonna love it.
+- All set?
+- <font color="#FFFF80">[all]</font> Yes, sir.
+<font color="#FFFF80">[synth voice]</font> <i>RRTS Special Ops
+clearance verified. Handle ID: Reaper.</i>
+Take us up!
+<i>RRTS air 6,
+we're airborne and en route.</i>
+You know, Kid,
+it's funny.
+A couple of days ago
+I asked Sarge for a little pussy.
+The next day he brought you
+onto the team.
+<font color="#FFFF80">[Reaper]</font>
+Don't give me an excuse, Portman.
+No one here will miss you.
+<font color="#FFFF80">[Sarge]</font>
+Men, look in.
+This is what we got from Simcon.
+We have a quarantine situation
+on Olduvai.
+They sent this message...
+when the research team stopped
+responding to all communications.
+Olduvai.
+<font color="#FFFF80">[Carmack's video]</font> <i>This is Dr. Carmack,
+Classified Research, Olduvai, ID 6627.</i>
+<i>We've had a Level 5 breach.</i>
+<i>Implement quarantine
+procedures immediately.</i>
+<i>I repeat.</i>
+<i>This is Dr. Carmack,
+Classified Research, Olduvai, ID 6627.</i>
+<i>We've had a Level 5 breach.</i>
+<i>Implement quarantine procedures now.</i>
+UAC have shut down the lab, men.
+We need to go up there,
+locate the team...
+eliminate the threat
+and secure the facility.
+What threat?
+It goes like this, see:
+If it's trying to kill you, it's a threat.
+<i>Rescue mission heading 147 degrees.</i>
+<i>Location Lima,
+Zulu, Foxtrot 14.</i>
+<i>Roger, Q-06.
+Badger 39 out.</i>
+<i>Copy, Badger 39.</i>
+- How long has it been?
+- Ten years.
+Sure she's even still up there?
+Yeah.
+I guess you gotta face
+your demon sometime.
+<i>Copy, Q-06, we've got
+a visual on Lima, Zulu.</i>
+<i>ETA at 90 seconds.
+Stand by.</i>
+Look alive, men.
+Game time.
+Halt.
+Move in.
+You hesitate, people die.
+<font color="#FFFF80">[Man]</font>
+I checked it...
+at least three times
+before we sent it through.
+Sanford Crosby,
+UAC Public Relations.
+- Now follow me, please.
+- <font color="#FFFF80">[Reaper]</font> How many people you got up there?
+UAC employs 85 permanent
+research staff on Olduvai.
+Welcome to the Ark,
+gentlemen.
+<font color="#FFFF80">[announcer]</font>
+<i>Initiating molecular mapping drive.</i>
+<i>Initiating molecular mapping drive.</i>
+<i>All personnel,
+prepare for activation.</i>
+Keep your distance from the core
+or you might get sucked in.
+You, uh,
+you done this before?
+Once.
+Training mission.
+Hope you had a good dinner, Kid.
+<font color="#FFFF80">[announcer]</font>
+<i>Inter-planet coordinate lock engaged.</i>
+<i>All telemetry verified
+and transmissions are five-by-five.</i>
+<font color="#FFFF80">[Sarge]</font> Soon as we get through, I need you
+to shut down the surface elevator here.
+Make sure that we get the
+standard quarantine of six hours.
+- <font color="#FFFF80">[announcer]</font> <i>Target receiver initialized.</i>
+- Ready to proceed.
+<font color="#FFFF80">[announcer]</font> <i>Ark travel,
+15 seconds and counting.</i>
+<i>Five, four...</i>
+<i>three, two...</i>
+<i>one.</i>
+Why we gotta come all this way?
+Why can't UAC rent-a-cops
+take care of this bullshit?
+Is it always that rough?
+Believe me,
+it used to be a lot rougher.
+There was a time when Ark travel
+was susceptible to, let's say...
+- major turbulence.
+- What's he mean?
+He means he went to one galaxy,
+his ass went to another.
+Call it a scientific miscalculation.
+Unbelievable as it may seem,
+UAC does make the odd tiny mistake.
+Marcus Pinzerowsky.
+You call me Pinky. Follow me.
+<font color="#FFFF80">[Sarge]</font> Where are the personnel
+who aren't locked down in the lab?
+In the atrium.
+Pinky, put us up.
+Activating remote
+personnel surveillance.
+Circle out men,
+on my three.
+One, two, three.
+Killcams up and running.
+People, this room is a code red,
+which means...
+no one gets in without our permission.
+It stays ours at all costs.
+Mac, stay here with our friend
+and secure the door.
+Men, on me.
+Let's move out.
+Open the doors.
+<font color="#FFFF80">[UAC personnel]</font>
+Who called in the military?
+Where the fuck are we?
+Couple million light years
+from breakfast.
+When can I start evacuating
+people out through the Ark?
+We're at a Level 5 quarantine,
+nobody goes anywhere.
+Ladies,
+we're under a Level 5 quarantine...
+so I'm just gonna have to
+strip search you girls.
+- <font color="#FFFF80">[Woman]</font> I don't think so.
+- <font color="#FFFF80">[Portman]</font> Hold that thought.
+We're under a Level 5 quarantine,
+so I'm just gonna have...
+- to strip...
+- <font color="#FFFF80">[Sarge]</font> Portman!
+<font color="#FFFF80">[Hunegs]</font> Sergeant, this is Doctor
+Samantha Grimm, the UAC science officer...
+<font color="#FFFF80">[Hunegs]</font>
+assigned to retrieve data from the lab.
+- Sergeant.
+- <font color="#FFFF80">[Sarge]</font> Dr. Grimm.
+- <font color="#FFFF80">[Sam]</font> Hello, John.
+- Hello, Samantha.
+Hello, Samantha!
+<font color="#FFFF80">[Reaper]</font>
+Sarge, this operation is a code red.
+We really don't have room for passengers.
+<font color="#FFFF80">[Sam]</font> Excuse me, but I have orders
+to retrieve data from three servers:
+Anthropology, Forensic Archeology,
+and Genetics.
+This is a military operation, Doctor.
+We're really not here
+to retrieve your science homework.
+Look, I got an idea. Why don't you
+ask your CO what your orders are?
+To contain and neutralize the threat,
+protect the civilians...
+and retrieve...
+retrieve UAC property.
+We finally done here?
+Because I've got a job to do.
+- If you'll follow me?
+- You chose this, Reaper.
+- Is this gonna spoil my day?
+- No, sir.
+Tell me you didn't let
+a fine-looking piece of ass...
+- like that get away from you, Reaper.
+- She's my sister.
+- No shit?
+- <font color="#FFFF80">(peeved)</font> Don't do this again, man.
+Do what?
+There's three sections
+to Carmack's lab complex.
+Archeology, Genetics,
+and Weapons Research.
+- You test weapons up here?
+- Well, it's a dead planet.
+You want that stuff tested here,
+where it's safe, or in your own backyard?
+We're primarily
+an archeological operation.
+Weapons Research is in
+its own separate facility.
+It has nothing to do
+with Dr. Carmack's work.
+How many inside when the lab shut down?
+Only Dr. Carmack's team.
+That's six people.
+In one of the carbon dating labs,
+there was an internal phone...
+left off the hook.
+Did you get any information from it?
+<font color="#FFFF80">[recorded screams playback]</font>
+Open the door.
+Portman, Goat,
+lead on.
+Magnesium, chromium, lead.
+It's all normal.
+All clear.
+Pinky, give us a schematic.
+Uploading to you now.
+<font color="#FFFF80">[Pinky]</font> <i>Carmack's lab is isolated
+from the rest of the facility.</i>
+<font color="#FFFF80">[Pinky]</font>
+<i>The airlock is the only way in or out.</i>
+Goat, Portman:
+Genetics.
+Kid, Destroyer: Carmack's office,
+where he sent the mayday from.
+<font color="#FFFF80">[Sarge]</font> Reaper, keep Dr. Grimm
+here safe on her salvage op.
+Duke and I'll take the weapons lab,
+make sure all the hardware's secure.
+Be safe, gentlemen.
+- Portman, Goat, on you.
+- It's on.
+- <font color="#FFFF80">[Portman]</font> Clear left.
+- Clear right.
+Five bucks says this shit ain't nothing
+but a disgruntled employee with a gun.
+Fluorescent markings
+as rooms are cleared. Go.
+They're on the move.
+You don't look like a "Mac."
+Katsuhiko Kumanosuke Takaashi.
+So, Mac.
+What the fuck.
+Pinky,
+<i>you getting this?</i>
+Jesus.
+<font color="#FFFF80">[Pinky]</font>
+<i>Very cool.</i>
+Cleared.
+Where the hell is everybody?
+Hey.
+Lock in.
+<font color="#FFFF80">[Reaper]</font>
+It's clear.
+How much time you gonna need?
+Thirty minutes, tops.
+<font color="#FFFF80">[Pinky on radio]</font>
+<i>Goat, Portman.</i>
+There's another room to the north.
+<font color="#FFFF80">[Pinky]</font>
+<i>Past Genetics.</i>
+<font color="#FFFF80">[Goat]</font>
+Copy that.
+- What the hell is that?
+- You never did time, Portman?
+What?
+- This is a holding cell.
+- <font color="#FFFF80">(doubtful)</font> Bullshit.
+What makes you think that?
+Touch it.
+- 'Cause the walls are electrified.
+- <font color="#FFFF80">(peeved)</font> You asshole!
+<font color="#FFFF80">[Duke]</font> Jeez. They leave shit
+like this lying around?
+<font color="#FFFF80">[Duke]</font>
+I'd hate to see what they lock up.
+<font color="#FFFF80">[Sarge]</font>
+"BFG."
+<font color="#FFFF80">[Duke]</font> Hey, Sarge,
+what's the deal with the sister?
+Reaper's parents led the first team
+of archeologists to Olduvai.
+They died in some accident
+when he was a kid.
+She followed in their footsteps,
+and he didn't.
+No, what I meant was,
+is she single?
+<font color="#FFFF80">[synth voice]</font>
+<i>Please provide DNA verification.</i>
+<i>Access denied.</i>
+All units report contact.
+<font color="#FFFF80">[Sarge]</font> <i>God damn it,
+all units report contact.</i>
+<font color="#FFFF80">(calling)</font> Hey.
+It was moving.
+<font color="#FFFF80">[Destroyer]</font> <i>Friendly fire, Sarge.
+Wasting ghosts.</i>
+Roger that.
+Funny, Duke.
+<font color="#FFFF80">[Sam]</font> So, "Reaper"?
+As in "Grim"?
+They're Marines, Sam, not poets.
+<font color="#FFFF80">[Reaper amazed]</font>
+Holy shit!
+Oh, yeah,
+meet Lucy.
+Lucy, this is my brother,
+John...
+another creature
+from the long lost past.
+- You found human remains?
+- <font color="#FFFF80">[Sam]</font> Humanoid.
+<font color="#FFFF80">[Sam]</font> Lucy and her child
+were our first major find.
+<font color="#FFFF80">[Sam]</font>
+We're bringing out more every day.
+- You re-opened the dig?
+- I know I should have told you.
+<font color="#FFFF80">[Sam]</font> I didn't figure
+it was the sort of thing...
+I could jot down on
+a yearly birthday card.
+- It's been stabilized.
+- <font color="#FFFF80">(skeptical)</font> Bullshit.
+You wanna talk about safe?
+Like you took a desk job?
+I'm a forensic archeologist, John.
+I'll go where the work is.
+Is that the only reason you're up here?
+You wanna know why I'm up here?
+I'll show you.
+Come here.
+This is Lucy's chromosome profile.
+Notice anything?
+My molecular genetics is a little rusty.
+What's the first thing
+Dad taught us to look for?
+She's got 24 pairs of chromosomes.
+- <font color="#FFFF80">[Sam]</font> Humans only have 23.
+- But what does the extra pair do?
+Makes her superhuman.
+The extra pair makes her super strong...
+super fit, super intelligent.
+Her cells divide 50 times faster...
+<font color="#FFFF80">[Sam]</font>
+meaning she heals almost instantly.
+The fossil record indicates these
+people had conquered disease.
+We found no genetic disorders,
+no viruses, no cancers.
+So what, they were just
+naturally superior?
+No.
+Not naturally.
+See, the earliest remains
+we found only had 23.
+We suspect this extra
+chromosome may be synthetic.
+Bioengineered?
+That's a long word for a Marine.
+Does it ever bother you...
+you could've spent your life
+looking in a microscope...
+instead of a sniper scope?
+If they were so smart,
+how come they're so dead?
+We don't know.
+Maybe they just went with time.
+You don't shield a baby from time.
+<font color="#FFFF80">[Portman on radio]</font>
+<i>We got movement up ahead.</i>
+You stay here, okay?
+Lock the door.
+Fucking door has been ripped open.
+There's something in Carmack's office.
+<font color="#FFFF80">[Goat]</font>
+There!
+Contact!
+<font color="#FFFF80">[Goat]</font> <i>Moving east through
+Carmack's office! Fast!</i>
+<font color="#FFFF80">[Goat]</font> <i>Confirmed contact.
+Moving fast, over south corridor.</i>
+Hold your fire!
+If you have a weapon,
+drop it.
+Don't move.
+- Sam, I told you to stay...
+- But he knows me, John.
+<font color="#FFFF80">[Sam]</font> Dr. Carmack, it's me.
+Samantha.
+<font color="#FFFF80">[Sam]</font> Where are the others?
+Where are they?
+<font color="#FFFF80">[Sam]</font>
+Steve, Hillary...
+I'm not gonna hurt you.
+I'm not gonna hurt you.
+<font color="#FFFF80">(frightful)</font>
+Ah!
+<font color="#FFFF80">(shocked)</font> Oh!
+Jesus Christ!
+- <font color="#FFFF80">[Portman]</font> Oh, damn.
+- <font color="#FFFF80">[Sam]</font> Get a med kit.
+<font color="#FFFF80">[Portman laughs]</font>
+Oh... Nice.
+I'm not gonna hurt you.
+<font color="#FFFF80">[Sarge]</font> Duke, get him to
+the infirmary with Dr. Grimm.
+<font color="#FFFF80">[Sarge]</font> Portman, Kid,
+go to the airlock and dig in.
+Anything trying to get away from us
+will get driven straight to you.
+Now let's see if we can find
+the body that goes with that arm.
+It's messed up, huh?
+Guy like Carmack...
+<font color="#FFFF80">[Portman]</font> who's trained
+to put logic before emotion...
+<font color="#FFFF80">[Portman]</font>
+he's so freaked, huh...
+he tears off his own ear?
+I tell you, man.
+It's shit like that,
+that gets under your skin.
+Do you uh...
+- Do you have any?
+- Do I have any?
+<font color="#FFFF80">(grinning)</font> What?
+You know.
+I'm just a little shook up.
+I need something to get my focus, man.
+My game face.
+God damn it!
+I took His name in vain.
+Shit.
+There is a God.
+<font color="#FFFF80">[Kid]</font>
+Ma'am.
+Excuse me, ma'am.
+<font color="#FFFF80">[Portman]</font>
+Sarge...
+I think we found the rest of that arm.
+No, no.
+- No, no, I don't do nanowalls.
+- Yes, you do.
+You got him?
+Wait here.
+Shit.
+Two, three.
+You okay?
+- Did they find the others?
+- Not yet.
+My husband is with them.
+I'm sure Steve's fine.
+Dr. Carmack, I'm going to
+take your blood pressure.
+- Hey...
+- It's okay, it's okay.
+- I can feel it.
+- What happened in there?
+Shut it, shut it down.
+Shut it down.
+<font color="#FFFF80">[Carmack]</font>
+S-shut it down.
+It's inside.
+<font color="#FFFF80">[Reaper]</font>
+<i>We heard something in Genetics.</i>
+<i>We're re-entering.</i>
+<font color="#FFFF80">[Sarge]</font>
+<i>That's affirmative, Reaper.</i>
+Looks like we missed the party.
+<font color="#FFFF80">[Goat]</font>
+We were just here.
+What happened to all the animals?
+Sir, RRTS.
+We're here to help.
+Sir, are you okay?
+Okay.
+No, no, no.
+Sir, put it down.
+<font color="#FFFF80">[Sarge on radio]</font>
+<i>Contact report.</i>
+Damn it.
+<font color="#FFFF80">[Reaper]</font>
+<i>We found another one of the scientists.</i>
+<i>Some weird shit going on here, Sarge.</i>
+- Can you ID him?
+- <font color="#FFFF80">[Reaper]</font> We got a Dr. Olsen.
+He rushed us. Crazy.
+Just like Carmack.
+- Is he dead?
+- <font color="#FFFF80">[Reaper]</font> <i>Yeah, very.</i>
+- <font color="#FFFF80">[Reaper]</font> <i>Should we bag him and tag him?</i>
+- <font color="#FFFF80">[Sarge]</font> Negative.
+<font color="#FFFF80">[Sarge]</font>
+Continue your search.
+Sarge?
+- What was that?
+- A monkey.
+Some kind of monkey.
+Oh, my God.
+There's something in his blood.
+What's happening to him?
+<font color="#FFFF80">[Reaper]</font> Move, move, move.
+I got him.
+Clear!
+Go, go, go.
+- <font color="#FFFF80">[Sarge]</font> <i>Reaper, what have you got?</i>
+- <font color="#FFFF80">[Reaper]</font> <i>We're chasing something.</i>
+- What do you mean, something?
+- Something big, not human.
+God damn it!
+Give me a confirmation
+on what you're seeing.
+- Reaper.
+- It's in the sewer.
+All units, all units.
+Southeast corridor near the med lab.
+And I thought
+"being in the shit"
+was a figure of speech.
+Get in the goddamn hole, Portman.
+I can handle things here.
+You should go.
+- I want to stay.
+- Steve is gonna be okay.
+The guys looking for him are the best.
+Go on, go on.
+Be with your daughter.
+Thank you.
+What's going on?
+<font color="#FFFF80">[Duke]</font> "No blood match."
+Can't be good, right?
+This is crazy.
+<font color="#FFFF80">[Sam]</font>
+Oh, my God!
+<font color="#FFFF80">[Pinky on radio]</font>
+<i>Tunnel ahead is the main junction.</i>
+<font color="#FFFF80">[Pinky]</font>
+<i>It leads back under the lab complex.</i>
+Destroyer, cover the exit.
+We got a Dr. Willits.
+<font color="#FFFF80">[Sarge]</font>
+"Steve Willits."
+Move out.
+"Be sober, be vigilant..."
+"because your adversary, the devil..."
+"walketh about seeking
+whom he may devour."
+That's real comforting, Goat.
+That ain't freaking me out at all.
+- <font color="#FFFF80">[Goat]</font> Portman!
+- <font color="#FFFF80">[Sarge]</font> What the fuck?
+<font color="#FFFF80">[Reaper]</font>
+Go, go.
+Wait! Somebody's down there.
+Come on.
+Grab an arm.
+Goddamn son of a bitch is heavy!
+Hang on.
+Quick, he's slipping back.
+He's slipping.
+Shit.
+Portman,
+what the hell happened?
+I fell in the damn hole.
+Shit.
+Everybody, on me.
+Watch your goddamn footing.
+<font color="#FFFF80">[Sarge]</font>
+Move.
+Shit.
+- Goat, straight ahead.
+- Sir.
+Portman, you're with me.
+John, take The Kid
+and go to the right.
+Shit!
+You lost your folks, right?
+Shut up.
+<font color="#FFFF80">[Kid]</font> Small world.
+I mean, I lost my parents, too.
+Yeah, I mean,
+I woke up one morning...
+and everything was gone.
+I mean, the only thing left was me.
+They wanted the TV
+more than they wanted me.
+Ah!
+Every time you open your mouth...
+you give away our position.
+<font color="#FFFF80">[Reaper]</font>
+Wait a minute.
+Your pupils are dilated.
+- Are you high?
+- What?
+- No, I got this condition...
+- I don't give a damn.
+You take one more shot of that shit...
+and I'll blow holes in you.
+Are we clear?
+Okay.
+Get down.
+I'm sorry, look,
+I just needed a little...
+Get down!
+Goat, I think
+<i>there's something coming up on you.</i>
+This isn't happening.
+My light is down.
+I don't see anything.
+<font color="#FFFF80">[Reaper]</font>
+<i>Don't move. I'm on my way.</i>
+Pinky.
+<font color="#FFFF80">[Goat]</font>
+<i>Can you see anything?</i>
+<font color="#FFFF80">[Pinky]</font>
+<i>No. Nothing.</i>
+Dr. Willits?
+<font color="#FFFF80">[Reaper]</font>
+<i>Goat!</i>
+<font color="#FFFF80">[Sarge]</font>
+<i>Goat, what's your position?</i>
+<font color="#FFFF80">[Reaper]</font>
+<i>Goat, where are you?</i>
+<font color="#FFFF80">[Sarge]</font>
+<i>Goat, speak to me.</i>
+<font color="#FFFF80">[Sarge]</font>
+<i>God damn it, Reaper, report to me.</i>
+<font color="#FFFF80">(shouting)</font>
+You're dead!
+<font color="#FFFF80">[Sarge]</font>
+<i>Report contact.</i>
+<font color="#FFFF80">(yelling)</font>
+Man down!
+<font color="#FFFF80">[Reaper]</font>
+Man down!
+Everyone, get to the Ark now!
+Hunegs, report to the quarantine zone.
+Evacuate the entire facility.
+Get everyone to the Ark now.
+- What's going on?
+- Get to the goddamn Ark.
+<font color="#FFFF80">[Hunegs]</font>
+Let's go. Come on.
+<font color="#FFFF80">[Hunegs]</font>
+We have an emergency. Come on.
+<font color="#FFFF80">[Hunegs]</font>
+Everybody to the Ark.
+<font color="#FFFF80">[Sam]</font>
+What happened?
+He was talking about devils.
+<font color="#FFFF80">[Sam]</font>
+Devils?
+All his Bible shit.
+Angels. Good and evil.
+- Devils among us.
+- <font color="#FFFF80">[Reaper]</font> Let's get this vest off him.
+<font color="#FFFF80">[Destroyer]</font>
+Now he's clear.
+<font color="#FFFF80">[Destroyer]</font>
+Come on.
+Got a weak pulse.
+Portman, get me a line in here.
+Come on, man.
+Kid, keep pressure on that wound.
+- How's the pulse?
+- I'm losing him.
+Sam, give me a shot of adrenaline.
+- <font color="#FFFF80">[Duke]</font> We lost the pulse.
+- <font color="#FFFF80">[Reaper]</font> Okay, let's defib.
+Come on, man.
+<font color="#FFFF80">[Reaper]</font>
+Clear!
+Where the hell's Carmack?
+He disappeared.
+What do you mean, he disappeared?
+He's gone.
+He disappeared.
+I've lost the pulse.
+Shit.
+<font color="#FFFF80">[Reaper]</font>
+Okay.
+Gonna defib.
+Clear!
+Come on.
+Come on.
+No response.
+We're losing him.
+Sam, give me that adrenaline.
+Come on, you son of a bitch.
+<font color="#FFFF80">[Reaper]</font> Okay, going again.
+Clear!
+He's gone.
+Doctor, you are going to tell me...
+just what the fuck is going on up here.
+- What?
+- Come here.
+<font color="#FFFF80">[Sarge calling]</font>
+Come here!
+This is "what."
+<font color="#FFFF80">(astonished)</font>
+God.
+Have you found anything like this...
+on your archeological digs?
+No.
+Is there any way this thing
+came from the outside...
+from the surface?
+The planet is completely dead.
+<font color="#FFFF80">[Portman]</font>
+It came from somewhere, lady.
+Portman, shut up!
+The atmosphere on the surface
+can't support life.
+Maybe it doesn't need air.
+It could have come from
+another planet or something.
+What?
+Like an alien?
+- <font color="#FFFF80">(shouting)</font> Look at that thing!
+- <font color="#FFFF80">[Sarge yelling]</font> Portman!
+You need to shut the fuck up!
+<font color="#FFFF80">[Reaper]</font>
+That's not what we saw.
+That isn't what Goat and I
+shot at in Genetics.
+You telling me there's more
+of these fucking things?
+Where are your surface entry points?
+There's a pressure door at
+the end of the north corridor.
+Destroyer, you, Kid, and Portman,
+get there on the double.
+<font color="#FFFF80">[Sarge]</font>
+Give me an update.
+- <font color="#FFFF80">[Destroyer]</font> Yes, sir.
+- Whatever this thing is...
+it cannot get back through the Ark.
+Mac, I want you to arm
+Pinky with a weapon...
+with some ST grenades,
+and seal the Ark door.
+There's one other door.
+Where?
+The entrance to the archeological dig.
+<i>Ark portal activation in progress.</i>
+<font color="#FFFF80">[Mac]</font>
+Don't let anything through the Ark.
+Hey, wait. Wait a minute.
+You can't leave me here.
+<font color="#FFFF80">[Pinky]</font>
+I'm not a soldier.
+<font color="#FFFF80">[Pinky]</font>
+Why don't you go fuck yourself?
+<font color="#FFFF80">[Pinky]</font>
+It's bullshit.
+You're supposed to protect me.
+Ark secure.
+<font color="#FFFF80">[synth voice]</font> <i>Remaining personnel,
+ready for evacuation.</i>
+Shit.
+Duke.
+Hold this open.
+Don't be a wuss.
+Little tension between you and Reaper?
+We just went our separate ways.
+Why does a talented student
+throw it all away and join the RRTS?
+So, what was he like before?
+- Who, John?
+- Yeah.
+Empathetic, sensitive.
+It's kind of hard for me to
+imagine Reaper as sensitive.
+I knew Reaper before all the
+"drop down and give me 50, woo-ha" stuff.
+Yeah?
+Well, it's hua...
+Hua.
+Yeah.
+Do you have a family?
+I have Destroyer.
+You know, we grew up together.
+You know, Duke,
+I bet secretly you have a big heart.
+Oh, yeah?
+And that's not the only
+secret big thing I got.
+Little rusty, huh?
+Oh, lady, you have no idea.
+Right now, having sex with me
+is practically your civic duty.
+I need a power bone saw.
+A power bone saw?
+Girl, I've been waiting
+on you my whole life.
+There's one in the procedure room.
+Down the corridor, on the left,
+through the nanowall.
+Through the nanowall?
+All right, I got it.
+It's cool.
+For you I got it,
+'cause you're pretty.
+Cool.
+I wouldn't do it for a dude, you know.
+Off you go.
+We're going back in through the airlock.
+We're not calling in backup?
+The Ark is sealed.
+Nothing gets back...
+until everything on this planet is dead.
+We're going in hot.
+You're serious.
+Pick up your weapon, Portman.
+Come on, Portman, move out.
+Didn't y'all see
+how that thing greased Goat?
+We don't know what
+we're dealing with here.
+It's SOP to call in reinforcements...
+when a situation...
+We are...
+the reinforcements.
+Now, you shoulder...
+your fucking weapon, soldier.
+<i>All UAC personnel evacuated to Earth.</i>
+Duke?
+Duke?
+Duke!
+Hey, hey, hey.
+It's just a power shortage.
+You okay?
+Here's your bone saw.
+So, which of you is the oldest?
+What?
+Oh, me.
+By two minutes.
+Twins?
+Shit.
+Identical, right?
+Sam, get back in the lab.
+Shit.
+Motherfucker!
+Close it!
+And that's why I don't do nanowalls.
+<font color="#FFFF80">[Sarge]</font> <i>Pinky, we're entering
+the archeological dig.</i>
+Secure the exit.
+- <font color="#FFFF80">[young Reaper]</font> <i>Sam.</i>
+- <font color="#FFFF80">[young Sam]</font> <i>I'm coming.</i>
+<i>I'm hungry.
+Let's eat.</i>
+<i>Come on.
+Come on.</i>
+<i>Careful now.
+Not too close, John.</i>
+<i>Go, go, go.</i>
+<i>Slow down.</i>
+<i>Go around.
+Go around again.</i>
+<i>No!
+Mommy!</i>
+Is this where it happened?
+Did you find the door?
+<font color="#FFFF80">[Sarge]</font>
+<i>John?</i>
+Clay.
+Thurman.
+Look at them.
+<font color="#FFFF80">[Sarge]</font> They weren't trying to
+stop something from getting in.
+Something stopped them from getting out.
+<font color="#FFFF80">[Sarge]</font>
+<i>Mac, stand by.</i>
+<i>Destroyer, report.</i>
+<font color="#FFFF80">[Destroyer]</font>
+<i>We've reached the north airlock.</i>
+<i>It's secure.</i>
+<i>Console indicates nothing's
+come in or out for 26 hours.</i>
+Mac?
+Mac.
+Mac, Mac, you copy?
+Talk to me.
+Talk to me, Mac.
+Shit.
+Jesus Christ.
+We're in pursuit.
+Moving fast out of the dig.
+It's getting away.
+Pinky, what do you see?
+It's big.
+Very big.
+Moving fast,
+<i>back towards the lab complex.</i>
+Clear.
+<font color="#FFFF80">[Sarge]</font>
+It's back in the lab.
+Clear!
+Clear.
+Damn, it's fast.
+All around defense, men.
+Did you get it?
+- Pinky.
+- <font color="#FFFF80">[Pinky]</font> <i>Yes, Sarge?</i>
+Anything gets through that door...
+use an ST grenade.
+<font color="#FFFF80">[Sarge]</font>
+<i>It cannot get back to Earth.</i>
+He pops an ST in there,
+he's gonna blow the Ark.
+Reaper, Kid, pairs,
+cover formation.
+Sweep the corridors.
+Go.
+Destroyer, you and Portman stay here.
+Shut the airlock.
+Maintain a perimeter.
+He blows the Ark,
+how the hell...
+are we supposed to get the fuck home?
+Portman,
+shut the fucking door.
+Where you going?
+I'm going to the armory.
+I think we're gonna need something...
+with a little bit more kick.
+Jesus.
+You see anything like it before?
+Heart.
+Liver.
+Kidneys.
+Dogs got kidneys, right?
+Pigs got kidneys.
+It's had its appendix removed.
+It's human.
+What the fuck?
+Goat knew he was turning.
+This thing didn't butcher Willits.
+It is Willits.
+What?
+This is bullshit, man.
+I enlisted to serve my country...
+not get greased protecting
+some corporation's...
+goddamn science project.
+I gotta take a dump.
+What?
+Now?
+Unless you want me shitting
+my pants right here.
+<font color="#FFFF80">[synth voice]</font>
+<i>Please provide DNA verification.</i>
+<i>Welcome, Patricia Tallman.
+Access granted.</i>
+<font color="#FFFF80">[Sarge]</font>
+Big fucking gun.
+Oh, shit.
+Portman, I got floor and wall
+on your gun cam.
+<font color="#FFFF80">[Portman]</font>
+<i>I'm taking a shit, you fucking gimp.</i>
+<font color="#FFFF80">[Pinky peeved]</font> <i>Fuck you,
+Portman, you piece of shit.</i>
+Lost Portman on comm...
+and all I've got on Destroyer is a wall.
+Portman, come in.
+Destroyer.
+Come in.
+This is Corporal Dean Portman...
+with RRTS 6 Special Ops
+on Olduvai, 0310 hours.
+We have encountered hostile activity.
+I repeat, require immediate
+RRTS reinforcements.
+Destroyer, Portman,
+where the hell are you?
+Shit.
+Shit.
+<font color="#FFFF80">[Portman screaming]</font>
+<i>Oh, God! Jesus!</i>
+Hmm.
+- Pinky, you got Portman?
+- <font color="#FFFF80">[Pinky]</font> <i>No.</i>
+Holy shit.
+He's gone.
+Destroyer?
+And Portman.
+What the fuck happened, man?
+I got him, I got him.
+Destroyer, I got you, man.
+What's up, man?
+What the hell is this?
+And whose goddamn blood
+is on that window?
+Goat's.
+He killed himself.
+What do you mean, he killed himself?
+He was already dead.
+It's true.
+It's Goat.
+He was changing into one of these
+motherfuckers and he killed himself.
+<font color="#FFFF80">[Reaper]</font>
+We found two more scientists at the dig.
+Thurman and a balding guy with glasses.
+Dr. Clay.
+<font color="#FFFF80">[Sam]</font>
+Did you check their necks?
+Were there open wounds on their necks?
+We were conducting a firefight,
+not an autopsy.
+<font color="#FFFF80">[Sarge]</font>
+We came up here to find six scientists.
+Four are known dead...
+<font color="#FFFF80">[Sarge]</font> ...and Dr. Willits is probably
+KIA somewhere down in that sewer.
+<font color="#FFFF80">[Sarge]</font>
+The only one missing is Dr. Carmack.
+Has Dr. Carmack showed up yet?
+Oh, he's shown up all right.
+Look at the left ear.
+Son of a bitch.
+I think this other one is
+Steve Willits.
+I'm going to run the DNA,
+check it against his med records.
+What are you people
+working on up here?
+<font color="#FFFF80">[Sam]</font>
+We're analyzing bones, artifacts.
+We're not doing anything like this.
+Then what the fuck is that?
+It must be a genetic mutation,
+something environmental or viral.
+I don't know.
+It may even be reversible.
+It's irreversible.
+<font color="#FFFF80">[Sam]</font>
+Not necessarily.
+Dr. Carmack's condition...
+is irreversible...
+No!
+Because Carmack's condition is that...
+he's dead.
+Kid, you and Duke...
+get back to the dig and you make sure
+those other dead scientists...
+are really dead.
+I've lost...
+four soldiers.
+What are you people
+experimenting with up here?
+I'm not gonna ask you again.
+I told you, it's an
+archeological research center.
+Do you think I'm lying to you?
+Is that what you're saying?
+You think I'm hiding something?
+I'm telling the truth.
+What were you downloading?
+What were you sent to protect?
+The research data.
+Research into what?
+<font color="#FFFF80">[Carmack]</font> <i>Subject was injected
+with study agent at 00:03.</i>
+<i>Vitals normal, elevated heart rate
+attributable to subject anxiety.</i>
+<i>C-24 successfully grafted to
+subject's marker cells at 00:09.</i>
+He reconstructed chromosome
+mutation on a human subject.
+We were never gonna do human studies.
+What the hell are we looking at?
+Genesis, Chapter 1.
+<font color="#FFFF80">[Carmack]</font> <i>Subject moved to
+protected observation area at 00:17.</i>
+<i>Subject: Curtis Stahl.</i>
+<i>Crime: Multiple murder.</i>
+<i>Status:
+Condemned to execution.</i>
+Chromosome 24.
+Oh, my God.
+<font color="#FFFF80">[Carmack]</font> <i>49 minutes after injection,
+genetic mutations...</i>
+<i>began to visually manifest
+on subject's extremities.</i>
+This is what you're here to protect.
+It doesn't make any sense.
+You trusted them.
+They lied to you.
+They used you, Sam.
+If he perfected xenogenesis...
+Christ, don't you get it?
+It's this place. It's hell.
+It always was.
+This shit ends here.
+<font color="#FFFF80">[Sarge]</font>
+What are you doing?
+We need to destroy these discs.
+That's UAC property.
+Fuck UAC, we take this back,
+they'll just...
+We take the data back.
+- Sarge, do you not see what's going on here?
+- I didn't see shit.
+And I ain't paid to see shit.
+<font color="#FFFF80">[Sarge]</font> I have my orders.
+And so do you.
+Is this everything?
+I said,
+is this everything?
+- I, uh, have three more to download.
+- Then do it.
+Sarge?
+We got a problem.
+<font color="#FFFF80">[Kid on radio]</font>
+<i>One dead scientist is missing.</i>
+Now.
+You just wanna leave her here?
+She's got a job to do.
+Look, this is Portman's comm.
+You call if you need help, okay?
+You gonna be all right?
+I'll be fine.
+Okay.
+I'll see you soon.
+<font color="#FFFF80">[Sarge]</font> <i>Pinky,
+are you there? Pinky.</i>
+Sarge? Something is cutting
+<i>through the Ark door.</i>
+You have a visual?
+<font color="#FFFF80">[Pinky]</font>
+<i>Oh, I got a visual all right.</i>
+Don't let it get to the Ark!
+<font color="#FFFF80">[synth voice]</font>
+<i>Five.</i>
+- Pinky, use the grenade!
+- <i>Four.</i>
+- Use the goddamn grenade!
+- <i>Three, two.</i>
+- Throw it!
+- <i>One.</i>
+Pinky's gone.
+That fucker ran.
+Shit.
+It got through.
+What the hell is that?
+<font color="#FFFF80">[synth voice]</font>
+<i>System reboot.</i>
+<i>Time required to begin
+renewed operation: Five minutes.</i>
+Quarantine cordon is breached.
+This mission is no longer containment.
+Get all the weapons and ammo you can.
+We're going through.
+Move!
+Sam, come in.
+Over.
+Sam, do you read me?
+Over. Come in!
+She's not answering.
+<font color="#FFFF80">[synth voice]</font> <i>Time required
+to begin renewed operation...</i>
+<i>four minutes and 45 seconds.</i>
+You got three.
+Sam!
+Come in, Sam!
+Sam!
+Sam, why didn't you answer your comm?
+We gotta go now!
+Why did they take Goat
+and not Destroyer?
+Why Carmack and not Dr. Thurman?
+- What?
+- Lucy had the 24th chromosome...
+but she wasn't a monster.
+She died protecting her child,
+not devouring it.
+<font color="#FFFF80">[Sam]</font> Why did the same chromosome
+that made her superhuman...
+turn Stahl into a monster?
+- Let's go.
+- <font color="#FFFF80">[Sam]</font> Just give me a minute.
+- We don't have a minute.
+- Then give me 10 seconds.
+This is its tongue.
+This is brain matter from Portman.
+This is from Destroyer.
+It's choosing, John.
+It's choosing who to infect.
+It's choosing?
+How is it choosing?
+There are genetic markers
+for psychotic and violent behavior.
+It could be a specific
+neurotransmitter...
+it's picking up on,
+a ganglion.
+Latching onto numbers
+in the DNA code linked to...
+Linked to what?
+Wha-- uh, evil?
+Ten percent of the human
+genome is still unmapped.
+Some say it's the genetic
+blueprint for the soul.
+Maybe C-24 is what
+destroyed the population.
+It would explain why some of them
+had to build the Ark...
+to escape to a new beginning.
+Some it made superhuman.
+Others, monsters.
+Oh, my God.
+- We gotta get out of here now.
+- What?
+Come on, let's go.
+Come on!
+The people quarantined on
+the other side of the Ark...
+<font color="#FFFF80">[Reaper]</font>
+they won't all be infected!
+What's going on?
+Sarge is going to kill them all.
+Come on!
+We uphold quarantine.
+Nothing gets to the elevator back on Earth.
+<font color="#FFFF80">[Sarge]</font>
+We can't let them get to the surface.
+- If it breathes, kill it.
+- <font color="#FFFF80">[synth voice]</font> <i>Five...</i>
+<font color="#FFFF80">[synth voice]</font>
+<i>four, three...</i>
+<i>two, one.</i>
+<font color="#FFFF80">[synth voice]</font>
+<i>Ark travel complete.</i>
+<font color="#FFFF80">[Portman's transmission]</font>
+<i>This is Corporal Dean Portman...</i>
+<i>with RRTS 6 Special Ops
+on Olduvai, 0310 hours.</i>
+<i>We have encountered hostile activity.</i>
+<i>Require immediate RRTS reinforcements.</i>
+Yeah, no shit.
+We got 58 minutes before
+the auto lockdown is lifted.
+Reset it for another six hours.
+<font color="#FFFF80">[Duke]</font> I can't.
+It's been disabled.
+Same as the topside comm link.
+They're disabling computers now?
+Yeah, they're rocket scientists,
+remember?
+<font color="#FFFF80">[synth voice]</font>
+<i>Ark travel complete.</i>
+Oh, my God.
+Sarge, what's your position?
+<font color="#FFFF80">[Reaper on radio]</font>
+<i>Sarge.</i>
+Sarge, come in.
+Do you copy?
+<font color="#FFFF80">[Reaper]</font> <i>Come in, Sarge.
+Do you read me? Over.</i>
+<i>Sarge, come in,
+do you copy?</i>
+Loud and clear.
+<font color="#FFFF80">[Reaper]</font>
+<i>Look, do not kill everybody.</i>
+<i>I repeat,
+do not kill everybody.</i>
+- Help me.
+- <font color="#FFFF80">[Reaper]</font> <i>They're not all infected.</i>
+- Help me, help me, please.
+- <font color="#FFFF80">[Reaper]</font> <i>Do you copy?</i>
+- Copy that.
+- Help me.
+Clear the rest of this sector
+and meet back at the Ark chamber.
+<font color="#FFFF80">[Pinky]</font>
+Jesus Christ, what the hell are...
+Who the hell's in there?
+Well, don't just stand there,
+you dumb son of a bitch. Help me up.
+It's okay.
+Please...
+<font color="#FFFF80">[Jenna]</font>
+...help us.
+<font color="#FFFF80">[Sam]</font>
+You don't have to kill all of them.
+I don't think everyone is infected,
+or even capable of being infected.
+We have orders to contain this threat
+by any means necessary.
+<font color="#FFFF80">[Reaper]</font>
+So let's evacuate the uninfected...
+and blow this place to hell.
+And we have orders
+to protect this facility.
+We don't have orders
+to kill innocent people.
+<font color="#FFFF80">[Sarge]</font> We have to stop anything
+from getting to the surface...
+by any means...
+necessary.
+<font color="#FFFF80">[Duke]</font> Found this little chicken shit
+hiding under a pile of dead bodies.
+Am I glad to see you guys.
+<font color="#FFFF80">[Pinky]</font>
+That thing cut right through the door.
+I tried to use the grenade
+but it came at me too fast.
+Followed me through the Ark
+and started to kill everybody.
+It was horrible.
+There's no wound on his neck.
+He's clean.
+I say who's clean...
+and who's not.
+I mean, it wasn't my fault.
+Hey, I'm not a soldier.
+You shouldn't have left me...
+<font color="#FFFF80">[Kid]</font>
+Sarge.
+<font color="#FFFF80">[Kid]</font>
+There's a storeroom to the south.
+It's got, like, 20 people
+holed up inside of it.
+<font color="#FFFF80">[Kid]</font>
+We gotta do something.
+Your orders were to clear that sector.
+Is it cleared?
+No, I told them to stay put.
+They're okay.
+They're just scared shitless.
+We kill them all.
+Let God sort them out.
+This is wrong.
+- I think...
+- Son, you don't think.
+That's an order.
+We're in the field, soldier.
+Sarge, if nothing's found them...
+You will
+obey the direct order...
+of your commanding officer.
+No.
+Now.
+Go to hell.
+<font color="#FFFF80">(yelling)</font> No!
+- <font color="#FFFF80">(screaming)</font> No.
+- Holy shit.
+<font color="#FFFF80">[Sarge]</font>
+Mutinous insurrection...
+is punishable...
+by death.
+- It was his first mission!
+- And it's not gonna be my last.
+<font color="#FFFF80">[Sarge]</font>
+I need soldiers.
+I don't need anybody else
+but soldiers.
+<font color="#FFFF80">[Pinky]</font>
+Drop the weapons!
+I mean it.
+I have no intention of being killed
+by a madman. Drop the weapons.
+Ah, there's something behind me,
+isn't there?
+On me.
+Get Sam.
+Wait here.
+Listen.
+Withdraw!
+Withdraw behind the nanowall.
+- Move!
+- <font color="#FFFF80">[Reaper]</font> I can't see. I can't see.
+Move.
+Clear!
+<font color="#FFFF80">[Reaper]</font> Fuck!
+The wall's not closing!
+I'm not supposed to die.
+Let's go!
+Come on.
+Clear.
+How long before they get through?
+Not long.
+<font color="#FFFF80">[Sam]</font>
+You've been hit.
+<font color="#FFFF80">[Sam]</font>
+Oh, John.
+Listen to me, Sam.
+You're cold.
+Shivering.
+<font color="#FFFF80">[Reaper]</font>
+It's important.
+This is an ST grenade.
+When they come through...
+you pop the top and hit the button.
+John, stay with me.
+Stay awake.
+John, stay with me,
+please.
+What's that?
+- It's C-24. It's from Carmack's lab.
+- <font color="#FFFF80">(panting)</font> No.
+- It could save you.
+- No way, forget it.
+You're bleeding to death.
+No way, Sam.
+I've done some bad things.
+I know you.
+You don't know me.
+You don't know.
+You're my brother.
+I know you.
+<font color="#FFFF80">[Reaper]</font>
+Wait.
+Wait.
+<font color="#FFFF80">[Reaper]</font> If I should turn
+into one of those demons.
+One through the heart,
+one through the head...
+don't you hesitate.
+Okay?
+I won't need to.
+<font color="#FFFF80">[Sam's voice]</font>
+<i>I know you.</i>
+<i>You're my brother.</i>
+<font color="#FFFF80">[Reaper]</font>
+Sam?
+<i>Sam.</i>
+<i>Sam.</i>
+Sam.
+<font color="#FFFF80">[Sam's voice]</font>
+<i>John.</i>
+Sam.
+Sam.
+- Sam.
+- <font color="#FFFF80">(whispering)</font> You're alive.
+<font color="#FFFF80">(whispering)</font>
+Shh. Don't talk.
+<font color="#FFFF80">[Sarge]</font>
+Last man standing...
+Reaper.
+I think she needs medical attention.
+- <font color="#FFFF80">(whispering)</font> Can you get to the elevator?
+- <font color="#FFFF80">(whispering)</font> I'm not sure.
+Try.
+Where are the survivors Kid found?
+I took care of that problem.
+Quarantine's almost over.
+Power should be back on any minute.
+- You killed The Kid.
+- We're all killers, Reaper.
+It's what they pay us for.
+<font color="#FFFF80">[synth voice]</font> <i>Quarantine complete.
+Elevators back on line.</i>
+It's finished.
+What do you say we go outside
+and get some fresh air?
+- Are you gonna shoot me?
+- Yeah, I was thinking about it.
+- What you got left?
+- Half a clip. You?
+I've got,
+one round.
+<i>Semper fi,</i>
+motherfucker.
+Faithful to the Corps, John.
+Ugh.
+<font color="#FFFF80">[synth voice]</font>
+<i>Ark portal activation in progress.</i>
+<i>Five...</i>
+<i>four, three...</i>
+<i>two, one.</i>
+Like The Kid said:
+"Go to hell."
+Almost home.

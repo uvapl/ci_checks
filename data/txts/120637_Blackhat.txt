@@ -1,0 +1,1446 @@
+An accident has been reported at
+Chai Wan Nuclear Power Station.
+...people living within a ten
+kilometer radius have been evacuated,
+indicating a possible
+reactor breach.
+There have been reports of a cooling
+system failure involving the fuel rods...
+So far, 8 fatalities have been
+reported with 27 workers hospitalized.
+Despite the hazard, workers remain
+trying to fight against a meltdown.
+Hathaway. Cell search.
+Hands behind you.
+Open 16.
+Go, go, go!
+Search everything.
+Get off that! Hey!
+Take him down!
+One, two, three, up!
+Stay strong, carnal.
+This was found in your cell.
+You added $900 to all your
+pals' commissary accounts
+in your cell block.
+Is this the attack tool?
+With it, you open up a terminal
+and that gives
+you a command line?
+That how you broke into the network
+and plussed-up the balances?
+No.
+I used it to call Santa
+in the North Pole
+and told him to do
+Christmas early this year.
+...malware took over their monitoring.
+It read everything was okay.
+...while the cooling system
+was destroyed.
+How did it get in?
+A RAT opened a back door for a
+payload of malware, we think...
+What we know, is the same
+model reactors in the U.S.
+were attacked that way
+at the same time.
+In the U.S. the intrusion
+of the RAT failed.
+...running different software.
+Is forensics
+analyzing the code?
+We don't have code.
+Why not?
+Their edge routers
+were destroyed.
+And we can't get inside.
+Everything's hot.
+Political statement?
+No.
+Extortion? Demand for money?
+No.
+What's the motive?
+What do they want?
+We don't know...
+...but if I can see code for the
+RAT the FBI has in the U.S.
+and liaise with their investigation,
+I'll know a lot more.
+Find them. Stop them.
+I'll make the calls.
+What do we know about this guy?
+His grandfather was
+a military commander
+in Shanghai in the '20s,
+in the '30s against the
+Japanese through the Civil War.
+His father became China's
+Undersecretary for Trade to the UN.
+He came with to New York.
+Bronx High School
+of Science, MIT.
+His sister's a network engineer
+in the private sector.
+She grow up in New York, too?
+No.
+He's a rising star in PLA's
+Cyber Defense section.
+Liaise with them?
+It's inviting them
+into the henhouse, Carol.
+Stanley, we go head-to-head
+with the Chinese
+on their cyber intrusion
+every day of the week.
+Not a bad idea to be face-to-face
+working with them, for once.
+You monitor very closely what they
+do and do not have access to.
+Okay?
+Okay? Send the code.
+Okay.
+...then I got into
+tech sector sales.
+Do I look like
+a potential client?
+She's not interested.
+You her boyfriend?
+No, I'm her brother, and
+she's still not interested.
+Let's go somewhere
+we can talk. Hey, hey...
+Here's my card.
+Hey! I'm talking to you!
+That cost me a second martini.
+English might be better.
+Come on.
+Tomorrow? I can't. It's impossible.
+Why not?
+I've got
+an optical-overlay network
+that's got to be up in 17 days.
+They sent me some code tonight.
+The black hat who hit
+the Chai Wan reactor.
+When I looked at the
+code, it was, uh...
+And?
+I have to have a network
+engineer with me I can trust.
+Really trust.
+Like, 100%.
+When do we leave?
+The meltdown in China
+and the run-up in soy yesterday
+was facilitated
+by the same RAT.
+How it got loaded in in the
+first place, we don't know.
+But, once inside, it de-cloaked
+and became what it really is.
+A remote access tool.
+A RAT.
+The RAT's job was to open a back
+door in our system and call home.
+The black hat then used his back
+door to inject a second part.
+Its payload.
+That is what rode up soy.
+Now that we're looking at the
+RAT and payload closely,
+we're thinking they were...
+Written by different authors.
+How we figured that out
+was through the coding in the RAT.
+Though several years old,
+it is lean, graceful.
+The payload's coding, on the other
+hand, feels frenetic, confused...
+Frenetic? Or overwritten?
+So, the question
+we're dealing with is...
+ls there somewhere we can talk?
+...and if it is two, they may
+not be working in close proximity.
+Daniels is qualified
+in computer forensics.
+An intern could have
+written that report.
+Oh, really? And who do
+we need, if not Daniels?
+And "liaise" in "liaison
+group" implies mutuality.
+You don't like our boy, what ideas
+are you bringing to the dance?
+A man named Hathaway.
+He's a convicted hacker,
+serving 15 years in U.S.P.
+Canaan in Waymart, Pennsylvania.
+You telling me
+some hacker in prison
+is hitting our
+financial markets?
+No. But we want
+Hathaway on the team
+so he can help out
+the investigation.
+He hit four major banks,
+ran up $46 million in damages.
+And that's just
+what we know about.
+You want the DOJ to do
+anything other than laugh?
+Daniels said two authors
+wrote the virus.
+I don't know who wrote the second
+half, but the first half, the RAT,
+the remote access tool that Daniels
+called "lean and graceful"?
+One of the original authors
+is me.
+I co-wrote it,
+as a gag, years ago at MIT.
+And my roommate,
+the genius lead author?
+Nicholas Hathaway.
+That's right.
+The hacker found the RAT
+online and modified it.
+If we want to move
+around within this code
+looking for clues to
+the hacker's identity,
+we need its lead architect.
+The reactor in China,
+I heard about,
+but the spike in soy futures...
+All right,
+I didn't know any of this.
+We don't get a lot
+of new news in here.
+The US government would like
+your technical advice on this.
+In exchange for that, we're going
+to furlough you right out of here.
+You sign that on the last page,
+and we'll get you processed.
+You'll wear an ankle bracelet
+and be accompanied
+by a US Marshal.
+Your computer access
+will be restricted.
+If you wanna study the whole
+document, you can go right ahead.
+I can come back
+in a month or two.
+No, I'm done.
+You didn't sign it.
+Yeah. Why would I sign it? Why?
+Because of the generosity
+of the Assistant US Attorney
+in granting you a furlough.
+Both you and
+the Assistant US Attorney
+can stick that
+document up your ass.
+I'm sorry?
+Why are you sorry?
+I insulted you. What are you sorry for?
+I'm not sorry.
+Don't think you're gonna... Hey.
+You wanna raise
+me up out of here,
+solve your trade
+exchange dilemma,
+and I get a furlough for a couple of weeks?
+You kidding me?
+You have any idea how much
+progress you're gonna make
+on a strike this complex
+without someone like me?
+Zero.
+This isn't a negotiation.
+I just made it one.
+You want me?
+You pass this upstairs.
+If my assistance results
+in the identification
+and the apprehension
+of the guy you're after,
+I want you to commute
+my sentence.
+If I come up empty, you toss
+my ass back in the can.
+Those are the terms.
+Guard.
+Interview's over.
+Barrett, how badly
+do you need this guy?
+It's so good to see you, bro.
+Not half as much as it
+is for me to see you.
+Let's get out of here.
+So, you planned to reunite with your
+friend from the moment you landed?
+It entered my mind.
+You Okay?
+Yeah, I'm fine.
+Okay. Please keep them out of
+sight, if you can help it.
+See? He ripped off
+and repurposed our code.
+- What the hell is this?
+- What?
+The agreement was an approval and a
+presence for his computer access.
+I approved it. A DOJ approval.
+Now you're changing
+the goalposts?
+Hola, chica, You came to me.
+How am I supposed
+to do my work?
+On an abacus or something?
+“Chica"? Am I Hispanic?
+What the hell's going on?
+I advocated
+getting you over here.
+I pulled every string to get your
+convicted felon sprung, Mr. Chen.
+"Captain" Chen.
+And I didn't ask.
+I offered partnership,
+an equivalent,
+or we would do it on our own.
+Well, I'll be happy
+to bust him back to Canaan
+and put your ass on the
+first plane back to China.
+He apologizes.
+My brother misunderstood our
+arrangement, Special Agent.
+Look around.
+I have to run
+the morning backup.
+Your network is sitting
+behind deep packet inspection,
+intrusion protection.
+It's extensively firewalled.
+Exactly.
+So somebody had to physically enter
+this room and plug the virus in.
+We reviewed keycard
+scans and surveillance tapes.
+There was no
+unauthorized entry.
+Now, we're thinking about
+a routing weakness.
+That's too complicated.
+He wouldn't have done that.
+Yeah. Well, what you're
+proposing didn't happen.
+There's only one person who's
+authorized to access these terminals.
+Me.
+And my password
+is my thumbprint.
+May I?
+Sure.
+Can I have some approval now?
+All right. This is the
+code for our RAT.
+See, it's compact. It's slick.
+Under a meg. You would never
+have picked up on it.
+Ever leave that
+USB drive on your desk?
+I suppose so.
+Who works here who doesn't like you?
+Recently hired? Fired?
+No.
+Who?
+Lozano.
+His mother passed away.
+He left two weeks ago.
+John Lozano. He was only
+on the job for a month.
+- He have access to your office?
+- Yes.
+I'll pull his
+employment records.
+Everything will come up phony.
+Except this.
+You got his photo ID?
+Yeah.
+This section of his code
+right here is a mess.
+There's 25 lines, he's left text.
+It looks incomplete.
+Are they notes to himself?
+Dead-end ideas?
+Maybe he's still writing.
+Yeah, that's good.
+So if you've got the ability
+to move a commodity
+any way you want,
+what do you do?
+I play it out long and low-key.
+I do not do one big spike.
+Instead, I'd play it out month after month.
+Less risk of detection.
+Yeah, right. But our guy
+jacks soy 250% in a day.
+Mmm-hmm. It's flashy. He
+knows he's gonna bring down heat.
+Maybe he needs cash.
+Fast.
+He's got the money
+from the soy run-up.
+And he's busy writing
+code for what's next.
+I think the real hit
+is still to come.
+We have Lozano's photo.
+Jackson.
+I'm sending you
+something right now.
+That's him in the bottom left.
+Alonzo Reyes. Did two years
+in Huntsville for carding.
+Paroled. Moved back to LA.
+I have LA pick him up.
+He's gonna monitor
+his home grid. I did.
+We got a better shot getting a
+first look at him ourselves.
+Isn't that why
+you brought me here?
+Okay?
+Yeah. Go ahead.
+That means you and
+me are on the money.
+Unless you think you can
+do that on your own, too.
+I do okay.
+You do, huh?
+Let's see how you handle
+the financial sector.
+Thanks, Stanley.
+My eye's on you.
+Where do you think I'm going?
+This guy is one step away from
+my "get out of jail free" card.
+So...
+How can I help?
+We want to see
+your trading records
+of your traders who took large
+profits from the soy run-up.
+You're requesting
+I turn over records
+to the FBI and a foreign power
+on thousands of private
+brokers and traders?
+Afraid I can't possibly
+accommodate you.
+You're gonna protect the person
+who manipulated your market?
+No. You're casting your net
+way too wide, Mr. Chen.
+You want to see my data,
+you come up with something
+a little more tangible.
+Something more in the way
+of probable cause
+than your hunch.
+Gary. May I call you Gary?
+How's this for tangible?
+In the next 15 seconds
+I call Laura Greer
+at the Commodities
+Trading Commission.
+And I say,
+"Laura, how you doing?"
+"I'd like to launch an official
+investigation on one Gary Baker."
+So the headline,
+"M-Tech Official Investigated for
+Aiding and Abetting Cyber Criminals"
+leaks to CNN in the next 90
+so it makes the three
+o'clock news cycle,
+as well as the nightly news.
+That'd be good, too.
+Am I being tangible?
+Gary?
+Look around here. But I stay here with you.
+No take nothing.
+Okay? Uh...
+Hey, mi carnal?
+What happened to you?
+He has WRT hardware and an onion router.
+He can route encrypted data and
+stay anonymous with no IP address.
+Yeah, somebody must have
+told him how to set it up.
+She probably called 911.
+Who's the woman?
+It's the manager. Mrs. Novo.
+Here, let me see it.
+Here. Try it now.
+Barrett, this is Jessup.
+Mmm-hmm. Thanks, Jessup.
+Well, we better make following
+the money pay off,
+Reyes isn't. He's dead.
+Oh, great.
+Wait a minute.
+We've been looking for buyers of soy.
+Switch to sellers.
+Only our player would know
+exactly when to get out.
+Reyes got an email
+about a drop tonight.
+With no Reyes, we gotta find a
+new link to our main player.
+I'm gonna see who shows.
+You tell Jessup?
+No. They'll spot
+him 10 blocks away.
+You get into not
+enough for one day?
+Look, I play it
+my way, it works.
+It don't, at least I own it.
+I go, too.
+You look not so different
+from the pictures.
+What pictures?
+That my brother sent me before.
+Why you're in prison?
+Hmm.
+I was in a bar,
+I met some girl,
+and some guy got
+in my face about her.
+He started a fight
+and when it's over,
+he's in the hospital
+and I'm arrested.
+I wound up sentenced to
+18 months at MCI-Norfolk.
+I traded academia
+for gladiator academy.
+Then what?
+Then I got out.
+I'm 22,
+and not a lot going
+on in Silicon Valley
+for an ex-con with no degree.
+So.
+Carding?
+Yeah, that and I was in
+wholesaling internationally.
+I had an eight-year run, then
+the Feeb caught up with me.
+And I got 13 years.
+You have regrets?
+Regrets? No.
+The banks got hit for
+the losses, not people.
+I didn't burn people.
+I don't burn people.
+No.
+I mean, banks are chiseling
+everybody all the time, anyway.
+I don't feel sorry
+for banks, no.
+I mean, I'm sorry for
+what happened to you.
+Don't be. I'm not
+fishing for sympathy, here.
+I did the crime, I'm doing the time.
+Time isn't doing me.
+What's that mean?
+I do my own time,
+not the institution's.
+See, to hold on to
+who you are in there,
+you dedicate yourself
+to your program.
+You work out on your
+body and your mind.
+Open your eyes.
+What'd you say?
+You talk like you
+are still in prison.
+But you're not in prison.
+Get your thinking to where you
+are, not where you've been.
+What do you know
+about where I've been?
+No. Nothing.
+No, nothing. But...
+Okay, tell me, what is it I'm
+supposed to start seeing so fast?
+Where you are.
+What, Koreatown?
+- This restaurant, this table?
+- What?
+You'll be in the rapid
+stream of decision-making.
+Having to make
+intuitive choices.
+The people against you are
+high-speed, world-class dangers.
+To be genius coder
+to outsmart, out-think
+like my brother
+always said you could,
+you have to think
+about it clear.
+Not easy, I know.
+There's no transition time.
+But I believe you
+are a very strong man.
+Very smart man.
+Here, Chen.
+Three trades.
+Three different accounts.
+Large volumes.
+They all sell within
+minutes of each other.
+Just at the soft close,
+at 13:13 and 13:14.
+Timed perfectly when to dump.
+What's that?
+Bank accounts. Foreign.
+Same place, all three.
+Where?
+Hong Kong.
+You want your bill?
+You not order more,
+you give up table.
+You're really hurting
+for space, huh?
+Maybe our guy is no-show.
+What is it?
+Let's go.
+What's happening?
+Who are you?
+Why are you here?
+Who are you?
+Watch out!
+Ahhh!
+Hey, hey! Hey!
+And Reyes probably was killed.
+The email on his
+computer was bait.
+Whoever this is wanted to see
+if we were on Reyes' trail.
+We're burned.
+Could you track it
+to our guy's location?
+No, the video feed went through
+a proxy server in the Ukraine.
+Who knows where
+it bounces to off that?
+Yeah, and our players
+are foreign, too.
+What about the money?
+Three accounts,
+all in the same place.
+They took $74 million.
+We're going to
+follow the money.
+Where?
+Put my sister on.
+They know your faces.
+We'll go separately.
+Where?
+Where we went for your birthday...
+after one stop.
+We're flying
+to China in the morning.
+My dad was a steel worker.
+Single father.
+He raised us on his own.
+Came to visit, twice.
+Then he got sick.
+I used to replay memories
+so I could stay oriented
+for when I got out.
+Captain Chen?
+Paul Wang, CNCERT.
+In here.
+What's the status?
+We're trying to restore
+coolant by pumping in sea water.
+I got more injured.
+Since it happened,
+was there any demand for money?
+No.
+Then it's not about extortion.
+Is he political? A terrorist attack?
+Any declaration?
+No claim. No statement.
+What does this guy want?
+What did the malware attack?
+Programmable Launch
+Controllers. PLCs.
+They tell the pumps
+to turn on, turn off,
+to cool the reactor.
+Any idea where
+the attack originated?
+I was tracking the
+malware when the core went.
+We had to evacuate.
+But if a machine failed,
+it should have saved the
+memory to a diagnostic file.
+Yeah, that's right. And in that memory
+dump may be your traces of code.
+Maybe even this
+guy's real IP address.
+But those servers are in the control room.
+Everything is still hot.
+We're fighting a meltdown.
+Chen Lien.
+Inspector Alex Trang,
+Hong Kong Police.
+Hathaway,
+US Marshal Mark Jessup.
+Hello.
+So, is this them?
+These the guys?
+Yeah.
+We got anything?
+Here they are.
+Johnny Li, Yan Lin, Samuel Wu.
+Li just got out of
+prison two months ago.
+Yan and his mother
+are both junkies.
+Wu runs a chop shop.
+Hardly commodities speculators.
+They're fronts? Proxies?
+So how do they communicate?
+How do they connect up
+to our actor?
+They don't.
+Phones, the Internet.
+And we've been on them
+all day and all night.
+Nothing.
+If you were our player,
+right now,
+what would be your next move?
+I'd make my trail go cold.
+How? I'd cash out.
+Cash money doesn't
+leave a trail.
+Pick it up.
+Walk it anywhere you want.
+But the money hasn't moved yet.
+There's no activity
+in the accounts.
+Yeah, this is all too clean.
+I mean, there's got to be
+somebody between them,
+talking to them, instructing
+them, telling them what to do.
+There has to be
+someone in contact.
+It wouldn't be the main player.
+Too much exposure.
+A middle man?
+They didn't all fall by
+here by accident either.
+Where?
+Can I see this?
+Right there. Where's this?
+Yau Ma Tei.
+Great.
+What are you doing here?
+You gave me a goddamn
+heart attack, Trang.
+Who are you?
+Captain Chen Dawai.
+OCTB.
+We're running a surveillance.
+On whom?
+Some Lebanese guy on our
+trafficker watch list.
+Why'd you let him in?
+Well, they want to see if he's
+talking to anybody homegrown.
+Why here?
+Every morning he comes
+here to meet someone.
+Run him down.
+Hmm.
+Elias Kassar.
+Fought with
+the Christian Phalangists
+in the Civil War,
+then disappeared.
+Popped up in the '90s with the
+paramilitaries in Colombia.
+Renting a house
+month-to-month in Shek O.
+Who's he meet?
+No one.
+No one ever shows.
+He texts.
+Is your phone an Android?
+Can I see it?
+Trang.
+Bluetooth transmitter.
+Short range.
+We would never pick it up.
+See, they don't come to meet him.
+They come to meet this.
+Kassar texts,
+Wu, Yan and Li walk by.
+The receivers in
+their pockets pick it up.
+They read it, delete it.
+Kassar never meets them,
+never sees them.
+No emails.
+No phones. No nothing.
+Slick.
+Can you crack it?
+In about a month.
+See, it's locked
+in GPG encryption.
+So, at least a 512-bit key.
+We pick him up,
+lean all over him.
+Or we let him ride and tail
+him to the main player.
+Ah, you don't have a choice.
+I mean, this guy's history.
+He ain't gonna roll.
+I think we let him ride.
+Yeah.
+Sunrise is in two hours.
+When this is over,
+what will you do?
+I don't know. Fix TVs,
+garage door openers.
+Are you still gonna like me if
+I'm fixing garage door openers?
+I don't know. Maybe.
+They're moving the money.
+All three accounts.
+Wire transfers
+to a Macau casino.
+They're cashing out.
+Surveillance? Nobody's moved.
+Kassar?
+We can't reach
+Yan's team in Shek O.
+We're going to Shek O. We're going
+to Shek O to pick up Kassar.
+Launch STU. Meet at the heliport.
+I'm going to pick up the mules.
+Let's talk about this.
+I'm not blind.
+I know the two of
+you are together.
+But look at it through my
+eyes and what do you see?
+“Hathaway. Been in prison.
+Damaged goods.
+“Not much to offer my sister,
+"”and his future's not exactly
+guaranteed," is what I'd see.
+What else?
+"She deserves better,"
+I'd think, if I was Chen.
+We rarely seen her happier.
+But what if this fails?
+Nine more years in prison. What
+kind of life is that for her?
+Chen, it's Barrett.
+I hear you.
+The mules.
+We've got Li and Yan.
+And listen, we can't reach
+surveillance in Shek O.
+Come on. This way.
+Trang!
+Hold on, man! Hold on!
+Stay down!
+Dila, how's Acil?
+He's not going
+to make it, boss.
+Go! Go!
+Come on.
+Elias! Elias, you coming?
+Come on! Come on!
+Don't wait! Drive the
+barge out of here!
+Wai. It's Paul Wang.
+We were able to restore the
+water above the fuel rods
+and stabilize the reactor.
+Ifs still hot,
+but we can get in.
+Nick! Mark!
+Radiation is
+1000 millisieverts per hour.
+You can be inside
+for only eight minutes.
+The temperature inside
+is 138 degrees...
+If your core goes over 104
+you'll get heat stroke.
+I still don't get it.
+What's he after?
+And why this?
+If you collapse,
+your partners will not be able to carry
+you out without risking themselves.
+By the time we get anybody
+to you, you will be dead.
+Hey, what'd she say?
+Move fast.
+Wang!
+Wang! NICK: Hey!
+Take him! Both of
+you, get out of here!
+Hathaway...
+We were right.
+In the memory dump are the
+fragments of the malware.
+But it's corrupted.
+Maybe his IP address,
+but it's too full of holes.
+You know, when the Feeb team
+busted me in '07 and hit my door,
+I was flushing files.
+But when I came to trial,
+they retrieved all this data that
+should have been irretrievable.
+Black Widow. It's NSA software.
+Examines fragments
+and reconstructs originals
+within a couple of
+hours of supercomputing.
+Big cases like yours,
+they loan it to us.
+NATIONAL SECURITY AGENCY
+FORT MEADE, MARYLAND.
+Rich, I need
+access to Black Widow.
+Sharing classified tech with the Chinese?
+Are you kidding?
+That's not even getting
+into Hathaway using it.
+We've committed to
+full cooperation, Rich.
+Yeah, well, you're Justice.
+We're NSA.
+If I wanted to, I can't.
+And I don't want to.
+An unequivocal "No."
+Okay, so how's it work? You give
+NSA the data, they run it, what?
+No, they have a remote login.
+We run it.
+You're not thinking.
+Come on. They got
+the keys to the kingdom.
+Our guy's address, maybe.
+Whatever he's cooking up
+next is right in there.
+Only, we can't read it.
+Let's go.
+My old correspondence
+with Donahue is here.
+But there's no way that
+login is still active.
+I'm not gonna use that login.
+Okay, Donahue, the NSA contact
+you were just talking with.
+If NSA discovers
+the intrusion...
+You sure you want to do this?
+FBI can't explain
+after the fact?
+You locate this guy,
+you're okay.
+You get discovered,
+you're dead meat.
+You know that, don't you?
+The NSA guy
+you were talking to,
+what's his supervisor's name?
+Ben Hitchens.
+Maybe it's better
+if the two of you and you
+aren't around for the next part
+so you can deny being here.
+How do you feel about this?
+Not good.
+It's worse for
+the guy in there.
+I'm surprised you went along.
+Washington didn't see Chai Wan.
+You asked him
+to change his password?
+When he downloaded the PDF...
+...what he downloaded
+was the keylogger.
+Got it.
+Now, we wait.
+We're in.
+You can call me
+"chica" any time you want.
+This is our actor's home IP address.
+His home server.
+He's not in Mumbai, not in
+Minneapolis, not in Riga.
+He is in Jakarta.
+Can you crack the site?
+No.
+Intrarmour's a hosting company
+like a hotel or a Swiss bank,
+exclusively for black hat
+hackers, so it's bulletproof.
+His server's in there,
+but we can't crack the site.
+All right. So, the move
+is strictly low tech.
+As in...
+Go to Jakarta,
+burglarize the place,
+get our hands on his server.
+We don't have visas or badges
+that work in Indonesia.
+Can't FBI get us documented?
+After the NSA turndown,
+I'd stay away from D.C.
+Then I'll work my side
+of the house for entry.
+That'll take a face-to-face
+with my bosses.
+- All right.
+- All right.
+You getting anywhere?
+No. Not into the servers.
+But I got into
+lntrarmour's accounting.
+Look at this.
+Charges to our boy's account.
+Okay, so?
+Mmm. Look at this. $14, $17.
+Now, $16,400.
+Five times.
+Paid to SatelliteShot.
+SatelliteShot
+rents satellite time.
+What kind of shot? This kind.
+Hi-res scan.
+Of the coast of Malaysia.
+What's there?
+Nothing much.
+Why'd he scan there?
+The two attacks...
+We identified the source.
+It's in Jakarta.
+Now, we need documents to infiltrate
+my team into the country.
+U.S. Department
+of Defense contacted me.
+Hathaway hacked into
+a classified NSA system.
+They want him back.
+It's the Americans
+who denied us access.
+Without Hathaway, we wouldn't have
+found the Actor who attacked Chai Wan.
+With the U.S. we conflict...
+...over naval issues in the South
+China Sea and cyber espionage...
+...while we partner
+in trade and finance.
+Not an easy balance
+to maintain.
+Hathaway doesn't rise to
+this level of consideration.
+You don't need Hathaway anymore.
+You have Jakarta.
+Arrange a time and location, and
+hand him over to the Americans.
+Major...
+This is not a discussion.
+Hathaway goes to the Americans.
+Then, you go to Jakarta
+and finish it.
+Yes, sir.
+Shit!
+This is Barrett.
+What the hell did you
+let go on there, Carol?
+Pollack?
+Do you know what your guy did?
+What are you talking about?
+Cut the crap.
+I'm talking about calls I got
+from the goddamn NSA and Defense.
+Our guy blew
+a reactor at Chai Wan.
+Don't you watch CNN?
+That's not the point.
+That's not the point.
+That's exactly the point.
+The guy we're working
+will drop the big hammer
+and not think twice about it.
+Come on, come on, come on.
+Don't evoke 9/11 on me.
+You didn't lose
+anyone there, Stanley.
+Look, I'm under orders.
+Now, so are you.
+Bring him in, Carol.
+Bring him in.
+What's going on?
+Damn it! Hathaway's gone.
+Hey. This says he's here.
+He cut his bracelet?
+He can't. It signals an alarm.
+This says it's working.
+Check your settings.
+He reset it to
+once every 24 hours.
+We haven't been
+tracking him since LA.
+They're at Cheung Hau Street.
+Shit.
+Hey.
+They're coming for you.
+They're coming for you
+because of Black Widow.
+That was fast.
+They want me to turn you
+over to the Americans.
+So, turn me in and walk away.
+And then, Barrett and
+Jessup will back me up.
+NSA won't care.
+They think because of you,
+now we have Black Widow.
+You have to run.
+What? You're gonna
+refuse an order?
+You escaped.
+We reconnect in Jakarta.
+Look, your bosses
+can add two and two.
+I'm not turning you in.
+Do I go with you or Nick?
+Neither.
+What? DAWAI: This
+doesn't involve you.
+Who made that choice?
+He's right.
+Look, I'm not sure there's any light
+at the end of this tunnel anymore.
+What did you do, Chen Dawai?
+Remind him he owes you?
+To get him to leave me behind?
+You're not going
+down that road.
+I decide what's for me!
+Yeah, well, I decide
+what's for me.
+I'm going. You're not.
+Right now, we need our data.
+Here. You take the car.
+You may have to move faster.
+I'll bring the hard drive
+to Quarry Bay.
+He's in Kowloon. Right here.
+You're gonna take
+him into custody?
+I follow orders.
+Which orders?
+Stop the bad guys,
+or arrest Hathaway?
+I'm gonna ask you
+a personal question.
+Don't answer if
+you don't want to.
+Who did you lose in 9/11?
+My husband.
+You got to get rid
+of that thing.
+We got a couple of hours.
+Hold it. Hold it.
+He's on the move again.
+He's in Hong Kong.
+Quarry Bay.
+Where? He's headed
+toward Quarry Bay.
+I thought you were
+going separately.
+Nick's taking a small plane.
+I'm flying commercial.
+Sister, go home.
+You did this.
+All right, let's go.
+Lien!
+Lien!
+Hold up! Stop.
+What? Hold up. Hold up!
+What? Stop.
+What? Listen!
+I'm a fugitive now!
+They'll issue
+the warrant within hours!
+Hey.
+Would I take you
+where I'm going?
+Don't blame your brother.
+No!
+Go, go, go!
+Barrett!
+Lien, can they
+get to the next stop
+before the train?
+Listen, we gotta
+grieve later, okay?
+We have to survive.
+Can they get to the next
+stop before the train?
+No, they can't.
+Okay, okay.
+We're both going after them!
+We're both going.
+Yes, we are.
+We are.
+Thank you for this.
+I'm sorry. Be careful.
+Perak, Malaysia.
+PERAK, MALAYSIA.
+Coordinates are right here.
+Here. Right here.
+Looked at this.
+He's got $74 million
+in cash, he's writing code.
+What for?
+What's here?
+You got Dean Palm Oil,
+Pera Limited Mining.
+Agriculture... Jesus.
+Hey, this pump,
+it's a Stasik pump.
+They use the same model.
+Stasik water pumps
+as Chai Wan reactor.
+The same brand. Are they
+controlled by the same PLCs?
+Yes.
+What are they
+mining over there?
+Pera Limited.
+Mining tin. Tin?
+Malaysia is one of
+the biggest exporters.
+And there's four other tin mining
+operations in the next valley.
+This is a riverbed.
+They divert water
+with Stasik pumps.
+You know why Chai Wan reactor?
+We've been looking through the
+looking glass the wrong way.
+He didn't target the reactor
+to knock out the reactor.
+He targeted it to
+knock out the pumps.
+He was rehearsing.
+It was a rehearsal.
+Chai Wan was a rehearsal.
+He's going to shut down these
+pumps and flood the tin mine,
+and the valleys,
+and the villages,
+village people, village dogs.
+Create a shortage in tin. Tin
+prices will rise and shoot up.
+His $74 million from Chicago
+was to buy options on tin ore.
+That's what you're doing.
+Isn't it, you son of a bitch?
+JAKARTA, INDONESIA
+All right, look at this.
+A third version of his
+virus, running more PLCs.
+Fifty-three...
+Fifty-three PLCs.
+Five different tin mines.
+For which he's going to
+flood five river valleys.
+Here's the money from Chicago.
+$73.6 million in cash,
+deposited into a local bank.
+Bank Sentra Agatis.
+To this address.
+Hi. Hello.
+Excuse me, I'm sorry.
+Can you speak English?
+A little. Okay.
+I'm here to have a meeting with.
+Mr. Jumhari in five minutes.
+Go to the reception
+on the third floor.
+Yeah, I know, but
+can you help me?
+My presentation got stained.
+Any chance, can you print
+me a new copy, please?
+Not supposed to, but...
+So?
+Home run.
+You got my message.
+Why are you here? You tell
+me, what do you want?
+I am not gonna talk
+to a fucking bagman.
+Here's the terms.
+Phones only. No face-to-face.
+You got that? Good.
+Next, your boss on
+the line with me in 15.
+That's not possible.
+I have $74 million
+of his money.
+You make it possible.
+Yeah.
+Your note said that you know
+me, but I don't know you.
+But that's not really true,
+is it, Hathaway?
+Yeah? I know you.
+Ah, you do?
+Well, that makes one of us.
+Sometimes I wake up in the morning
+and I don't even know who I am.
+Where I am. In what country.
+And you know me?
+I know you,
+and you're about money
+because ifs your scoreboard
+in the virtual world.
+You found me.
+What do you want?
+I want to be Casper the Ghost.
+Don't you have a job, working
+yourself out of prison?
+It was kind of a bad fit.
+You're looking for employment?
+What do I want employment for?
+Oh, you want a piece?
+To put yourself
+back into the game?
+You were never in the game.
+You're a glorified carder.
+A carder whose time is expired.
+Check your expiration date.
+Your shelf life is over.
+A glorified carder
+holding your $74 million.
+Okay, last time.
+What do you want?
+I want 20% of
+the Malaysian tin ore hit.
+For releasing my money?
+No, for renting you my code.
+It's my action that gave
+that code you wrote meaning.
+What's it mean
+without a bankroll?
+You want to be my partner?
+Ifs 20%. You call
+it whatever you want.
+I meet my partners.
+Well, I don't.
+And like I told your bagman,
+I don't want to meet.
+I don't give a fuck
+about what you want.
+It's what I want when I
+make a deal, face-to-face.
+Because I can put together another bankroll.
+Target another target.
+And if I stop thinking
+about you,
+if I stop thinking
+about anything,
+it disappears. It vanishes.
+It ceases to exist.
+But you...
+You, I want to meet.
+Or you can piss off
+and die, Ghostman.
+All right, you and Kassar.
+HI call you and tell you where.
+Sure.
+Okay. We're on.
+Emergency! Please.
+It's all about if I can get
+close enough fast enough.
+Hey, I told you.
+You and Kassar, alone.
+Five men, two floors below.
+The team two floors below.
+And two gunmen with them.
+And the two guys with you?
+Lose them.
+I'm changing the location.
+You and Kassar, Papua Square. Walk west.
+Meet me in two hours.
+It'll be packed. How am
+I supposed to find you?
+I find you.
+He has a spotter.
+So, stay back a little.
+You right, you left.
+But keep your eyes on us.
+Step back. Hands up.
+Hands up, hands up.
+Hands up. Turn around.
+Turn around!
+No one's ever gotten
+this close before.
+20% is too much, Hathaway.
+You talking points?
+Well, people die on
+this planet every day.
+What do you want me to do?
+Grieve? Because I knew him?
+He's not here anymore.
+Where's my money?
+Not about money.
+Not about zeroes
+or ones or code.
+And what's that tell you?
+Get out of the way!
+I'm a gamer.
+I hire people to do
+sub-symbolic stuff.
+You killed my friends.
+I do my own.
+And do I care?
+The Betadine.
+Here.
+I got it. Okay.
+This one? Yeah.
+That's good. It's good.
+Okay.

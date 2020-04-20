@@ -1,0 +1,4669 @@
+And with that movie
+<i>2001,</i> you're projecting us
+into the 21st century.
+I brought along
+my son Jonathan--
+hi.
+Who in the year 2001
+will be the same age
+as I am now.
+Maybe he will be better adjusted
+to this kind of world
+that you're trying to portray.
+The big difference,
+when he grows up--
+in fact,
+if we wanted to wait
+till the year 2001--
+he will have
+in his own house
+not a computer as big as this,
+but at least a console
+through which he can talk
+to his friendly local computer
+and get all the information
+he needs for his everyday life,
+like his bank statements,
+his theater reservations,
+all the information you need
+in the course of living in
+a complex modern society.
+This will be in a compact form
+in his own house.
+He'll have a television screen,
+like these here, and a keyboard.
+And he'll talk to the computer
+and get information from it.
+And he'll take it
+as much for granted
+as we take the telephone.
+I wonder, though,
+what sort of a life would it
+be like in social terms?
+I mean, if our whole life
+is built around the computer,
+do we become
+a computer-dependent society?
+In some ways, but they will
+also enrich our society
+because it will make it
+possible for us to live,
+really, anywhere we like.
+Any businessman and executive
+could live almost anywhere
+on earth
+and still do his business
+through a device like this.
+And this is a wonderful thing.
+It means we won't have to be
+stuck in cities.
+We'll be able to live out
+in the country
+or wherever we please.
+<i>Screen says</i>
+<i>it's an unimplemented trap.</i>
+<i>But the error code is wrong.</i>
+<i>It's a system error.</i>
+<i>So what's the upshot?</i>
+<i> It absolutely is</i>
+<i> gonna say hello.</i>
+<i>It's nobody's fault.</i>
+<i>It's a system error.</i>
+<i> You built the voice demo.</i>
+The voice demo is flaky.
+Keep your voices down.
+I've been telling you
+that for--
+this thing is overbuilt.
+It worked last night.
+It worked the night
+before that.
+It worked
+three hours ago.
+It's not working now, so just
+skip over the voice demo.
+Fuck you.
+Everything else
+is working.
+Shh.
+Skip over
+the voice demo.
+We need it
+to say hello.
+You're not hearing me.
+It's not going to say hello.
+Just fix it.
+Fix it?
+Yeah.
+In 40 minutes?
+Fix it.
+I can't.
+Who's the person
+who can?
+I'm the person who can,
+and I can't.
+How bad are you
+saying?
+It's pretty bad.
+I don't know what that means.
+It means the demo is more
+than likely gonna crash.
+You have to keep
+your voices down.
+Joel pforzheimer is
+sitting out in the house.
+I don't care if--
+who's Joel pforzheimer?
+<i> Gq.</i>
+He's been shadowing you
+for a week.
+Did you notice?
+Just look like
+everything's fine.
+He's sitting out
+in the house.
+Hey.
+What are you guys
+saying?
+Some kind of race condition,
+but we haven't been able
+to track it down yet.
+Is the synthesizer sampling
+fast enough?
+No, so the rates are off
+and it keeps crashing.
+It's 20 seconds
+out of a two-hour launch.
+Why not just cut it?
+We can't cut it.
+Yeah,
+you just cut it.
+Two days ago, we ran a
+super bowl ad that could've won
+the Oscar for best short film.
+There are more people who can
+tell you about the ad than can
+tell you who won the game.
+I understand,
+but the ad said the Mac
+was gonna save the world.
+It didn't say it
+was gonna say hello.
+We open the house in five.
+Don't open the house.
+We're taking
+a quick break.
+Part of
+the problem is--
+what?
+We can recompile,
+but if it's a hardware problem,
+we can't get into the back.
+Why not?
+Do you wanna tell her
+or should I?
+Don't start with me, man.
+Why can't he get
+into the machine?
+You need special tools.
+What kind of special tools?
+Just take a screwdriver.
+He didn't want users
+to be able to open it.
+You need special tools.
+Is this for real?
+There are a hundred engineers
+walking around here.
+None of them have the tools?
+In fairness,
+not many of them
+were issued the tools.
+What about you?
+I left them at the office.
+It was 3:00 am when i--
+oh, Jesus Christ.
+- Cut "hello."
+- No.
+What's the first rule
+of a launch?
+It's not gonna crash.
+It just did.
+Andy!
+Which one?
+The other Andy.
+You're right there.
+Why would I be calling out?
+He needs to talk
+to you.
+Yeah.
+The exit signs need
+to be off or we're not
+gonna get a full blackout.
+We've spoken to the building
+manager and the fire marshal.
+And?
+There's no way
+they're gonna let us
+turn the exit signs off.
+I'll pay whatever
+the fine is.
+The fine is
+they're gonna come in
+and tell everyone to leave.
+You explained to
+the fire marshal that we're
+in here changing the world?
+I did, but unless we can also
+change the properties of fire,
+he doesn't care.
+Steve--
+if a fire causes a stampede
+to the unmarked exits,
+it'll have been well worth it
+for those who survive.
+For those who don't,
+less so,
+but still pretty good.
+- Look, i--
+- I need it to go black.
+Real black.
+Get rid of the exit signs
+and don't let me know
+how you did it.
+Fix the voice demo.
+You need special tools
+to open the Mac?
+You knew it was
+a closed system.
+I didn't know literally.
+Jesus.
+And if you keep alienating
+people for no reason,
+there's gonna be no one left
+for it to say hello to.
+It's not for no reason.
+We blow this and IBM
+will own the next 50 years
+like a Batman villain.
+Remember the phone company?
+That's what bell was called,
+"the phone company."
+IBM will be
+the computer company.
+Ten years later they'll
+be the information company,
+and that's very bad
+for the human race.
+So we don't have time to be
+polite or realistic,
+'cause if we are,
+this company's next
+product launch
+will be held
+in front of 26 people
+and a stringer from
+the Alameda county
+shopper's guide.
+We haven't advertised
+the voice software.
+We could pull it out
+of the demo and no one
+would be disappointed.
+Do you want to try
+being reasonable,
+just, you know,
+see what it feels like?
+Okay.
+Pull the voice demo.
+Thank you.
+And then
+cancel the launch.
+I see. You just
+tricked me
+a little.
+You can tell me how unimportant
+it is, but if the computer
+doesn't say hello,
+then neither will John sculley,
+who I promise you
+agrees with me.
+Sculley's not gonna
+cancel the launch
+'cause he's not insane.
+He's also not a hack,
+and when it comes
+to the macintosh,
+he's gonna do
+what I ask him to do.
+What's in this box?
+Nothing you need
+to worry about.
+Don't even open it.
+What the fuck?
+Why is there a carton of--
+who did this?
+Somebody thought--
+who?
+Doesn't matter. Thought it
+would be a good idea to have
+copies of that<i> time</i> cover
+available at everyone's seat.
+It was nipped in the bud
+and all the copies are being
+taken out of the building.
+So problem solved.
+This isn't a macintosh.
+I understand.
+Somebody thought
+it would be a good idea
+to, like,
+enthusiastically hand over
+copies of<i> time</i> with a
+not-a-macintosh on the cover
+at the launch
+of the macintosh?
+What are they handing out
+at hewlett-packard?
+A bushel of apples
+with my face on them?
+I'm sure the thinking was
+that since the computer
+is man of the year
+that that's good
+for our business,
+but like I said,
+I'm having them
+removed from the building.
+What I'd like you to do
+with them is to take them,
+all 2,600 copies,
+and stack them
+on kottke's desk
+and tell him Steve says,
+"happy new year to you."
+Okay.
+I gave<i> time</i> magazine
+full access.
+The whole campus:
+Bandley, apple ii, Lisa.
+I gave him sculley, markkula.
+I gave him woz.
+I gave him everybody.
+What should I call the person
+who thought it'd be
+a good idea to hand these out?
+I'm not telling you
+who it was.
+It was done without malice.
+It's been taken care of.
+You have a half hour
+and we have things
+to talk about.
+Like what?
+Like a million
+in the first 90 days.
+Joanna--
+20,000 a month
+after that.
+Look.
+Those are the forecasts.
+I'm begging--
+this is my field.
+I'm begging you to manage
+expectations out there.
+I'm fanning expectations.
+We're not gonna sell a million
+in the first 90 days.
+Everyone, everyone,
+everyone,
+<i>everyone</i> is waiting
+for the Mac.
+Maybe.
+But what happens
+when they find out
+that for 2,495,
+there's nothing
+you can do with it?
+We were competitive
+at $1,500,
+but once you replaced
+the motorola 6809
+with the 68000--
+which is what supports menus,
+windows, point and click,
+high-res graphics--
+yeah, 'cause everyone
+needs rectangles
+with rounded corners.
+Coach lands on the runway
+at the exact same time
+as first class.
+I don't have the first
+fucking idea
+what that means,
+but this is how
+it got to $2,500,
+which is the price point
+on the PC,
+which can do a lot more!
+Who's gonna want a PC?
+What idiot is gonna want--
+if I wanna tell you
+there's a spot on your shirt,
+i point to the spot.
+I don't say there's a spot
+14 centimeters
+down from the collar
+and three centimeters
+to the right
+of the second button
+while I try to remember
+what the command is
+for club soda.
+That's not how
+a person's mind works.
+If the goal was ease of use,
+maybe you should've
+given it some memory.
+You can complain about memory
+or you can complain
+about price,
+but you can't do both
+at the same time.
+Memory is what costs money.
+I'm glad you're telling me
+your feelings
+about the Mac now
+because we have
+a half hour left.
+We can redesign it.
+I'm just asking you
+to manage expectations.
+Look at their faces
+when they see what it is.
+They won't know what they're
+looking at or why they like it,
+but they'll know they want it.
+Not instantly.
+When people heard
+<i> rite of spring,</i>
+they tore the chairs
+out of the theater.
+They didn't buy
+the record.
+<i> Rite of spring</i>
+happens to be
+the most revolutionary
+and provocative symphony
+of the last century.
+Ballet.
+It was a ballet.
+But Igor stravinsky
+didn't say he was gonna
+sell 20,000 units a month.
+I don't know why we're
+talking about stravinsky
+when what I care about
+is Dan kottke sodomizing me
+in<i> time</i> magazine.
+Look. Obviously--
+let me say this to you.
+Obviously, Daniel didn't think
+he was doing anything wrong.
+By talking to<i> time</i>
+about it?
+Yeah.
+I don't know
+what that means.
+You said,
+when you told me the story--
+you said you said to Dan,
+"did<i> time</i> magazine
+ask you if I had
+a daughter named Lisa?"
+And Dan said, "yeah."
+My point was that he answered
+you simply and honestly
+because he didn't think
+he'd done anything wrong.
+Except, Joanna--
+except I don't have
+a daughter named Lisa.
+And this story is now
+about how I'm denying paternity
+and took a blood test.
+And that's why there's
+a picture of-- I don't know
+what the fuck that is.
+That's why there's
+a picture of a PC
+on the cover
+instead of a picture
+of me and the Mac.
+I don't know
+what to tell you.
+I was supposed to be<i> time</i>
+magazine's man of the year.
+And then Dan kottke
+was born.
+Well--
+what?
+She's waiting for you.
+Who?
+Chrisann.
+Brennan?
+They're out in the hall.
+They've been sitting
+in the back of the auditorium
+since 7:00 this morning.
+I'm not having a session
+with chrisann right now.
+We issued
+335 press credentials
+for the launch.
+Steve,
+you piss off chrisann,
+she's gonna stand
+in the lobby
+and give 335 interviews,
+and you, pal, will be
+longing for the halcyon days
+of Dan kottke.
+Let me get this
+over with.
+But don't leave.
+You're gonna stay here.
+What? No.
+I'm not.
+No. There's less of a chance
+of a scene if you stay here.
+She'll be cool.
+I find all this excruciatingly
+personal and-and--
+i-I'm-- I'm not staying.
+No. Come on.
+I don't wanna be
+in a room alone
+with chrisann.
+This is me and you.
+Fine.
+Hey.
+Steve.
+This is a surprise.
+Why don't you
+come on in?
+Thank you.
+- You coming too?
+- Yes, I'm not gonna leave her
+in the hallway.
+Okay.
+It's a safe hallway,
+but anyway.
+You remember Joanna Hoffman?
+She's the head of marketing
+for the Mac.
+Good to see you.
+Nice to see you.
+Hello, Lisa.
+We've met before,
+and you told me
+you like the way I talk,
+and that was
+my favorite thing
+anyone's ever said to me.
+You're from Poland.
+Yes, I am.
+- Do you know where that is?
+- The top of the earth.
+I think you're thinking
+of the north pole.
+Well, we're a little
+pressed for time, so--
+- I'll leave you guys alone.
+- Why do you wanna leave
+when you just said--
+I'm gonna check in
+with hertzfeld.
+We're trying to get
+a computer to say hello,
+but right now
+it's being very shy.
+Would you come help me?
+Is that okay?
+Sure.
+Thank you.
+My dad named a computer
+after me.
+I'm not your--
+actually, do you know
+what a coincidence is, Lisa?
+No.
+Like if you met someone.
+You made a new friend
+and her name was Lisa too.
+That would be a coincidence.
+"Lisa" stands for
+"local integrated
+systems architecture."
+L-i-s-a.
+It's a coincidence.
+- You about done?
+- Yeah.
+Okay.
+Come. Let's make
+that computer say hi.
+Go ahead, Lisa.
+So it was
+the other way around.
+I was named
+after the computer?
+Nothing was named
+after anybody.
+It's a coincidence.
+Come on.
+What's the matter
+with you?
+What's the matter with you?
+Why are you telling her
+these things?
+Why are you
+still telling her
+I'm her father?
+- A judge told her
+you're her father.
+- No, he didn't.
+Where the hell
+do you get off
+telling<i> time</i> magazine
+I've slept with 28 percent
+of the men in America?
+That's not--
+where do you
+get off?
+That's not remotely
+what I said.
+It's right here.
+First of all,
+can I tell you something
+about<i> time</i> magazine?
+I believe
+it's a training facility
+for paid assassins.
+"Jobs insists"--
+i am quoting--
+i didn't invent math.
+"...twenty-eight
+percent of the male population
+of the United States
+could be the father."
+I wasn't saying
+you've slept with 28%
+of American men.
+I was using an algorithm
+based on the blood test
+which said there was a 94.1%
+chance that I'm the father.
+You're trying
+to publicly paint me
+as a slut and a whore.
+Believe me,
+I'm not trying to publicly
+do anything with you.
+Two million people
+read<i> time.</i>
+How am I supposed--
+it would be more if they put
+me on the cover, but Dan kottke
+decided to kidney-punch me--
+- I applied for
+welfare yesterday.
+I'm sorry?
+- Hello!
+- I said I applied
+for welfare yesterday.
+The<i> time</i> article said
+your apple stock was worth
+$441 million,
+and I wanted to ask you
+how you felt about that.
+Well, I feel like
+apple stock has been
+dramatically undervalued.
+This would be
+a good time to get in.
+Your daughter
+and her mother--
+chrisann--
+are on welfare.
+We're living in a hovel
+in menlo park.
+We can't pay
+the heating bills.
+She sleeps in a parka.
+Your daughter--
+she's not my daughter!
+Because, as reported
+by<i> time</i> magazine,
+- I've slept with 28%
+of the men in America?
+- No.
+All of them,
+exactly nine months
+before Lisa was born.
+I've got Andy here.
+Excuse me.
+We're there?
+- Hey, Chris.
+- Hey, Andy.
+- How are you doin'?
+- Terrible.
+You guys caught up now?
+Excuse me for saying hello
+to my friend,
+who thinks you're a dick.
+I don't think
+you're a--
+we're there?
+No. It's got a one-in-six
+chance of working.
+Goddamn it.
+Well, we're not
+a pit crew at Daytona.
+This can't be fixed in seconds.
+You didn't have seconds.
+You had three weeks.
+The universe
+was created in a third
+of that time.
+Well, someday you'll
+have to tell us
+how you did it.
+Here's what
+I'm gonna do.
+I'm gonna announce
+the names of everyone who
+designed the launch demo.
+I'm gonna introduce everyone
+and ask them to stand up.
+The bag was designed
+by Susan kare.
+The macintosh font that's
+scrolling across the screen
+was designed by Steve capps.
+The starry night
+and skywriting
+was Bruce horn.
+Macpaint, macwrite, Alice,
+down to the calculator.
+And then I'm gonna say
+the voice demo
+that didn't work
+was designed
+by Andy hertzfeld.
+Steve--
+five-in-six is your chance
+of surviving the first round
+of Russian roulette,
+and you've reversed those odds.
+So unless you wanna be disgraced
+in front of your friends,
+family, colleagues,
+stockholders and the press,
+I wouldn't stand here
+arguing.
+I'd go try and get some more
+bullets out of the gun.
+Do it, Andy!
+Stop. You.
+What size shirt
+do you wear?
+Me?
+Does anyone know
+what size shirt he wears?
+What size shirt I wear?
+Does anyone know
+where the closest
+psychiatrist is?
+The disk
+fits in your pocket.
+I need a shirt
+with a breast pocket.
+I can take it out onstage.
+A shirt?
+The disk!
+I need a white shirt
+in my size
+with a breast pocket.
+Yes. Which one
+of the no stores
+that are open at 8:45
+do you want me to have someone
+run to and return from
+in 15 minutes?
+Go out in the lobby,
+find someone my size
+who's wearing a white shirt.
+Tell them I'll trade them
+for a free computer,
+and they get
+to keep my shirt.
+Does it have to be
+a white shirt?
+Is blue okay?
+No. The Mac is beige, I'm beige,
+the disk is blue,
+the shirt has to be white.
+Andy?
+Hello, I'm macintosh.
+Bring me the head
+of Andy hertzfeld.
+I tried to get it
+to say hello,
+but it's shy.
+Yeah.
+So that's it?
+That's it.
+I don't get it.
+I know.
+What are people
+going to do with it?
+Lisa,
+how old are you now?
+- You know how old she is.
+- How old are you, Lisa?
+Five.
+Come sit here for a minute.
+Do you know
+what this is?
+It's a computer.
+It's a computer.
+Can I borrow your hand
+for a second?
+Point that arrow
+and click.
+You don't have to,
+but if you want,
+you can play with it.
+Nothing you can do
+will break it, so just
+do whatever you want with it.
+What are you doing?
+I'm paying you
+exactly what the court
+ordered me to pay you.
+$385 a month.
+I'm not the one
+who decided
+on that amount.
+And I'm asking you
+how you feel.
+If you feel
+all right.
+If it feels all right to you
+that your daughter--
+she's not my--
+that your daughter
+and her mother
+are on welfare
+while you're worth
+$441 million
+for making that.
+I'm proud to say
+apple donates computers
+to underfunded schools,
+- and we'll be doing more
+of the same with the Mac--
+- what?
+Apple donates millions
+of dollars' worth
+of computers to schools.
+What does that
+have to do with--
+imagine an underprivileged kid
+that has their favorite teacher
+with them 24 hours.
+We're minutes away
+from being able to do that.
+In your head,
+was that an answer
+to my question?
+Tell me the question again.
+I wasn't the one
+who sued you
+for child support.
+- No, let--
+- San Mateo county
+sued you.
+No, let me explain
+what happened, 'cause I have
+plenty of time right now.
+Excuse me.
+You have a visitor.
+Just wanted to say
+good luck.
+Hey, chrisann.
+Hello, woz.
+Hang on.
+Just wanted to say
+good luck.
+Thanks. You too.
+It's a big morning.
+Yeah.
+You should see
+this crowd out there.
+This crowd,
+it's like, um--
+I can't really wait
+for you to come up
+with a metaphor, man.
+Yeah. So, listen, I want
+to ask you a favor.
+Yeah?
+Can you acknowledge the apple ii
+team in your remarks?
+I cannot.
+Just an acknowledgement.
+Have them stand up.
+- We're launching the Mac.
+- It'd be a morale booster.
+Just a mention
+so they could get
+a round of applause.
+Just a mention.
+Can we stick a pin in this
+for a minute?
+Sure.
+Thank you.
+Just talking about
+an acknowledgement
+for the team.
+I've got chrisann in there.
+I'll see you in a second.
+Yep.
+That.
+What?
+You asked me what people
+are gonna do with it.
+They're gonna do that.
+One of the engineers.
+Thank you.
+Do you like it?
+I'm sorry?
+It's an abstract.
+You used macpaint.
+Push that key and the "s"
+at the same time.
+Now type your name.
+Do you know
+which box says "save"?
+Right.
+Go ahead
+and click on it.
+I'll put some money
+in your account
+and buy you a new house,
+someplace near a decent school.
+Thank you.
+Woz wants a minute.
+And sculley's
+asking for you.
+We're done?
+Could you teach me
+more things?
+On the computer?
+Lisa, wait for me
+in the hall, please.
+You can put your coat on
+in the hall.
+Bye, Lisa.
+- Bye.
+- Lisa, in the hall. Now.
+I wanna know,
+when you say you're gonna
+put money in my account,
+how much
+we're talking about.
+It's a school day.
+She needs to be in school.
+I'm gonna give you
+whatever you need.
+Woz wants me
+to acknowledge
+the apple ii team.
+You must be able to see
+that she looks like you.
+I don't want to insult woz.
+I just think
+it's backward-looking
+at exactly the wrong moment.
+- I know you heard what I said.
+- I heard what you said, Joanna.
+It's just we're about to do
+this thing.
+At 9:41, the planet's
+gonna shift on its axis
+nigh and forever.
+Two most significant events
+of the 20th century:
+The allies win the war
+and this.
+This.
+So maybe right now
+isn't the very best time
+to scold me
+for not being
+a better father to a kid
+who's not my kid.
+The test said i--
+i don't care
+what the test said.
+I don't care
+about 94.1%
+or the insane algorithm
+you used to get to 28%
+of American men.
+Buying her a new house.
+I'm giving her money.
+There's a small girl who
+believes you're her father.
+That's all.
+That's all the math
+there is.
+She believes it.
+What are you gonna do
+about that?
+God sent his only son
+on a suicide mission,
+but we like him anyway
+because he made trees.
+We're gonna sell
+a million units
+in the first 90 days.
+20,000 a month after that.
+So maybe you could give me
+a break, Ms. Hoffman?
+Woz.
+Hey.
+There's nothing
+in that vending machine
+that won't kill you.
+Just browsing.
+Let's take a walk.
+- Can I tell you
+something?
+- Yeah.
+After the meeting in Maui,
+the apple ii team was upset
+and angry and down.
+Do you know why?
+Because the apple ii
+wasn't mentioned even once?
+The apple ii
+wasn't mentioned ev--
+yes, that's it.
+You have it. Yes.
+That wasn't an oversight.
+They know that.
+They know it wasn't.
+I don't wanna
+make a big deal
+out of this--
+that's entirely
+within your power.
+The apple ii is--
+the apple ii is what was,
+my friend.
+The apple ii is what pays
+the bills around here
+and has for seven years.
+And if you embarrass
+these people,
+you are going to see
+a brain drain at this company,
+my brother.
+Markkula took you off the Lisa,
+not them and not me,
+so don't blame--
+markkula took me off the Lisa
+because of his strong religious
+objection to making it good.
+Now I gave you
+everything you wanted
+on the apple ii.
+You don't ask for a lot?
+There wasn't
+a single fight you lost.
+Do you concede the slots
+are the reason for
+the success of the apple ii?
+We can't still be
+talking about the slots.
+I have a point.
+It's been seven years.
+You're still doing it.
+You're talking about the slots.
+There's something wrong
+with you. This argument started
+in the garage.
+What are you talking about?
+Why would you only want
+two slots?
+A printer and a modem.
+With eight slots,
+you--
+this is a huge deal
+that we were able
+to add eight slots.
+I appreciate the engineering,
+but it's not what we're doing.
+And thank god
+i won that argument--
+woz.
+Because the open system
+is what people love
+about the machine,
+and it's why it sold
+and still sells.
+An open system.
+We're not doing
+an open system.
+Of course we are. That's what
+people want, and the
+breakthrough on the apple ii--
+people don't know
+what they want until
+you show it to them.
+Serious users want to customize.
+They wanna modify.
+They wanna Jack it up.
+They want hardware engineers
+like me to expand
+its capabilities, okay?
+Keyboards for music,
+better sound board,
+better display boards,
+improved memory cards.
+And it's why
+there are 3,000 people
+here right now.
+The slots are what allowed
+the apple ii to run,
+for just one example, visicalc,
+which from my guess
+single-handedly sold between
+200,000 and 300,000 machines.
+They want slots.
+They don't get a vote.
+When Dylan wrote "shelter from
+the storm," he didn't ask people
+to contribute to the lyrics.
+Plays don't stop
+so the playwright
+can ask the audience
+what scene
+they'd like to see next.
+Painters--
+hobbyists--
+we're on the verge
+of a tectonic--
+hobbyists?
+A printer and a modem.
+Two slots.
+The apple ii team
+has my affection,
+but I'm not loving up
+a seven-year-old product
+at the Mac launch.
+Computers
+aren't paintings.
+Fuck you.
+I'm gonna say "fuck you"
+every time you say that
+until you either die or stop.
+- Steve--
+- try it.
+Steve.
+Say it.
+- Computers aren't paintings.
+- Fuck you.
+Yes, they are,
+and what I want
+is a closed system.
+End-to-end control.
+Completely incompatible
+with anything.
+Computers aren't supposed
+to have human flaws.
+I'm not going to build
+this one with yours.
+Steve!
+Hey.
+Today is
+about the macintosh.
+And the Mac is mine.
+- I give you that.
+- Thank you.
+I give you that.
+Just publicly acknowledge
+the apple ii team
+'cause it's
+the right thing to do.
+We'll know soon enough
+if you are Leonardo Da Vinci
+or just think you are,
+but in the meantime,
+it would be great--
+in the meantime,
+the apple ii is done.
+Seven years.
+It was a great run.
+You should go out
+in the house
+and take your seat.
+The Mac is jef raskin's.
+Say it for me.
+Computers aren't--
+fuck you.
+All right.
+Five, six--
+we're there?
+I need more time.
+You can't have it.
+20 minutes.
+It's 8:58.
+We can start late.
+Hear me.
+We're a computer company.
+We can't start late.
+Then I have
+another idea.
+What?
+It's deceptive
+and borderline unethical.
+I'm listening.
+It'll run on the 512.
+- You tested it?
+- Yeah.
+- Wait. You're gonna demo
+a 128 computer on a 512?
+- Nobody's gonna know.
+And you think that's
+<i>borderline</i> unethical?
+Name my other choices,
+please.
+Please. You have to tell me
+why it's so important
+for it to say hello.
+Hollywood.
+They made computers
+scary things.
+See how this reminds you
+of a friendly face, that
+the disk slot is a goofy grin?
+It's warm and it's playful
+and it needs to say hello.
+It needs to say hello
+because it can.
+We're not
+committing fraud.
+The 512 is gonna ship
+in under a year.
+Will you absolve me
+of your eastern European
+disapproval?
+The computer in<i> 2001</i> said
+hello all the time and it still
+scared the shit out of me.
+Absolve me.
+Just for this.
+And just for now.
+Ladies and gentlemen,
+please welcome founding
+board member Mike markkula.
+All right.
+Okay.
+Go make a dent
+in the universe, Steven.
+See you in
+a couple hours.
+And I'm going to take us
+through the formal part
+of the meeting,
+the legal part,
+if you will.
+- Thank merciful god.
+- The cavalry's shown up.
+I hear you've been worse
+than usual this morning. I
+didn't think that was possible.
+So I've been dispatched
+as the "Steve whisperer."
+This is a '55 margaux.
+It's 9:00 in the morning.
+This is a '55 margaux.
+Is it my imagination
+or have you started
+to dress like me?
+It was a bad idea
+to have markkula open
+with quarterly reports.
+Instead we should have
+just dropped water
+on the audience.
+You know, just big 10,000-gallon
+tanks of cold water,
+dropped from the ceiling.
+Save Mike some money
+on index cards.
+Oh, just relax.
+Why?
+I don't know.
+No one's ever asked me
+that question.
+There you go.
+You're the only one
+who sees the world
+the same way I do.
+No one sees the world
+the same way you do.
+I'm like Julius Caesar,
+John.
+I'm surrounded
+by enemies.
+No, you're not.
+The board--
+oh, the board.
+The board's behind you.
+Only because you see to it
+they are.
+I think it's a good board,
+but if you want me
+to push them out one by one,
+we can talk about that.
+I want you to push them
+out all at once--
+through a window,
+if it's the nearest exit.
+The look on their faces
+when we showed them the spot.
+I couldn't see their faces,
+'cause they were banging
+their heads on the table.
+Yeah, yeah.
+Yesterday, the day
+after it airs<i> once,</i>
+the publisher of<i> adweek</i>
+calls it the best
+commercial of all time.
+Of all time!
+And it is.
+And if anyone does one better,
+it's gonna be chiat/day,
+who the board wanted to replace,
+and it's gonna be Lee clow,
+who the board thought
+was out of his mind.
+<i></i><i>Ladies and gentlemen, "1984."</i>
+<i></i><i> The first</i>
+<i> glorious anniversary</i>
+<i> of the information</i>
+<i> purification directives.</i>
+<i> We have created</i>
+<i> for the first time</i>
+<i> in all history</i>
+<i> a garden of pure ideology</i>
+<i>where each worker may bloom,</i>
+<i>secure from the pests</i>
+<i>purveying</i>
+<i>contradictory thoughts.</i>
+<i>Our unification of thoughts</i>
+<i>is more powerful a weapon</i>
+<i>than any fleet or army on earth.</i>
+<i>We are one people--</i>
+did we use skinheads
+as extras?
+- A couple of people
+have told me that.
+- Yeah.
+We paid skinheads?
+I've got skinheads
+on my payroll?
+They had a look
+you wanted.
+The skinheads?
+- Yeah.
+- Okay, let's keep that
+to ourselves.
+<i> We shall prevail.</i>
+<i>On January 24th,</i>
+<i>apple computer</i>
+<i>will introduce macintosh.</i>
+Who else knows?
+Who else knows what?
+That we paid terrorists
+to be in our TV commercial.
+John--
+they were wrong about the ad,
+but they're a good board.
+Good people.
+Their only problem--
+their problem
+is that they're people.
+People.
+The very nature of people
+is something to be overcome.
+When I was running Pepsi,
+we had a lot of success
+focusing on 18-to-55-year-olds
+who weren't members
+of violent hate groups.
+I get it.
+You're not surrounded
+by enemies.
+We're almost there.
+I'm back and forth
+on the Dylan.
+I might quote
+a different verse.
+What are the choices?
+"For the loser now
+will be later to win,"
+which is what we have.
+Mm-hmm. Or?
+"Come mothers and fathers
+throughout the land
+and don't criticize
+what you can't understand.
+Your sons and your daughters"--
+"are beyond your command."
+I just lost
+a hundred bucks
+to Andy hertzfeld.
+He said you'd change it
+to that verse.
+We got 45 seconds.
+I want to use it
+to ask you a question.
+Why do people who are adopted
+feel like they were rejected
+instead of selected?
+That came out of nowhere.
+"Your sons
+and your daughters
+are beyond your command.
+Your old road
+is rapidly aging."
+So go fuck yourself,
+because my name
+is Steve Jobs,
+and the times,
+they are a-changin'.
+I don't feel
+rejected.
+You're sure?
+Very sure.
+'Cause it's not like
+the baby is born
+and the parents look and say,
+"nah, we're not interested
+in this one."
+On the other hand,
+someone did choose you.
+It's having no control.
+You find out you were
+out of the loop
+when the most crucial
+events in your life
+were set in motion.
+As long as
+you have control.
+I don't understand people
+who give it up.
+What inspired hertzfeld
+to make that bet?
+He was warning me
+that being your father figure
+could be dangerous.
+Keep your 100 bucks.
+I'm sticking
+with the first verse.
+Good.
+What the hell
+does he mean?
+Nothing.
+I'm proud of you.
+Thank you, boss.
+It's my pleasure
+to introduce my friend
+and the ceo of apple,
+John sculley.
+John?
+Yeah?
+Lisa made a painting
+on the Mac.
+<i>The macintosh, apple's near</i>
+<i>mythological home computer,</i>
+<i>has gotten off to a rocky start</i>
+<i>in its battle</i>
+<i>with industry titan IBM.</i>
+<i>With sales</i>
+<i>originally projected to be</i>
+<i>a million in the first quarter,</i>
+<i>apple has sold only 35,000</i>
+<i>of the user-friendly machines</i>
+<i>in the months since it's been</i>
+<i>available to customers.</i>
+<i>The insistence by Steve Jobs</i>
+<i>that it have what's called</i>
+<i>end-to-end control,</i>
+<i>which is a way of saying that</i>
+<i>it's not compatible with most</i>
+<i>outside hardware or software,</i>
+<i>is the shakespearean flaw</i>
+<i>in a machine that</i> had<i> potential.</i>
+<i>Apple computers closed</i>
+<i>two of its factories today</i>
+<i>in the wake</i>
+<i>of disappointing sales.</i>
+<i>Do you know how many macs</i>
+<i>were sold last month? 500.</i>
+<i>In a move that surprised some</i>
+<i>but not all on wall street,</i>
+<i>the board of directors</i>
+<i>of apple computers voted today</i>
+<i>to fire its cofounder</i>
+<i>Steve Jobs.</i>
+<i>Did he jump</i>
+<i>or was he pushed?</i>
+<i>His ex-boss,</i>
+<i>apple ceo John sculley,</i>
+<i>refused to comment.</i>
+<i>However,</i>
+<i>in an exclusive interview,</i>
+<i>Steve wozniak has slammed</i>
+<i>the integrity of his old friend</i>
+<i>Steve Jobs.</i>
+<i>He calls jobs</i>
+<i>an insulting and hurtful guy.</i>
+<i>Jobs is hitting back with a new</i>
+<i>company and a new computer.</i>
+<i>Apple has a new competitor.</i>
+<i>Steve Jobs's black cube</i>
+<i>is aimed</i>
+<i>at the education market.</i>
+<i>Few people have the ability</i>
+<i>to make the world wait,</i>
+<i>but that is just</i>
+<i>what jobs is doing</i>
+<i>with his new company, next.</i>
+<i>Focus seems kind of sharp.</i>
+<i>On the slide?</i>
+The floor.
+The pin spot.
+I think we want
+a sharp focus.
+Don't take it personally.
+Just not a fan
+of the circus aesthetic.
+All right, let's hold here.
+We're gonna have to go up
+and refocus the instruments.
+Just one. The 30 is fine.
+While we're holding,
+there are well-wishers
+in the vip room.
+And woz is here.
+Steve wozniak.
+Yes.
+Thank you very much.
+<i>And Andy hertzfeld.</i>
+Andy hertzfeld.
+Thank you.
+<i>John sculley is here too.</i>
+It's nice
+that he's here.
+Really? I don't think
+it's very nice at all.
+You have to see them.
+They wanna pay their respects.
+If they were respectful,
+we'd all still be at apple
+right now.
+Look--
+if they really
+wished me well, they'd
+keep to themselves.
+Can I tell you something?
+I don't think they do
+wish me well.
+<i>But I'm all right with that.</i>
+<i>I'm over apple.</i>
+I got over the Mac
+and woz and sculley,
+the same way you get over
+your high school sweetheart.
+Build a new one.
+Can I tell you
+something?
+Yes.
+You said you wouldn't
+compete with them,
+but you designed a computer
+specifically for
+the education market,
+which they putatively own.
+So, I think it's cool
+they're here.
+They're suing me.
+Still.
+It was nice they came.
+They're not
+being magnanimous.
+They want it to look
+like an amicable divorce.
+History doesn't remember
+Joe DiMaggio kindly
+for dumping Marilyn.
+Steve?
+What's your problem?
+I don't know,
+but I'm sure it can
+be traced back to you.
+You know, I'm the one
+who has to explain you
+to people.
+$100,000 to Paul rand
+for a corporate logo
+when we didn't even know
+what our company made.
+A $650,000 mold
+for the cube,
+because god forbid
+the angles be 90.1
+instead of 90.
+I forbid the angles
+to be 90.1
+instead of 90.
+That box
+could be on display
+at the guggenheim.
+Don't give them reason
+to say to the press
+you have a chip
+on your shoulder.
+Will you do that
+for me?
+I don't have a chip
+on my shoulder.
+Okay, okay.
+But don't give them
+a reason
+to say you do.
+I don't.
+That's the right
+attitude.
+That's not an attitude.
+They're gonna call me back
+in a minute
+to look at the light.
+Get one
+out of the way.
+Fine!
+Yeah?
+Yeah.
+One more thing.
+Sure.
+No questions
+from the press after.
+No-- why?
+Until I have better answers,
+no press avail.
+Somebody asks where I am,
+you just saw me,
+and I'll be right back.
+Okay.
+Who do you want
+first?
+Bring me the face
+of Steve wozniak.
+Hang on.
+I thought you
+went to school.
+Hang on.
+You were supposed to go
+to school an hour ago.
+I thought you left.
+I didn't wake up my mom
+on time this morning.
+It's happened before
+too.
+I wake up with the alarm
+and then I get dressed
+and eat breakfast,
+but sometimes I forget
+to see what time it is
+after that.
+- Why doesn't your mom just
+set her own alarm clock?
+- It's one of my chores.
+I don't understand
+what that has to do
+with why you're still--
+where's your mother?
+<i>She went to find a pay phone.</i>
+An hour ago, she said--
+you don't have
+to raise your hand.
+You said it was off
+by a little.
+It is.
+- I just measured it.
+- Joanna--
+exactly a foot
+on all four sides.
+There are six sides.
+But you're not supposed
+to be here right now.
+We know if four
+of the sides are equal
+to each other,
+the other two
+must be equal as well.
+The top, bottom,
+right and left
+are about a millimeter shorter
+than the front and back.
+They're not.
+I measured them.
+Lisa, I'm kind of an expert
+in design.
+And that's a 20-cent ruler.
+You think there's a chance
+it could be off?
+If I had another ruler,
+i would measure this ruler,
+but I really doubt it's off.
+When your mother comes back,
+you have to go to school.
+Because it's a ruler!
+Why is it off?
+Did you hear
+what I just said?
+Yes.
+Because sometimes it seems
+like you just keep saying
+what you want
+without listening.
+I'm listening.
+Is there something
+you need?
+No.
+Why isn't it
+a perfect cube?
+You've asked me before.
+I forget what it is.
+It's an optical anomaly.
+To the human eye,
+a perfect cube
+doesn't look like a cube,
+so we made it roughly
+a millimeter shorter
+than a foot on two sides.
+What's an anomaly?
+You've asked me that
+before too.
+I don't know why you keep
+doing that.
+It's an exception.
+Something that doesn't
+fit a pattern.
+You have to go to school.
+Come in!
+I think you two
+have met.
+Hello, old friend.
+- You look well.
+- So do you. So do you.
+And they're telling me
+George is ready for you
+to look at the focus.
+Take a walk with me.
+Is this Lisa?
+Yeah.
+- This can't be Lisa.
+- It is.
+Lisa's this big.
+They get taller.
+Come on.
+- Do you remember me?
+- She doesn't.
+I'm your dad's friend
+Steve wozniak.
+I apologize.
+I don't remember you.
+You're very polite.
+- Woz?
+- Yeah.
+- Chrisann's at a pay phone.
+- Would you find her?
+Yeah.
+<i>Good turnout.</i>
+- Great turnout.
+- Yeah.
+"Insanely great."
+Insanely great.
+This is the first time
+we haven't played
+for the same team.
+It's like you're releasing
+your first solo album.
+I, uh-- I appreciate
+your inviting me
+to the launch.
+I just want to wipe
+the slate clean.
+That's exactly what I want.
+That's why I came backstage.
+I want you to know,
+um, I'll be out there
+with you.
+Any chance I can get you
+to go out there
+instead of me?
+I love you, Steve.
+I love you too, woz.
+You know,
+some things were said.
+- They were.
+- They were said in public.
+They were published.
+Were you pressured to do it?
+Was I what?
+Check it out.
+It's the orchestra pit
+for the San Francisco opera.
+Was I pressured
+to do it?
+I once met seiji ozawa
+at tanglewood.
+A thunderous conductor.
+Ungodly artfulness
+and nuance.
+And I asked him what exactly
+a conductor does
+that a metronome can't.
+- Surprisingly, he--
+- he didn't beat the living
+shit out of you?
+That's right. No, he said,
+"the musicians
+play their instruments.
+I play the orchestra."
+That feels like something
+that sounds good,
+but doesn't mean anything.
+Markkula, sculley--
+did they ask you
+to slag me off in the press?
+I had reason
+to be angry.
+Did they?
+Absolutely not.
+But they asked you
+to talk.
+Apple was under siege.
+You'd just left the company.
+Someone had to talk
+to the press.
+I'm right here, woz.
+The company left me.
+I begged you.
+I begged you.
+The apple ii accounted
+for 70% of the revenue.
+What did you think
+was gonna happen?
+You didn't care enough
+about the apple ii
+or the Lisa.
+Let's be really clear.
+I didn't care at all
+about the apple ii
+or the Lisa.
+I wasn't pressured
+to do it.
+What I said to the press
+was an honest, if tempered,
+reflection of what I believed.
+- Woz.
+- Yeah?
+What the fuck
+is on your wrist?
+- You wanna know?
+- I literally can't wait.
+Everyone's gonna be wearing
+these in 10 years.
+It's a nixie watch,
+made using nixie tubes.
+This is actually
+40-year-old technology.
+Cold cathode tubes.
+They're operating
+at 140 volts.
+I tilt my wrist 45 degrees,
+it's right there.
+Hours, minutes
+and seconds.
+The way our minds work.
+Look at that.
+Do me a favor.
+Set the watch ahead
+like you're on a plane
+and just changed
+time zones.
+Not a problem.
+Unscrew that.
+Just hit the button.
+Excuse me. Flight attendant?
+The man next to me would appear
+to be detonating a bomb.
+You think this
+looks like a bomb.
+Even right now,
+I'm not 100% sure
+it isn't.
+- I think maybe once
+people get used to it--
+- no.
+I was angry.
+You were saying things about
+the apple ii, and the way
+you were treating the team--
+woz. You get a free pass
+for life.
+I got to get back onstage.
+We got two minutes
+of rehearsal time left.
+Do you understand how
+condescending that just was?
+Maybe you don't.
+I don't want to see you
+get dragged off an airplane
+in plastic handcuffs.
+I get a free pass for life
+from you?
+You give out the pass--
+y-y-you give them to me?
+You're gonna
+have a stroke,
+little buddy.
+What did you do?
+What did you do?
+Why has Lisa
+not heard of me?
+Shit, man,
+how many fourth-graders
+have heard of you?
+You can't write code.
+You're not an engineer.
+You're not a designer.
+You can't put a hammer
+to a nail.
+I built the circuit board.
+The graphical interface
+was stolen from xerox parc.
+Jef raskin was the leader
+of the Mac team before you
+threw him off his own project.
+Everything--
+someone else designed the box.
+So how come 10 times
+in a day,
+I read
+"Steve Jobs is a genius"?
+What do you do?
+I play the orchestra.
+And you're a good musician.
+You sit right there.
+You're the best
+in your row.
+I came here
+to clear the air.
+Do you know why I came here?
+Didn't you just
+answer that?
+I came here because
+you're gonna get killed.
+Your computer's gonna fail.
+You had a college
+and university advisory board
+telling you they need
+a powerful workstation
+for 2,000 to 3,000.
+You've priced next
+at 6,500.
+And that doesn't include
+the optional
+$3,000 hard drive,
+which people will discover
+isn't optional.
+Because the optical disk
+is too weak to do anything.
+And the $2,500 laser printer
+brings the total to $12,000.
+And in the entire world,
+you are the only person
+who cares that it's housed
+in a perfect cube.
+You're gonna get killed.
+And I came here
+to stand next to you
+while that happens
+because that's what
+friends do.
+That's what men do.
+I don't need your pass.
+We go back,
+so don't talk to me
+like I'm other people.
+I'm the only one
+that knows
+that this guy here
+is someone you invented.
+I'm standing by you
+because that perfect cube
+that does nothing
+is about to be the single
+biggest failure
+in the history
+of personal computing.
+Tell me something else
+i don't know.
+Back onstage?
+We're out of time.
+They've got
+to mop the stage
+and open the house.
+If it crashes,
+it crashes, right?
+You'll make a joke.
+I'll make a joke.
+If it crashes,
+it crashes.
+It's a good slogan.
+"Next.
+If it crashes, it crashes."
+I'm not just talking
+about the demo, Steve.
+If it tanks, we don't
+swallow cyanide.
+We go back
+to the drawing board.
+No more drawing boards.
+Invent the edsel twice,
+you don't get any more
+drawing boards.
+Tell me
+what the plan is.
+You have to tell me
+the plan,
+because I don't know.
+You're walking around
+like you've got
+"can't lose" cards.
+The plan will
+reveal itself to you
+when you're ready to see it.
+Will I have
+to drop acid?
+Couldn't hurt.
+Is there a plan?
+Have I ever let you down?
+Every single
+goddamn time.
+Then I'm due.
+Is there?
+Joanna,
+there's a plan.
+I just don't wanna put you
+in a position where
+you're lying to people.
+Start 15 minutes late
+so avie can recompile and
+give us a fighting chance.
+Jesus Christ.
+How many times
+are we gonna have this con--
+we're not starting
+late, ever!
+Fine!
+We're not
+ever starting late.
+Late.
+But where
+do you come down
+on starting late?
+Lisa's been doing this thing
+where she asks me about stuff
+I've already told her.
+She asks me questions,
+and I know she already
+knows the answers.
+What's that about?
+Kids do that when they're
+scared one of their parents
+is in a bad mood.
+They try to get you talking
+about something you like.
+It's very common and can be
+treated by talking to her
+about things she likes.
+Do you have any experience
+or training in this field?
+No.
+Tell them
+to open the house.
+Where's Lisa?
+She's around.
+- What does that mean?
+- She's running around
+the building.
+An hour ago,
+you said you were
+taking her to school.
+She begged me to let her stay.
+There are fathers
+who would so love--
+it is wrong, okay?
+It is morally wrong,
+it's parentally wrong.
+It is wrong for you
+to use Lisa as a way
+of getting money from me.
+She will know, if she doesn't
+already, that that is
+your primary use for her.
+She will hate you for
+the rest of your life.
+She will see, if she doesn't
+already, that her mother is
+a woman who stands up to men.
+By living off of them.
+By not letting myself
+be imprisoned
+and degraded by them.
+Imprisoned?
+I can't get rid of you.
+I need a doctor
+and I need a dentist.
+I dropped out of college
+after a semester, but, okay,
+let's have a look.
+You will support your daughter
+and her mother.
+Did you pay someone $1,500
+to bless your house?
+Did you hear
+what I said?
+Did you?
+I don't remember
+how much it was, Steve.
+- It was $1,500.
+- Well, they don't do it
+for free.
+They don't.
+They charge $1,500.
+How I spend--
+fuck. You know, I'm
+not even gonna--
+were you about to say,
+"how I spend my money
+is none of your business"?
+I have a sinus infection
+and I need
+to see a dentist too.
+So you can see how
+your blessing budget could
+have been better spent.
+Like on a perfect cube?
+- Look at me, chrisann.
+- What?
+- You know who I am, right?
+- Yes.
+- And you know I know people.
+- What are you talking about?
+Look at me. And you know
+the people I know,
+they know people.
+What is this?
+If I ever hear again that
+you've thrown a cereal bowl
+at Lisa's head--
+what?
+My private line's
+gonna ring,
+and a voice on the other end
+is gonna say,
+"we're all set."
+That's how I'll learn
+that you're dead.
+Are you cra--
+I threw the bowl
+on the floor.
+I didn't throw it
+at her head.
+She wasn't even
+in the room.
+She was nowhere--
+i threw the bowl
+on the floor.
+She's a little girl.
+You're scaring her.
+I'm a grown man.
+You're scaring me.
+Taking out the garbage
+is a chore.
+Clearing the table
+is a chore.
+Waking you up
+in the morning
+is just fucking creepy.
+Please teach me more
+about being a parent.
+We're all done here.
+It means so much
+coming from someone who
+won't admit he is one.
+Stop screaming at Lisa.
+I give her
+responsibilities.
+Got it.
+One day she's gonna
+thank me for it.
+Probably
+in your sleep.
+Fuck off!
+Okay.
+I never--
+i never threw anything
+at her head.
+Steve.
+I never would.
+Things don't become so
+because you say so.
+There'll be more money
+in your account
+by the end of business.
+Were you
+being nice?
+Oh, yeah.
+- Andy's next.
+- Hertzfeld
+or Cunningham?
+Hertzfeld. He's playing
+with avie tevanian
+on the computer backstage.
+Ladies and gentlemen,
+the house is now open.
+...playing in front
+of thousands of people.
+Steve!
+Can he do it later, Joel?
+We go in eight minutes.
+Can I get a quick reaction
+to the press this morning?
+What about it?
+The size of it,
+the volume.
+I'll tell you on background--
+I was hoping for
+a quote from Steve.
+I'll tell you on background
+that I've never seen
+anything like it
+in the tech industry.
+I called the<i> wall street journal</i>
+to take out a full-page ad
+for today,
+and do you know
+what their sales guy said?
+"Why bother?
+It'd be like notifying Macy's
+that tomorrow is Christmas."
+You saw the Stewart alsop
+newsletter?
+I did.
+I'm sorry, Joanna,
+i need to get
+Steve on the record.
+The headline was
+"dear next,
+when can I get my machine?"
+When can he?
+We'll announce the ship date
+in the next eight to 10 weeks.
+Alsop's not talking
+about the ship date.
+He wants to know
+when he can get one
+to play with.
+We have a lot of respect
+for Stewart alsop,
+and we want to get a machine
+into his hands so he can tell
+his subscribers about it.
+And when
+will that be?
+Very soon.
+Couple of days?
+A week?
+Off the record.
+Off the record?
+Completely.
+We think--
+he'll get it
+when it's finished.
+It's not finished?
+It's almost
+finished.
+I've been watching you rehearse
+the demo for three weeks.
+Yeah.
+What's left?
+A little thing.
+What?
+I think
+that's enough.
+We're off the record,
+and Joel's always been good
+at understanding nuance.
+What's left
+to finish?
+I guess, in layman's terms,
+you'd have to say
+we don't have an os.
+An operating system?
+Yeah.
+What do you mean?
+- Well, the os is what
+runs the computer.
+In fact, it sort of
+is the computer.
+How has it been running?
+How's it gonna run
+this morning?
+What do you mean,
+you don't have an os?
+It's like this.
+Avie tevanian is our
+chief software designer,
+and he wrote a demo program.
+It's like we built a great car,
+but we haven't built the engine.
+So we put a golf cart battery
+in there to make it
+go for a bit.
+All this computer
+knows how to do right now
+is demonstrate itself.
+You're telling me
+the only thing you've built
+is a black cube?
+Yes. Yeah.
+But isn't it the coolest
+black cube you've ever seen?
+Is this--
+we're off the record.
+Is this a strategy
+or a problem?
+If it's a problem--
+do not share proprietary
+knowledge with that man.
+It's not a problem.
+I wouldn't
+understand it anyway.
+I don't understand it either,
+and my name's
+on the patents.
+- It's got e-mail.
+- Well, e-mail's not just for
+tech specialists anymore.
+Well, it is,
+but it won't be.
+And I assume an e-mail sent
+on a next computer can only
+be received by a next computer?
+Closed, end-to-end.
+The new trash can
+is wrong.
+I wanna tell you
+i appreciate all the hours
+you put into it,
+but I can't
+because of how
+terrible it is.
+Go back to the other one.
+Why are we still giving
+three options on the clock?
+- How many options
+do you want to give?
+- Two. Buy it or don't.
+Can I talk to you
+for a second?
+Abso-fruitly.
+Uh, look, man.
+Avie's been recompiling,
+but he says there
+may be some glitches
+this morning.
+If all there are
+are some glitches,
+it'll be a triumph
+of miraculous magnitude.
+Why are you translating
+for avie?
+I-i didn't want him to find out
+the hard way your position
+on glitches in a demo,
+but it sounds like
+you've mellowed.
+I've been growing, Andy.
+I've been learning
+to love myself.
+Hmm. I wouldn't
+have ever dreamed
+that was a problem.
+Fantastic burn.
+You need to go
+to your seat.
+How about Lisa,
+getting into a school
+for gifted kids?
+Yeah, she was tested
+and it turns out
+she can fly.
+- Seriously, it's a big deal.
+- I know it's a big deal.
+That's why I built
+the school a building.
+Well, I'm sure that's
+not why she got in.
+Really?
+Uh, can I show you
+something funny
+from<i> macworld?</i>
+I can't think of anything
+i have to do right now.
+It'll make you feel good.
+Joanna! Look at this!
+Oh, Andy, he's only got
+a couple of minutes.
+It's guy kawasaki
+writing in<i> macworld.</i>
+You're gonna like this.
+Well, can we all
+enjoy it later?
+He wrote a parody press release
+about apple buying next
+for your os.
+He imagines a near future
+where apple needs your os
+and has to buy next,
+and-and you come back
+as ceo.
+He has gates saying,
+"there would now be more
+innovations from jobs
+that Microsoft could copy."
+You can read it later.
+Thanks.
+She would've gotten in
+without you
+donating a building.
+Still, it's something
+to talk about
+in the interview.
+All right.
+Good luck.
+Thanks.
+Give that to me.
+I'll throw it out
+for you.
+I'm gonna hang on to it.
+What?
+What?
+You ready for sculley?
+Excuse me!
+Lisa!
+You can't shout!
+Lisa?
+You have to go.
+It's dangerous up here.
+That's why I make
+other people do it.
+Who are you hiding from,
+me or your mom?
+I'm not hiding.
+Let's go.
+What were you listening to?
+I'm listening
+to two versions
+of the same song.
+Then when I get to the ends,
+i rewind to listen
+to them again.
+It's the same song,
+but the versions
+are different.
+What's the song?
+Okay.
+So it's a really old song,
+and it's called
+"both sides, now."
+"Both sides, now"?
+Yeah.
+What's it about?
+It's about--
+there are three verses:
+Clouds, love and life.
+And the person singing
+is singing that they used
+to think of--
+that they used
+to think about--
+clouds,
+love and life?
+Right.
+One way, yeah,
+but now they look at them
+another way, and they--
+they've come to the conclusion
+that they really don't know
+clouds, love or life at all.
+Those are
+the exact words.
+Yeah, joni Mitchell.
+'Cause it's not
+a really old song,
+unless I'm a really old guy.
+You have to go
+to school now.
+Do you want me to tell you
+the differences between
+the two versions?
+Right now.
+The first version
+is the kind of thing
+that you would call girlish.
+I didn't mean
+i want to know
+the difference right now.
+I meant you have to go
+to school right now.
+I can stay and watch.
+You are truant.
+You're committing a crime.
+I'm not gonna miss
+anything important.
+How do you know?
+I read ahead.
+The pilgrims make it
+to the new world.
+Then the declaration
+of independence.
+Yeah, you skipped
+a couple centuries.
+Steve?
+Chrisann's out there.
+Let's go.
+Can I make my case
+for staying?
+Nope.
+She was with me.
+Come on. Your dad
+doesn't want us to stay.
+That's not true.
+That's not--
+you have to be in school
+is all.
+I'm committing a crime
+right now, and I don't wanna
+get in trouble.
+You're not in trouble.
+I was kidding.
+Okay.
+Hey. What was
+the second version?
+You said the first version
+was girlish.
+What was the second version?
+I can't really
+think of the word.
+Okay. Well,
+have a good day at school.
+Regretful.
+What?
+Like wishing you
+could go back
+and do things different.
+You're too young
+to be regretful.
+Not me.
+The person
+singing the song.
+Got it. Regretful.
+That makes sense
+because--
+I wanna live with you.
+Six minutes.
+- You want to see sculley?
+- No.
+You know all those times
+i told you
+you needed security?
+Here's why.
+I don't know how it is
+I've gotten older
+and you haven't.
+Some deal with the devil
+i was never offered.
+So you know
+what I've been thinking
+for the last four years?
+As it turns out,
+John, I've never known
+what you were thinking.
+No newborn baby
+has control.
+Do you know
+what I'm talking about?
+In '84, before the Mac launch.
+You said--
+yeah.
+You said that being adopted
+meant you didn't have control.
+We're starting
+in a minute, so--
+why do people think
+i fired you?
+It's fine, John.
+It's all behind us.
+Is it? Hmm?
+Don't play stupid.
+You can't pull it off.
+You came here to ask me
+why people think
+you fired me?
+Why do people think
+i fired you?
+Just confirm something
+for me, okay?
+You liked the ad,
+right?
+The commercial-- "1984."
+You liked it.
+When are you
+gonna get furniture?
+It's not an easy process.
+It is. You buy a couch,
+take it from there.
+I'd be really surprised
+if you came here to talk
+about interior decorating.
+I liked the ad very much.
+You did?
+You know I did.
+You're a lying
+son of a bitch.
+You tried to kill it.
+- It's time to take
+a hard look at the Mac.
+- It's past time.
+It's overpriced.
+We need to drop it
+to 1,995.
+We need to double
+the marketing budget,
+put more bodies
+on an internal hard drive
+and invest in fileserver.
+- Where the hell did you get
+the idea I tried to kill--
+- Lee clow.
+Lee's wrong.
+He's lying?
+- He's... mistaken.
+Where would
+the money come from?
+It would come from finally
+getting rid of the apple ii.
+The apple ii is
+the only thing making money.
+- You agreed with the board.
+- I understood
+the board's concerns, but i--
+the board's concerns that
+we didn't show the product?
+Among other things,
+but my question was--
+what other things?
+I'm asking because I'm curious.
+You said "among other things."
+Among other things, it was set
+in a dystopian galaxy.
+It took place on a planet
+where we don't live.
+It was dark
+and the opposite of our brand.
+<i>And</i> we didn't show the product.
+People talked about the ad
+but most of them didn't know
+what we were selling.
+The Mac needs to sell
+for 1,995.
+There is no market research
+telling us the Mac is failing
+because it's overpriced.
+It's telling us that people
+don't like it because they think
+it doesn't do anything.
+It's closed, end-to-end.
+We didn't know it wasn't
+what people wanted,
+but it isn't.
+They want slots,
+they want choices,
+they want options.
+The way we buy stereos--
+mix and match components.
+John, listen to me.
+Whoever said the customer
+is always right
+was, I promise you,
+a customer.
+It had skinheads in it.
+She was liberating them.
+- Liberating the skinheads.
+- The ad didn't have anything
+to do with fucking skinheads.
+We used them
+as fucking extras.
+Nobody even knows
+they were skinheads.
+I'm just saying
+the board had concerns--
+you invented
+lifestyle advertising.
+And our brand
+was my brand.
+My job is to make
+a recommendation
+to the board.
+We showed a lot of happy people
+drinking Pepsi.
+We didn't say
+the world was going to end
+if you bought a Dr. pepper.
+Recommend that we drop the price
+and double the marketing budget.
+- I can't.
+-<i> And</i> we showed the product.
+We showed it being opened,
+we showed it being poured,
+being consumed.
+What are you gonna do,
+recommend that we kill the Mac?
+I already have, Steve.
+What? When?
+You think the secret
+to your success
+was not assuming
+people knew what to do
+with a can of soda?
+I didn't kill the ad, Steve!
+I'm the only reason
+it made it on the air.
+Just now.
+An hour ago.
+I'm coming from
+markkula's house.
+What did he say?
+What did he say?
+Invent something new.
+I'll give you a team.
+You can sit in Maui.
+The resorts
+come with couches.
+Wait a minute.
+Are you saying you recommended
+terminating the Mac
+or you recommended
+taking me off the Mac team?
+We bought three spots
+in the super bowl.
+Two 30's and a 60.
+After we screened it,
+the board wanted that money back
+and they asked me
+to sell off the spots.
+Chiat/day sold off the two 30's
+but not the 60,
+and I let it be known
+to Lee clow
+that if he didn't
+try very hard
+to sell the last spot,
+I wouldn't be unhappy.
+If we drop the price
+and double the budget--
+drop the price
+or double the budget.
+The only way to do that
+is to take money
+out of the apple ii.
+The apple ii
+should embarrass you.
+It embarrasses me.
+It doesn't embarrass
+the shareholders.
+I don't give a shit
+about the shareholders.
+That's why I hired you,
+so I don't have to hear
+about shareholders.
+The shareholders are
+my problem, and the board
+represents the shareholders.
+That's how it works.
+You sure it wasn't Lee clow
+who dragged his feet
+selling the 60?
+At my direction, Steve.
+You think he would have
+done that on his own,
+taken it on himself?
+Yeah. I think he would've
+done what it took
+to save it from you.
+I was the only thing
+protecting it.
+You didn't want the ad
+because you were trying
+to kill the Mac two months
+before it launched.
+You are fucking delusional.
+Can I mention something
+to you?
+Sure.
+I have no earthly idea
+why you're here.
+The story of why and how
+you left apple,
+which is quickly
+becoming mythologized,
+isn't true.
+- I'm gonna take this
+to the board myself.
+- Don't do that.
+I<i> am</i> doing that.
+You can't.
+Why?
+They believe
+you're no longer necessary
+to this company.
+I get hate mail,
+death threats.
+I get death threats.
+My kids are getting taunted.
+Why do people think I fired you?
+Joanna's gonna call my name
+in a second.
+- Steve?
+- That was unrehearsed.
+Yeah, I'll be there
+in just a second.
+I gave you
+your day in court.
+- You gave me?
+- I gave the board
+a clear choice.
+I said, "do you want to invest
+in the apple ii or the Mac?"
+They chose the apple ii.
+The same people who wanted
+to dump the super bowl spot.
+And then I got
+on a plane to China.
+Mr. sculley.
+There's a call for you
+on line one.
+Or I almost got on a plane,
+because I got a call
+in the lounge.
+- Who made that call?
+- Doesn't matter.
+<i>It matters to me.</i>
+<i>Who made the call?</i>
+John sculley.
+<i>John?</i>
+<i> If you get on that plane,</i>
+<i> you'll have lost your job</i>
+<i> by the time it lands.</i>
+<i>Steve's been calling the board.</i>
+<i>He wants you out.</i>
+<i>I left my bags</i>
+<i>on the plane. My shit's</i>
+<i>still somewhere in Beijing.</i>
+I took a car back
+to cupertino in the middle
+of the fucking night.
+I know what time it is.
+I need a quorum here in one hour
+and I want Steve here too.
+<i>You took me off the Mac,</i>
+<i>and it was bad business.</i>
+The quorum call was a homicide.
+Right there!
+Right there.
+That's the part
+that's bullshit,
+my friend.
+It was a suicide.
+Because you knew your cards
+and I showed you mine.
+I showed you mine,
+and you did it anyway.
+What did you think
+i was gonna do?
+I'm okay losing,
+but I'm not gonna forfeit.
+I'm not okay losing.
+<i>We're losing market share,</i>
+<i>and the Mac is losing money.</i>
+Our only hope is the apple ii,
+which is stagnating because
+of its soon-to-be-obsolete dos.
+Users are already rigging
+their machines to run with
+a cp/m operating system
+that's been built
+to run on intel.
+I can't put it
+more simply than this.
+We need to put our resources
+into updating the apple ii.
+<i>By taking resources</i>
+<i>from the Mac.</i>
+<i>It's failing.</i>
+<i>That's a fact.</i>
+It's overpriced.
+There's no evidence
+that it's--
+I'm the evidence!
+I'm the world's leading expert
+on the Mac, John.
+What's your résumé?
+You're issuing
+contradictory instructions,
+you're insubordinate,
+you make people miserable.
+Our top engineers
+are fleeing to sun, Dell, HP.
+<i>Wall street doesn't know</i>
+<i>who's driving the bus.</i>
+We've lost hundreds
+of millions in value.
+And I'm the ceo of apple, Steve.
+That's my résumé.
+But before that,
+you sold carbonated
+sugar water, right?
+I sat in a fucking garage
+with wozniak
+and invented the future.
+Because artists lead
+and hacks ask
+for a show of hands.
+All right.
+Well, this guy's
+out of control.
+I'm perfectly willing
+to hand in
+my resignation tonight,
+but if you want me to stay,
+you can't have Steve.
+Settle him out.
+He can keep a share of stock
+so he gets our newsletter.
+<i>He'll have to sever</i>
+<i>his connection to apple.</i>
+I'm dead serious.
+I want the secretary
+to call for a vote.
+I fucking dare you.
+You have done an outstanding job
+over the years
+of cultivating the press.
+And by that,
+i mean manipulating them.
+Because none of them,
+none of their editors, none of
+their editors' publishers
+to this day
+know that you forced it,
+<i>that you forced the board.</i>
+<i>Even after I told you</i>
+<i>exactly what they'd do,</i>
+which is exactly
+what they did.
+Unanimously.
+I don't have any trouble
+remembering that, John,
+because of it being
+the worst night of my life.
+And I forced the vote
+because I believed I was right.
+- I still believe I'm right.
+- And I'm right.
+Now I bled that night.
+<i>And I don't bleed.</i>
+<i>But time's done its thing,</i>
+<i>and I really haven't</i>
+<i>thought about it in a while.</i>
+Now, I absolutely understand
+why you're upset.
+<i>And I want people</i>
+<i>to know the truth too.</i>
+It's time.
+Got it.
+You're gonna end me,
+aren't you?
+You're being ridiculous.
+I'm gonna sit center court
+and watch you do it yourself.
+Then I'm gonna order a nice meal
+with a '55 margaux
+and sign some autographs.
+Jesus Christ.
+You want some advice,
+Pepsi generation?
+Don't send woz out
+to slap me around in the press.
+Anybody else--
+you, markkula, Arthur rock.
+Anyone but rain man.
+Don't manipulate him like that.
+Whatever you may think,
+I'm always gonna protect him.
+Come on, Steve.
+That's what men do.
+We can't start late.
+I don't think there was any way
+to detect a chip on my shoulder.
+Did you know, back at bandley,
+the Mac team gave an award
+every year to the person
+who could stand up to you?
+No.
+I won.
+Three years in a row.
+Cool.
+This.
+This--
+this guy kawasaki in<i> macworld.</i>
+He accidentally got it right,
+didn't he?
+You've been dragging your feet
+on the next os
+till you can figure out
+what apple's gonna need.
+Even if that were true,
+it doesn't sound
+that diabolical to me.
+Hey. We're ready for you.
+I'm your closest confidante,
+your-- your best friend.
+Your thing--
+what do you call it?
+Your work wife.
+The whole time.
+The last three years.
+When did you change your mind
+and start building
+the Steve Jobs revenge machine?
+- House to half.
+You remember skylab?
+It was an unmanned satellite
+NASA sent up in the early '70s
+on a data gathering mission.
+The thing is,
+when they sent it up,
+they didn't know yet
+how they were gonna
+get it back.
+But they felt like
+they were close enough
+<i>that in the eight years</i>
+<i>it was gonna be up there,</i>
+<i>they'd figure it out.</i>
+They're on their way now.
+They didn't.
+So after eight years,
+it came crashing down
+in a thousand-mile swath
+across the Indian ocean.
+<i>A little to the left,</i>
+<i>a little to the right,</i>
+<i>somebody could have</i>
+<i>gotten hurt.</i>
+I really wanted to build
+a computer for colleges.
+The technology
+just didn't catch up
+as fast as I needed it to.
+<i>You know we're out of money.</i>
+<i>Ladies</i>
+<i>and gentlemen, the program</i>
+<i>will be starting momentarily.</i>
+<i>But then apple</i>
+<i> stopped innovating,</i>
+<i> and I saw something better.</i>
+Joanna, I know schools
+aren't gonna buy a $13,000
+dictionary with good speakers.
+You know I know that.
+But apple will.
+'Cause avie tevanian
+is gonna build them
+exactly the os they need.
+<i>They're gonna</i>
+<i>have to buy me too.</i>
+For half a billion dollars
+in stock and end-to-end control
+on every product.
+Ladies and gentlemen,
+please welcome--
+<i>more than</i>
+<i>a year after it was first</i>
+<i>unveiled to industry insiders,</i>
+<i>the next computer</i>
+<i>is finally available in stores.</i>
+<i>And it appears to be two strikes</i>
+<i>in a row for Steve Jobs.</i>
+<i>Students and educators</i>
+<i>are finding it</i>
+<i>difficult to justify</i>
+<i>the machine's high cost.</i>
+<i>So much for the black cube.</i>
+<i>Next just sold</i>
+<i>its factory to canon</i>
+<i>and laid off half its employees.</i>
+In the world of computers,
+it's kill or be killed.
+Apple computer
+has fallen on hard times.
+It is laying off
+about 2,500 people.
+<i>Apple is continuing</i>
+<i>to lose market share,</i>
+<i>with no new innovations</i>
+<i>in the pipeline</i>
+<i>except the Newton,</i>
+<i>a pet project</i>
+<i>of ceo John sculley.</i>
+<i>If you really want to be mobile,</i>
+<i>you want a Newton PDA.</i>
+<i>But then again,</i>
+<i>maybe you don't.</i>
+<i>It turns handwriting</i>
+<i>into computer text.</i>
+Hey, dolph,
+take a memo on your Newton.
+"Beat up Martin."
+- Bah!
+<i>In 1980,</i>
+<i>apple had 30% of the market.</i>
+<i>Today, apple has</i>
+<i>only 3.2 percent.</i>
+<i>That's it. John sculley</i>
+<i>has been fired from apple.</i>
+- What about this Internet thing?
+- Do you know anything about that?
+It is the big new thing.
+Rumors are flying
+around apple computer
+once again
+over who will take over
+the helm.
+In the news at this hour,
+a remarkable high-tech reunion.
+<i>Well, it's happening.</i>
+<i>In a billion-dollar shakeup,</i>
+<i>apple is purchasing</i>
+<i>next computer's operating</i>
+<i>system, which may mean--</i>
+<i>is the prodigal son returning?</i>
+<i>Bet on it.</i>
+Guess what.
+Mac is back.
+- Apple cofounder Steven jobs--
+- Steve Jobs--
+- Steve Jobs--
+- Steve Jobs--
+- Steve Jobs--
+<i>Steve Jobs</i>
+<i>is returning to apple.</i>
+<i>If you want to beam</i>
+<i>your digital photographs</i>
+<i>from your digital camera,</i>
+<i>it's built into every product.</i>
+<i>We're going to</i>
+<i>the new generation of i/o.</i>
+Twelve megabyte USB.
+Two ports.
+We're leaving
+the old apple i/o behind.
+Stereo surround sound
+built into every product,
+a great keyboard
+and the coolest mouse
+you've ever seen.
+This time,
+we used actual mice.
+We're opening the house
+in 10 minutes. Steven?
+Do you want to stop
+horsing around?
+Bless my eyes.
+That's Steve wozniak
+sitting out there.
+Give yourselves a treat
+and ask woz if he happens
+to have the correct time.
+I have the correct time,
+and we're running out of it.
+"A great keyboard"--
+a great keyboard and the coolest
+mouse you've ever seen.
+- This is what those things
+look like today.
+Now, I'd like to show you
+what they're gonna
+look like tomorrow.
+This is the iMac.
+Why did I like that better
+than I usually do?
+- I don't know.
+- Something was different.
+Hey, stupid.
+I think she's talking to
+one of you guys.
+- Did you notice a difference?
+- That's what I'm--
+the exit signs were off.
+Full blackout.
+You did it.
+We wired all the exit lights
+to our board.
+They go out with the cue
+for seven seconds then come
+back on again. In theory.
+- We think that's legal?
+- No, we're very certain
+it's not.
+- You want to see some quotes?
+- Let's hold off on those.
+- No, he'll like 'em.
+- I'll show 'em to you later.
+- I'll take 'em now.
+- I'm sorry.
+- Pick it up from there, please.
+We only have
+a couple of minutes,
+so let's just do the 360.
+We're gonna bring out
+a wireless camera
+we stole from panasonic.
+I'll show you
+what this looks like.
+The whole thing
+is translucent.
+You can see into it.
+How's that
+for a compromise, woz?
+You still can't get into it,
+but you can see into it.
+Fair enough.
+We put stereo speakers in front,
+infrared right up here,
+cd-rom drive in the middle.
+Nice.
+Dual stereo headphone Jacks.
+All the connectors are inside
+one beautiful little door here.
+Ethernet. USB.
+Even though this is
+a full-blooded macintosh,
+we're targeting it
+for the number one use
+the consumers tell us
+they want a computer for,
+which is--
+let's hold it, please.
+Hold it.
+The answer was
+"the Internet."
+Joanna?
+Yeah.
+Stand in front of me.
+I want to look at these quotes,
+but I don't want Joel to know.
+They're all great.
+"It is not only the
+coolest-looking computer
+introduced in years
+but a chest-thumping
+statement
+that silicon valley's
+original dream company
+is no longer somnambulant."
+It's a word.
+It means "sleepwalking."
+Steve? I'm sorry. We have
+to clear the house if
+we're gonna start on time.
+We're gonna start on time.
+We're absolutely
+starting on time.
+Here. Take this.
+Everybody, that's it.
+They've got to mop the stage,
+reset and open the house.
+I love you guys.
+Andy, come on back a minute.
+- Which one?
+- Hertzfeld.
+<i>Forbes</i> calls it
+an "industry-altering success."
+Look here.
+Why haven't we
+ever slept together?
+We're not in love.
+Look.
+Sculley.
+Look what he said.
+"He has implemented the same
+simple strategy that made apple
+so successful 15 years ago--
+make hit products
+and promote them
+with terrific marketing."
+It was nice of him.
+It was.
+I meant it.
+Sightings of j.D. Salinger
+are more common
+than John sculley.
+I wasn't being sarcastic.
+It was nice of him.
+Do you talk to him?
+No.
+You haven't
+talked to him
+since '88?
+I'd have told you if I did.
+Doesn't matter.
+I don't want people
+thinking they can cross me
+and then, boom, 15 years later,
+I'm cool with it.
+I was kidding.
+What's wrong with you
+this morning?
+Let's get off the stage.
+"The only thing
+apple's providing now
+is leadership in colors."
+Don't worry about it.
+What does Bill Gates
+have against me?
+I don't know.
+You're both
+out of your minds.
+Listen to me.
+He dropped out
+of a better school
+than I dropped out of.
+But he's a tool bag.
+I'll tell you why.
+Make everything
+all right with Lisa.
+You know, Joanna?
+Boundaries.
+You've come to
+my apartment at 1:00 am
+and cleaned it.
+So tell me
+where the boundary is.
+There.
+Let's say it's there.
+If I give you
+some real projections,
+will you promise
+not to repeat them
+from the stage?
+What do you mean,
+"real projections"?
+What have you been giving me?
+Conservative projections.
+Marketing's been lying to me?
+We've been managing expectations
+so that you don't not.
+What are the real projections?
+We're gonna sell
+a million units
+in the first 90 days.
+20,000 a month after that.
+Holy shit.
+Yeah.
+You see?
+You wait long enough and--
+what's more,
+32% of the sales
+are going to go to people
+buying a computer
+for the first time.
+And 12% are going to people
+using some kind
+of windows machine.
+That's what Bill Gates
+has against you.
+And it'll be
+the fastest-selling computer
+in history.
+You brought the company back
+from life support
+after going through
+the misery of laying off
+3,000 people
+and cutting 70%
+of the product line.
+So, Steven, it's over.
+You're gonna win.
+- It would be criminal
+not to enjoy this moment.
+- I'm enjoying it.
+Make things all right
+with Lisa.
+You know--
+come on.
+I don't like having less privacy
+than other people have.
+Does being a multi-billionaire
+take some of the sting off that?
+No.
+All Lisa did--
+all Lisa did
+was give her blessing.
+Chrisann sold the house and--
+and Lisa could have done what?
+How was she supposed
+to stop her mother
+from selling her own house?
+That I bought
+for the two of them.
+How was she supposed
+to stop her?
+Voicing an objection
+would have been a step
+in the right direction.
+You don't think
+you're having
+a bizarre overreaction
+to a 19-year-old girl
+allowing her mother
+to list her own house?
+She could've tried.
+Was she supposed
+to stop her mother,
+that particular mother--
+she gave chrisann
+her blessing to sell the house
+and she did it to spite me.
+I don't care
+if she put a pipe bomb
+in the water heater.
+You're going to fix it, now.
+She's been acting weird
+for months.
+She's turned on me.
+Fix it.
+What the--
+fix it, Steve.
+Take it easy.
+Fix it or I quit.
+How about that?
+I quit, and you
+never see me again.
+How about that?
+Tell me what's wrong with you
+this morning.
+What's been wrong with me
+for 19 years.
+I've been a witness,
+and I tell you,
+I've been complicit.
+I love you, Steve.
+You know how much.
+I love that you don't care
+how much money a person makes.
+You care<i> what</i> they make.
+But what you make
+isn't supposed to be
+the best part of you.
+When you're a father,
+that's what's supposed to be
+the best part of you.
+And it's caused me
+two decades of agony, Steve,
+that it is for you
+the worst.
+It's a little thing.
+It's a very small thing.
+Fix it.
+Fix it now, or you can
+contact me at my new job--
+working anywhere I want.
+I don't happen to think
+it is a little deal.
+She knew that--
+- no.
+- I bought the house
+for the two of--
+- no.
+- What do you mean, "no"?
+I mean no. The house
+has nothing to do with
+why you're angry at Lisa.
+I assure you, the house
+has everything to do with
+why I'm angry at Lisa.
+Have you ever heard the phrase
+"reality distortion field"?
+- Yes.
+- As in "Steve's reality
+distortion field"?
+I've heard it. I've read it.
+It's been sung to me
+by Joan baez.
+What you call
+a reality distortion field,
+and I'm pretty sure
+you're the one
+who coined the phrase,
+is the reason we're here.
+I know that.
+If I traded in
+my bank account for a dollar
+every time somebody told me
+something was impossible,
+I'd come out ahead.
+I know that too.
+What's the problem?
+My problem?
+It sure isn't the house.
+Jo, i--
+it's that you told her
+you weren't going to pay
+for Harvard.
+That child.
+That earnest, unironic kid.
+She told you
+i wasn't paying her tuition?
+I should have
+hit you with something heavy
+a long time ago.
+Lisa told you
+i wasn't paying
+her tuition?
+Andy told me that.
+Which one?
+Hertzfeld.
+How would hertzfeld know?
+He wrote Harvard
+a check for 25,000
+to cover the semester.
+Are you fucking--
+he paid her tuition?
+Isn't that why
+you just asked to see him?
+No, I asked to see him
+about something--
+did you tell her you weren't
+going to pay for college?
+Yes, because--
+how could you do that?
+Because her mother,
+who is also her landlord--
+hertzfeld? I was ranting.
+I was just, you know--
+i was talking.
+You think I would--
+I was pissed off
+because Lisa was trying
+to piss me off, Joanna.
+That was her intent.
+I don't know--
+you obviously
+scared the hell out of her.
+Hertzfeld wrote
+a check to Harvard,
+pay for--
+is she here yet?
+I'm sure she is.
+Can you have someone
+bring her back?
+Yes.
+Thank you.
+You know,
+my grandmother
+always used to say to me--
+I don't give a shit, yentl.
+I'll have someone get Lisa.
+Thank you.
+- And if you see hertzfeld--
+it's Andy.
+Speak of the devil's
+chief engineer.
+Go.
+Come on in.
+You look great today.
+Thank you.
+Doesn't she?
+She looks fantastic.
+Always does.
+Get out.
+- Well, I think I know
+why I'm here.
+- Do you?
+Steve--
+did you send the check yet?
+Yes.
+So Harvard got a tuition check
+from Andy hertzfeld
+to pay for Lisa?
+I don't think
+they look that carefully.
+I don't think they'd notice
+the check didn't come from you.
+Close one. This was almost
+embarrassing for me.
+I understand how--
+I'll wire you
+the money today.
+I-i understand how you feel.
+And I do apologize. I do.
+But let me tell you
+my thinking.
+I can't even think of
+an appropriate analogy
+to describe what you did.
+I knew you guys
+would fix things.
+You always do.
+But in the meantime,
+if the money wasn't there,
+she'd miss a semester of school.
+Yeah.
+And she'd have to
+tell her friends why.
+And she needed things.
+She needed socks.
+What?
+It's cold in Cambridge.
+She needed warm socks.
+You gave her socks?
+Well, I gave her money
+for socks.
+You don't get
+to deputize yourself
+as her interim.
+You don't get to override
+my decisions.
+Do you understand?
+You don't get to act
+like you're her father.
+Somebody had to.
+What the fuck
+did you just say to me?
+I've known her
+since she was six.
+I also consider--
+chrisann's my friend,
+outside of what you and i--
+outside of our relationship.
+So you're like
+a family adviser.
+I'm a family friend.
+Then you probably know
+that Lisa's been seeing
+a therapist.
+Yeah.
+For many years.
+Yeah.
+Without my knowledge.
+That really wasn't my business.
+I'm fascinated
+by what you think is
+and isn't your business.
+Lisa's been going
+to a therapist
+and she likes it
+and would love
+for you and chrisann
+to go with her.
+And the reason you know that
+is because you're the one
+that recommended the therapist.
+Well, I know a guy.
+No, I mean you're the one
+who recommended
+that she see a therapist.
+You know what? It was
+a while ago, and I don't
+remember how the whole--
+you told chrisann
+that Lisa should see
+a therapist.
+Steve, you're stigmatizing.
+It's a perfectly norm--
+it's not--
+my thing was, how can it hurt?
+Let's find out.
+Chrisann is my friend.
+What was the reason
+you gave?
+You mean--
+what was the reason
+you gave chrisann why Lisa
+should see a therapist?
+I don't remember.
+We were talking and I said--
+it's pretty much
+what I just said,
+that it certainly couldn't hurt.
+You didn't say
+that Lisa needed
+a strong male role model?
+I did.
+I think it's a miracle
+she's not robbing banks with
+the symbionese liberation army.
+There's no reason in the world
+why she should be nice.
+But she is.
+So I helped,
+because somebody had to.
+I'll wire the money to you
+this afternoon.
+You threatened me
+a long time ago.
+Sorry?
+A long time ago--
+you threatened me once.
+People are attracted
+to people with talent.
+People without it
+find that threatening.
+Maybe you should
+see a therapist.
+Certainly couldn't hurt.
+I meant you literally
+threatened me.
+At flint, right before
+the Mac launch.
+I was recompiling.
+I was trying to debug
+the voice demo.
+You said if I couldn't find
+a solution, you'd call me out
+in front of the audience.
+- Did it say "hello"?
+- It did.
+No need to thank me.
+Why do you want people
+to dislike you?
+I don't want people
+to dislike me.
+I'm indifferent
+to whether they dislike me.
+Since it doesn't matter,
+i always have.
+Really?
+I've always liked you a lot.
+That's too bad.
+Knock 'em dead.
+Thank you.
+What is remarkable,
+what's hard to fathom but true,
+is that for a given clock rate,
+a powerpc chip is twice as fast
+as a pentium ii chip.
+In other words,
+a 266 megahertz g3 chip
+is twice as fast as
+a 266 megahertz pentium ii.
+Or... a 266 g3
+is equal to about 500 megahertz.
+<i>Do you know what</i>
+<i>a coincidence is, Lisa?</i>
+Take a look at
+<i>byte</i> magazine's byte marks,
+the gold standard for any--
+- come in.
+I sent someone into the lobby.
+They found her, and she--
+where is she?
+She said
+she'd rather not come back.
+- Why?
+- That was it.
+- I'm going out there myself.
+- You can't. You can't.
+It'll be a scene
+out of<i> hard day's night.</i>
+- Excuse me.
+- Hey, Joel.
+Andy said
+it was okay to come back.
+- Which one?
+- Andy Cunningham.
+I can't do this forever.
+I need one of them
+to change their name.
+You call Andy Cunningham
+"Andrea."
+It doesn't matter
+what I call them.
+I know who I'm talking about
+when I'm talking.
+I need everyone else to
+call them different names.
+Give me one second.
+Can you go
+get her for me, please?
+I just talked to Andy.
+Hertzfeld.
+I'm just trying to scrub this
+out of my brain with drano.
+But I do want to talk to Lisa.
+Okay. Just--
+stay cool.
+Okay.
+Thank you.
+Hey, Steve.
+How are you feeling?
+I'm feeling good, Joel.
+How about you?
+I don't think I could be
+in your business.
+It changes too quickly.
+Well, I'd hang on,
+'cause yours is about to start
+changing pretty quickly too.
+This is the third time
+in 14 years
+I'm writing about you.
+What do you think so far?
+Excuse me.
+Avie's looking for you.
+He has a new shark.
+You wanna come backstage
+for a second?
+Sure.
+Who's this one?
+Alan turing.
+Single-handedly won world war ii
+and, for an encore,
+invented the computer.
+He won't be part of
+the campaign though.
+Why not?
+'Cause you just had
+to ask me who he was.
+Can I see new shark?
+I like it better than
+the old shark.
+Sharks.
+Sharks.
+How many sharks
+did you go through?
+A couple.
+This is the 39th.
+We're on the record.
+Thirty-nine sharks.
+Okay.
+You know what's special
+about this shark?
+What?
+No, I'm really asking,
+because it looks exactly like
+the other 38 sharks to me.
+Let me see it with the cue,
+from the profile.
+This is cue 92-b.
+This is a profile here,
+and this is what it looks like
+from the back.
+And one more thing.
+It eats pentium notebooks
+as a light snack.
+This is the shark.
+I really like it.
+Nobody gets it right
+the first time,
+but I should have been shown
+this shark 15, 20 fish ago.
+- You probably were.
+- Lock it in.
+Ten minutes.
+He killed himself by taking
+a bite of a poison apple--
+Alan turing.
+Yeah.
+There should be statues
+of that man.
+His name should be on the lips
+of schoolchildren.
+The rainbow flag apple
+with a bite taken out--
+that's where it came from?
+No, we picked it off a list
+of friendly-sounding words.
+But wouldn't it be great
+if that had been
+the story behind it?
+Steve.
+Kinda liked the last shark.
+Fuck you.
+I wanted to ask you a favor.
+My friend, a long time ago,
+you asked me a favor
+before a product launch,
+and I said no.
+- You wanted me to acknowledge--
+- hang on.
+If you're about to say
+you were wrong, I want
+to prepare this journalist.
+I was 100% right,
+and you were
+spectacularly wrong.
+But I still owe you a favor,
+so name it.
+Steve--
+- it can't be acknowledging
+the apple ii team.
+- Acknowledge the apple ii team.
+- How about in private?
+- No.
+- Is this a prank?
+- No.
+I'm trying to remember that
+a 300 megahertz g3 chip--
+just the top guys.
+Steve.
+- Excuse me, okay?
+- Yep.
+One second.
+She said she'd rather not.
+What do you mean?
+She's sitting with her friends,
+and she said
+she'd rather not come back.
+Okay. Tell her--
+take her aside.
+I don't want
+to embarrass her
+in front of her friends.
+But tell her I just scared
+the shit out of Andy,
+and this time, nobody's
+paying her fucking--
+all right.
+Don't say that.
+But do your thing
+where you sound old and wise
+because of the broad,
+tragic European canvas
+of your life.
+You know I wasn't born
+in a 19th-century shtetl, right?
+Please tell her
+it's important.
+- Everything all right?
+- Yeah.
+- There are people
+around here, man--
+- I know.
+- Including a member
+of the press.
+- I see him.
+Woz.
+Just the top guys, the ones
+who are getting laid off.
+Listen, okay?
+Last year, apple lost
+one billion dollars.
+I don't even know
+how that's possible.
+You were less than 90 days
+from being insolvent.
+I had
+three different accountants
+try to explain it to me.
+The whole place
+has to be streamlined.
+- Start with
+two of the accountants.
+- I started with the--
+- Joel, could you come offstage?
+We're gonna go backstage.
+- Leave him right there.
+I started with the apple ii team
+because we don't
+make that anymore.
+- Just acknowledge the top guys.
+- Have a mimosa and relax.
+You will not blow me off
+right now, Steve.
+- The top guys deserve--
+- there are no top guys.
+All right?
+On the apple ii team,
+there are no top guys.
+They're "b" players,
+and "b" players
+discourage the "a" players.
+I want "a" players at apple
+and not Dell.
+They're not "b" players,
+and I'm a better judge of that.
+Less than 90 days
+from insolvency,
+in part because somebody
+thought the Newton
+wasn't a box of garbage.
+Joel, could you come
+offstage, please?
+Leave him.
+I'm talking about--
+you guys designed and shipped
+a little box of garbage
+while I was gone.
+I'm talking about the apple ii,
+which is not just a crucial part
+of this company's history,
+it is a crucial part of the
+history of personal computing.
+For a time.
+The least you can do, if you're
+going to downsize these people--
+they're gonna live
+in the biggest houses of
+anyone on the unemployment line.
+Is to acknowledge them.
+Acknowledge them and
+the apple ii during this launch.
+This is a new animal.
+This whole place was built
+by the apple ii.
+<i>You</i> were built by the apple ii.
+As a matter of fact, I was
+destroyed by the apple ii
+and its open system
+so that hackers
+and hobbyists
+could build ham radios
+or something.
+And then it nearly
+destroyed apple
+when you spent
+all your money on it
+and developed a grand total
+of no new products.
+- The Newton.
+- The little box of garbage.
+You guys came up
+with the Newton. You want
+people to know that?
+This is a product launch,
+not a luncheon.
+The last thing I want to do
+is connect the iMac to--
+to the only successful product
+that this company has ever made.
+I'm sorry to be blunt,
+but that happens
+to be the truth.
+The Lisa was a failure.
+The macintosh was a failure.
+I don't like
+talking like this,
+but I am tired of being Ringo
+when I know I was John.
+Everybody loves Ringo.
+And I'm tired of
+being patronized by you.
+You think John became John
+by winning a raffle, woz?
+You think
+he tricked somebody
+or hit George Harrison
+over the head?
+He was John
+because he was John.
+He was John 'cause
+he wrote "ticket to ride."
+And I wrote the apple ii.
+- Everybody? I want to
+clear the auditorium.
+- Nobody moves.
+You made a beautiful board,
+which, by the way,
+you were willing
+to give out for free,
+so don't tell me
+how you built apple.
+If it weren't for me,
+you'd be the easiest "a"
+at homestead high school.
+These people live and die
+by your praise,
+so here's your chance.
+Acknowledge that
+something good happened that
+you weren't in the room for.
+No.
+Steve.
+Do it. It's right. It's--
+it's right.
+Sorry, but no.
+Then let me put it another way.
+I don't think there's a man
+who's done more to advance
+the democratization that comes
+with personal computing
+than I have,
+but you've never had
+any respect for me.
+Now why is that?
+I'd at least consider
+the possibility
+that it's because
+you've never had any for me.
+What the hell is going on here?
+Nothing.
+Thank you for your time.
+It's done.
+She's coming back.
+You came a half-inch
+from putting this company
+out of business.
+Now who do I see about that?
+I'm letting you keep your job.
+You get a pass.
+You know, when people
+used to ask me
+what the difference was
+between me and Steve Jobs,
+I would say Steve
+was the big-picture guy
+and I liked a solid workbench.
+When people ask me
+what the difference is now,
+I say "Steve's an asshole."
+Your products are better
+than you are, brother.
+That's the idea, brother.
+And knowing that,
+that's the difference.
+It's not binary.
+You can be decent and gifted
+at the same time.
+He didn't mean it.
+Yeah, he did.
+He's a temperamental guy.
+No, he's not.
+It's like five minutes
+before every launch,
+everyone goes to a bar,
+gets drunk and tells me
+what they really think.
+She's coming
+to your dressing room.
+I told you to make things
+all right with Lisa.
+I didn't say you had to settle
+every blood feud you have.
+Last time blood feuds
+weren't settled,
+i lost the cover of<i> time.</i>
+Though for the life of me,
+i still don't know what the hell
+Dan kottke was mad at me about.
+Kottke didn't lose you
+the cover of<i> time.</i>
+Of course he did.
+Would you like me
+to demonstrate
+your capacity to be wrong
+when you're certain
+you're right?
+Dan kottke told<i> time</i> magazine
+that I was denying--
+do you remember
+the cover?
+Of<i> time?</i>
+Yes.
+Yes.
+What was it?
+What are you talking about?
+What was on the cover?
+A computer.
+No.
+It was a sculpture
+of a computer.
+It was a sculpture.
+<i> Time</i> would have had
+to have commissioned it
+months in advance.
+You were never
+in the conversation
+for man of the year.
+Nobody lost you anything.
+<i>...picture of me and the Mac.</i>
+So what else
+are you sure about?
+I don't know how
+i could've missed that.
+Reality distortion.
+No, seriously.
+Seriously.
+Don't try to win
+an argument with Lisa.
+Just say you were wrong.
+Come on in, honey.
+- It's not "honey."
+- John.
+Get in. Get in.
+Get out of the hall.
+I was taken in
+a side entrance.
+I'll go out the same way.
+No one will see me.
+How are you, Joanna?
+I'm good, John.
+I'm just surprised
+to see you.
+Everyone here really appreciates
+the quote you gave to<i> Forbes.</i>
+You didn't
+have to do that.
+My pleasure.
+If you want,
+i can slip you in the back
+once the house lights go out.
+I'm just here
+to say "good luck."
+-<i> Okay.</i>
+You just have
+a couple of minutes.
+Would you try to find--
+yeah.
+You're a good man, John.
+So I brought you a present.
+A Newton.
+Don't take it out of the box,
+you'll be able to sell it,
+which is more than I can say.
+Everything all right there?
+Uh, no--
+just something
+Joanna pointed out to me.
+I missed something
+so obvious about--
+doesn't matter.
+Look, wall street's
+gonna sit back and wait to see
+how you do as ceo,
+so don't let
+any fluctuation bother you
+for the first 12 months.
+Day traders are gonna respond.
+I don't need to school you.
+This your way
+of telling me I shouldn't
+have killed the Newton?
+The most efficient animal
+on the planet is the condor.
+The most inefficient animals
+on the planet are humans.
+Well, you shouldn't have
+killed it for spite.
+That's bad business.
+Don't do that.
+But a human
+with a bicycle becomes
+the most efficient animal.
+And the right computer--
+a friendly, easy computer
+that isn't an eyesore
+but rather sits on your desk
+with the beauty
+of a tensor lamp--
+the right computer
+will be a bicycle for the mind.
+Do you like it?
+I was giving back.
+And what if instead of it
+being in the right hands,
+it was in everyone's hands?
+Everyone in the world.
+We'd be talking about
+the most tectonic shift
+in the status quo since--
+ever.
+I don't know why you've
+always been interested
+in my adoption history,
+but you said it's not like
+someone looked at me
+and gave me back.
+But that is what happened.
+And you're telling me
+you have the right computer.
+It's called macintosh.
+A lawyer couple
+adopted me first,
+then gave me back
+after a month.
+They changed their mind.
+Then my parents adopted me.
+My biological mother
+had stipulated
+that whoever took me
+had to be college-educated,
+wealthy and catholic.
+Paul and Clara jobs
+were none of those things,
+so my biological mother
+wouldn't sign
+the adoption papers.
+What happened?
+There was a legal battle
+that went on for a while.
+My mother said
+she refused to love me
+for the first year.
+You know,
+in case they had to
+give me back.
+You can't refuse
+to love someone, Steve.
+Yeah, it turns out
+you can.
+What the hell can
+a one-month-old do that's so bad
+his parents give him back?
+Nothing. There's nothing
+a one-month-old can do--
+have you ever thought
+about trying to find
+your biological father?
+I've met
+my biological father.
+For that matter,
+so have you.
+It's called macintosh.
+Mr. Steve Jobs.
+Jandali.
+Say hello
+to John sculley.
+Jandali owns the place,
+and John's the ceo of Pepsi,
+<i>but I'm trying to get him</i>
+<i>to move to cupertino,</i>
+<i>put a dent in the universe.</i>
+You eat vegan as well?
+You're kidding me.
+No, I'll eat anything.
+Why don't you start off with
+the mediterranean lettuce
+salad with purslane, mint--
+my sister found him.
+- Does he know?
+- No. In fact,
+he bragged to Mona
+that Steve Jobs
+comes in the restaurant
+all the time.
+You don't want to--
+no.
+<i>Don't you think</i>
+<i>you should talk to him?</i>
+He'd probably
+find a reason to sue me.
+Oh, Steve--
+John, if you're here
+about your legacy,
+you need to form a line
+behind wozniak.
+Wozniak's gonna be fine.
+I'm the guy
+who fired Steve Jobs.
+Rich, college-educated
+and catholic.
+Steve? It's time.
+I've gotta go.
+Did I do this?
+Screw it up?
+Let's let it go now.
+Has to be time.
+Come be our ceo.
+Yeah. Okay.
+It was the stylus, John.
+- What?
+- I killed the Newton
+because of the stylus.
+If you're holding a stylus,
+you can't use the other five
+that are attached to your wrist.
+Things we could have
+done together.
+God, the things
+we could've done.
+I'm paying your tuition.
+Are you crazy?
+Of course
+I'm paying your tuition.
+I must have misunderstood you
+when you said you weren't
+paying my tuition.
+You and your mom
+selling the house
+was a hostile thing to do.
+She needed the money.
+She always needs the money.
+She needs a doctor.
+She has a sinus infection.
+She's had
+the same sinus infection
+since 1988.
+I'm gonna
+take care of my mother.
+I'm sorry if that angers you.
+It does anger me,
+because you're a kid
+and it's not your job
+to take care of your mother.
+Is that how yours died?
+Guys, step away, please,
+and give them some room.
+When your mom is 90
+and can't feed herself,
+you can take care of her.
+But right now, she's 45,
+perfectly healthy
+and can't feed herself.
+You're supposed to
+work hard at school
+and be 19, and that's it.
+I'll take care of your mother.
+Keep up the good work.
+What the hell
+do you want from me?
+I was sent for.
+I bought her a house
+for $400,000.
+It's worth
+twice that much today.
+She sold it for two magic rocks
+and a bowl of soup.
+It was her house.
+She used that money
+to travel through Europe.
+Money which
+you make her beg for.
+- Steve--
+- don't even start with that.
+Going to Andy
+and asking for the money?
+That was so off-the-charts
+over the line--
+I did not do that.
+Andy came to me.
+Everybody have
+an opinion on this?
+I'm sorry, guys.
+In 30 seconds,
+you're going to be late.
+She spends the money on antiques
+and then sells them for
+a fraction of what she paid,
+and she does it with money
+i gave to her for you.
+Steve--
+you came to me hysterical
+when you were 13,
+asking if you could
+live with me--
+i was not hysterical.
+Because your mom
+was screaming at you
+every day.
+Thirteen was the second time
+i asked you.
+The stress of her life
+as a spiritual healer.
+I don't believe
+i said you're a bad guy.
+But if I did, I'm sorry.
+Hey. Something happened
+to you at school,
+some first semester core class
+that all freshmen
+are required to take--
+- I read<i> time.</i>
+- What?
+I have Internet access
+at school.
+I read an old copy of<i> time,</i>
+and I asked my mom
+some questions
+about my family history.
+That was--
+<i>time</i> wrote
+a mangled piece of journal.
+You were never
+supposed to read that.
+I had two different
+Harvard statisticians
+try to reverse-engineer
+the equation
+that you came up with
+to prove that
+28% of American men
+could be my father.
+Honey, i--
+you know, my mother
+might be a troubled woman,
+but what's your excuse?
+That's why I'm not impressed
+with your story, dad.
+It's that you knew
+what I was going through,
+and you didn't do
+anything about it,
+and that makes you
+an unconscionable coward.
+And not for nothing,
+but "think" is a verb,
+all right,
+making "different"
+an adverb.
+You're asking people
+to think differently.
+And you can talk about
+the bauhaus movement
+and braun and "simplicity
+is sophistication"
+and issey miyake uniforms
+and Bob Dylan lyrics
+all you want,
+but that thing
+looks like Judy jetson's
+easy-bake oven.
+Hey.
+You're gonna start late.
+You know what Lisa
+stood for?
+What?
+The computer. The Lisa.
+You know what it stood for?
+I'm sorry I said that
+about the iMac.
+It's not what I really think.
+Behind my back, at the office,
+you know what it stood for?
+Local integrated
+system architecture.
+I was five.
+Why couldn't you just lie?
+I did.
+Of course
+it was named after you.
+Local integrated
+system architecture
+doesn't even mean anything.
+Why'd you say it wasn't
+all those years?
+I honestly don't know.
+Why'd you say
+you weren't my father?
+I'm poorly made.
+- It's after 9:00.
+You're gonna be late.
+- I don't care.
+- You're writing
+for the<i> crimson.</i>
+- What?
+The apple chapter of
+the Harvard alumni association
+tells me you're writing
+for the<i> crimson.</i>
+Oh. Yeah, a little bit.
+Essays.
+- I'd like to read one.
+- Sure.
+No, I mean now. I'd like to read
+one of your essays now.
+Come on.
+You've got to go on stage.
+The iMac will not be launched
+until you give me
+one of your essays,
+so the world is waiting for you.
+I'm really sorry, guys.
+Good luck.
+I'm gonna put music
+in your pocket.
+What?
+Hundred songs.
+A thousand songs.
+500 songs.
+Somewhere between
+500 and a thousand songs
+right in your pocket,
+'cause I can't stand
+looking at that
+inexplicable walkman anymore.
+You're carrying around a brick
+playing cassette tape.
+We're not savages.
+So I'm gonna put
+a thousand songs
+in your pocket.
+You can do that?
+Mm-hmm.
+You want to watch
+from backstage?
+Okay.
+Go cue one.
+You remember that painting
+you did on the original Mac?
+I do.
+<i>Ladies and gentlemen,</i>
+<i>Steve Jobs.</i>
+Woz.
+Whoo!

@@ -1,0 +1,1706 @@
+"1999, South-East Asian Country"
+Legs 2, 4 and 5 damaged.
+Mobility compromised.
+Can you come back with the remaining legs?
+I'll try.
+Gong Zero to all units:
+Mine field to the rear.
+Hold your position.
+Gong-1 to Command.
+Multiple targets ahead. Approaching.
+Number of targets still increasing.
+Alert. Incoming heat source
+on the right side.
+Direction 040, moving targets.
+Distance 1200, multiple moving targets.
+Heat source believed to be an armored car.
+Coming into RPG range.
+Gong to HQ, incoming hostiles still increasing in number.
+Request permission to open fire.
+Request denied.
+Canada unit heading your way.
+I repeat, request denied.
+Do NOT engage!
+We can't just dodge them!
+Can you hear me, HQ?
+RPG heat source ahead!
+- The ejector's jammed.
+- Heat source ahead increasing!
+I can't come out!
+Chief!
+Boot okay.
+System normal. Type-XL standby.
+System boot-up complete.
+- Good, enter visual mode.
+- Roger.
+Vision, okay.
+Low angle vision, okay.
+Rear vision, okay.
+Come on, stop kidding around, Noa.
+Auto-balancer, normal.
+Low angle vision good.
+All clear ahead.
+That's good, Noa.
+Reset and start over again.
+Rogen
+Simulation complete.
+Simulation complete.
+Maintenance Chief, please report to
+Booth <i>2</i> after check-up is complete.
+Good job.
+It's been 3 months since
+we were sent here by the R&D Division.
+Looks like you're getting used to it.
+Not at all.
+Why don't you give that headgear a try?
+- Already did.
+- And?
+It feels disgusting to have eyes on your stomach and back.
+Told you! How come the conventional
+system isn't good enough?
+It's the ideal form of labor interface.
+Underground, underwater, deep space...
+An eyeball sensor can't keep up in those environments.
+What "eyeball sensor"?
+Your own two eyes.
+Take this bike, for instance.
+When it was first invented,
+there was a driving school for it.
+How long has it been since cars
+stopped being exclusively for racing?
+Humans can adapt to anything.
+- But, still...
+- I know, I know.
+Why don't we go to the good old place
+for a change of mood?
+Hi there.
+- Back again?
+- Hello.
+I was piloting this until a year ago.
+Time sure flies, doesn't it?
+Now this old fellow's already
+an experimental unit for data collection.
+So, want a ride?
+- No way.
+- Why?
+I can't find the words for it, but it's okay, really.
+Let's go. The restaurant will be
+crowded again if we don't hurry,
+You're right. Meal-time.
+Sorry to bother you.
+You lout!
+What the hell are you aiming at?
+Five laps!
+Don't cut corners, Sakabe!
+Hurry up! Run!
+Move! Move! Move!
+Wipe that grin off your face, Kiseyama!
+Five extra laps for you!
+- Good, next!
+- Yes.
+Hey, Ogura! No puking on the field!
+Five more laps for you, too!
+Sir, a question!
+What is it?
+Umm, why do we shoot using manual mode?
+If we used the FCS for targeting, we'd get 98% accuracy.
+And if your FCS was down?
+But labor patrols are always done in pairs...
+And if your partner's labor was disabled?
+But that's not very likely to happen...
+It's your job to be prepared for that unlikelihood.
+You moron!
+20 laps around the field!
+I think he's doing a good job.
+Show me your spirit!
+Ready to charge!
+This isn't some high school sports team.
+Kids these days...
+can't grasp the concepts of "spirit".
+You are rubbish! Get away!
+Let me show you how!
+Well, since you came all the way out here,
+tell him something as Chief of General Affairs.
+Listen up! Marksmanship is
+a matter of agility and concentration!
+If you put your heart into it, you can hit the target!
+Release the target!
+Eat this!
+It's not over, yet!
+Got that? Don't relax just because
+your first shot hit the target!
+Remember to give him a fatal attack!
+What the hell are you doing, Ohta?
+Do you know how hard it is
+to buy equipment on our low budget?
+Get off that labor immediately!
+Chief!
+Excuse me, have you seen the chief?
+Boss, you seen Mr. Goto?
+Goto?
+What about him?
+He's looking for Goto.
+I saw him heading out the back.
+Thanks.
+Yamazaki, have you seen the chief?
+I saw him taking the rod from the shed
+so he's probably at the wharf.
+Chief!
+Chief.
+What's up?
+The acting captain just called.
+She will get back a little late.
+Because of the meeting or the traffic?
+- She didn't say.
+- I see.
+What is it?
+It's already past the regulation time,
+so we'd like to have Division 1
+take over and let us go home.
+Fine by me, but Nagumo isn't back, yet.
+I guess we'd better not, then.
+- I suppose it's okay.
+- So we can, then?
+I guess so.
+I'm going to be around, anyway.
+Division <i>2</i> reporting completion of
+stand-by duty.
+Now going off-duty
+until 12:00 hours tomorrow.
+Acknowledged.
+- Good afternoon, sir.
+- See you later.
+Why shouldn't it be okay?
+This is the progress report
+and labor deployment manifest for...
+the "Babylon Project",
+the Tokyo Bay Development Project
+that was completed last year.
+Following the completion of
+the core project, the sea wall between...
+Kisarazu and Kawasaki,
+the number of active labors has decreased steadily.
+Meanwhile,
+Phase <i>2</i> of the Osaka Airport expansion project
+and other construction projects...
+have spread the distribution of labors.
+The number of labor-related incidents
+in different districts is on the rise.
+To counter this,
+the Osaka and Kanagawa Police Departments...
+has established a Labor Team last year.
+Furthermore, the Aichi, Miyagi
+and Chiba Highway Patrol Divisions...
+are considering introducing labors.
+Next...
+Nagumo!
+I had a feeling some of you were around.
+Anyway, long time, no see.
+Come now...
+No matter how often we called you,
+you stayed on the landfill.
+I hear you've been promoted to inspector
+and also become an acting captain?
+Weren't you paying attention?
+SV2 itself may undergo restructuring this year.
+So I'm only caretaker captain until then.
+But a promotion is still a promotion.
+And about time, too.
+By the way, The Tsuge School alumni
+is holding a party tonight.
+Will you come?
+Watabe and Tanaka are also coming.
+They practically insisted you come, too.
+I'm sorry, but I just can't go.
+Come on, that thing with Tsuge's long over with...
+How long has it been?
+It's been 3 years since Tsuge came back
+from the PKO and went missing.
+- Didn't he tell you anything about...
+- Knock it off.
+He only sent me one letter right after he returned.
+I'm really sorry, but my section
+is on stand-by as of tonight.
+Please give my regards to everyone.
+You were too insensitive.
+That's the only black spot on
+the sharpest lady in the Metro Police.
+Yes, SV2 here.
+Shige, it's Nagumo.
+It's finally over.
+How are things at your end?
+Not a single dispatch. Very quiet.
+Is Goto around?
+You want me to get him?
+It might take a minute.
+He definitely needs to get a cellular phone.
+Never mind.
+I just got on the Yokohane highway,
+so unless I hit a traffic jam,
+I should be back in 15 minutes.
+I just ran into one.
+Bad luck. Don't worry about us.
+Just take your time. Bye.
+"This is the Kanagawa Prefectural
+Police Highway Patrol."
+"A labor is passing overhead."
+"Please do not open your doors
+or leave your vehicles."
+"This is the Kanagawa Prefectural
+Police Highway Patrol..."
+Calling the Roadrunner,
+this is inspector Nagumo of Metro Police SV2.
+Please respond.
+This is Highway Patrol 201.
+Is that you, Chief Nagumo?
+I'm Motohashi,
+we met at training school. Over.
+Sorry to bother you, but both ends
+of the bridge seems to be blocked.
+What's up?
+We received a call that...
+a bomb has been planted on a car parked on the Bay Bridge.
+We've stopped all traffic from using the bridge.
+We're currently heading there to assess the situation.
+Roger that, over and out. Thank you.
+At around 5:20 this afternoon,
+a massive explosion rocked the Yokohama Bay Bridge...
+that connects Honmoku Wharf and Daikoku Wharf.
+Reports on the number of casualties
+and other details are not yet available.
+The Bay Highway has been completely closed off...
+Following an anonymous call,
+the Bay Bridge had been closed.
+The police are working to locate the caller...
+...while the view that this incident is
+a large scale terrorist attack...
+This incident seems to be
+a large scale terrorist attack...
+there have been several reports
+of people hearing jet sounds...
+just prior to the explosion on the bridge.
+Police are trying to confirm those reports...
+Explosion or bomb?
+It's now 11 pm. It's been 6 hours
+since the blast occurred.
+And the area is still
+gripped atmosphere of utter confusion.
+At this point, we'd like to show you
+this one shocking scene...
+from a home video tape.
+The analysis of the footage
+obtained by SSN by a specialist...
+concluded that the plane seen here...
+is very likely an ASDF F-16J,
+a modified version of
+the American F-16 jet,
+deployed in 1998.
+There are 130 planes of this type
+stationed in various bases...
+such as the 2nd combat wing at Misawa
+3rd Air Group in Aomori Prefecture.
+ASDF is checking on the whereabouts of all planes...
+At the time of the Defense Bureau has announced that...
+no plane in its inventory
+matches that of the ASDF fighter...
+There are a number of arguments
+on "The Bay Bridge incident".
+Many of them are related to the fighter of ASDF...
+The Defense Agency strongly denies...
+any involvement of the ASDF
+in the Yokohama Bay Bridge Bombing.
+The government...
+has set up a special committee...
+to investigate the matter.
+Sorry for the chance in schedule.
+You're watching our special coverage...
+And one of the witnesses
+remembers your name which was written on the camera.
+- That's strange...
+- What?
+Sure, we had a crew filming at the Bay Bridge,
+but we already submitted the tape as evidence.
+Are you really a police officer?
+"Asalite Production House"
+It was around 2, yesterday,
+but then this is a really strange story.
+Did he say which station he was from?
+No, he looked just as genuine as you.
+Did he give you a form when he took the video?
+He gave me an order form from a client.
+The only thing I saw was the letter from the client.
+We just do what we're told to.
+Do you still have a copy?
+When we don't even keep
+half-decent originals?
+Once we give them the master tape,
+the source material always gets erased.
+Did you see the F-16
+they showed on TV?
+I'm sick and tired of seeing it. Why?
+I'm sure the tape you handed over had a clearer picture.
+Of course, it was on Hi-Vision,
+not some cheap camcorder.
+Did you see anything unusual on it?
+You recorded the moment of the explosion, didn't you?
+More like the aftermath.
+Didn't you see the tape?
+I sure did, over and over.
+I edited it myself.
+But the deadline was coming up,
+so I just looked for usable shots.
+I wasn't looking to see
+if there was anything out of the ordinary.
+If I had known that there was something,
+I would've spotted it.
+There might have been something.
+I see. That's disturbing, alright.
+Sure, thanks. Sorry to call you in on it.
+Oh, come on. I'll give you moral support
+when you need it.
+Bye.
+Matsui?
+Yeah. He asked me to say hi to you.
+- Goto?
+- Yes?
+I don't know what you two are up to,
+but tell me if you're making a move.
+I don't want things going on behind my back.
+Is that an order from the acting captain?
+I wouldn't want to order you.
+It's just a request from your colleague.
+I suppose I can't turn down a request.
+Excuse me.
+There's a guest here to see the chief.
+For which one of us?
+- Well...
+- Who is it?
+Well...
+Arakawa of the GSDF
+Joint Staff Internal Investigation Bureau.
+No address or phone number?
+It's not convenient for me to give those out.
+And what can we do for you?
+Before I get to that, I'd like to show you something.
+This.
+If you don't mind...
+"Bay Bridge Memories"
+Are you sure this is the tape?
+It is.
+I can sing this song.
+This is not the important bit.
+Would you like to sing?
+I don't have a mike.
+Then I'll Fast-forward.
+It's around here.
+"Falling for you and crying for you?"
+No, the next line.
+"Ah, the rain is falling on me"
+Here.
+Where?
+The upper-right corner.
+At the edge of the cloud.
+Where? I can't see anything.
+Right here. The bird-like shadow.
+I think you already know what I'm talking about, Goto.
+The Bay Bridge blew up after this.
+Besides this,
+I'd like to show you another tape.
+To prove that there is no tampering,
+we recorded the entire procedure.
+"Ah, the rain is falling on me"
+This is with the benefit of digital technology.
+Can you make it out?
+I'm not really familiar with military hardware,
+but this doesn't look like the one aired on TV.
+Now that you mention it...
+How's this?
+The one on the left is from the video you just saw.
+The right one is the one broadcast on TV.
+Take a closer look. The left one is
+fitted with the latest stealth wing,
+and has this recently developed vector nozzle.
+Let's get down to business.
+ASDF does not have
+these types of F-16s.
+Hold it. Before we go any further,
+why are you telling us this?
+To get help investigating the matter.
+Besides, we have to get contacts
+with police officers in the field...
+just in case
+the worst-case scenario occurs.
+We'll provide you with all the material
+we've obtained, of course.
+What do you mean
+the worst-case scenario?
+Care to go for a short drive around the neighbourhood?
+I'm the kind of person who relaxes in a moving car.
+I can think better.
+When I'm in motion, I almost come to a complete stop,
+and leave the world behind.
+Besides, there's no problem of anyone eavesdropping.
+Can we get down to business, now?
+The night of the Bay Bridge bombing,
+a USAF fighter went missing...
+during a training flight on Miyake Island.
+And that's the fighter on the video?
+The USAF admitted and reported it.
+At an unofficial level, of course.
+We have our connections.
+The Military has its own links.
+It may sound bizarre, but for them,
+it is more beneficial than hiding the facts...
+and disturbing the defense system of our country.
+But why would the USAF bomb the Bay Bridge?
+They didn't mean to attack.
+As far as this incident is concerned,
+both the USAF and the pilot who fired the missile...
+are victims.
+I hope you can explain that.
+We have been investigating a certain group for a year.
+A mixed group consisting of
+hard-line politicians, former joint chiefs,
+the US military industry
+and a faction within the US military.
+They are the member of that group.
+They fear Japan, the only country that
+has not increased its military capability...
+among the ever escalating
+military tension of Asian nations...
+following the Cold War.
+They came up with this farce...
+to play against the peaceful Japanese political situation.
+Do you remember...
+the Mig-25 defection 26 years ago...
+that shook the air defense system
+and Japan's idea of defense?
+This is the second coming of that incident.
+Approach the capital at low altitude,
+and leave behind the mark of
+the missile lock on its white door.
+And the operation was successful.
+Except for the fact that a real missile was fired.
+An accident?
+Possibly. But unless there's proof,
+we should assume that someone was behind it.
+In fact, the F-16 that left the scene
+has not returned to the base, yet.
+And let's assume that somebody
+used this crazy people's farce.
+What would his purpose be?
+Wait a second. If you know that much,
+why can't you make it public
+and clear the suspicion on the ASDF?
+- The Defense Agency has...
+- They already know.
+The joint chief council is pushing for it,
+but the government hasn't decided yet.
+We have no solid proof of...
+the involvement of a third party.
+Even if it was treated as an accident,
+it will leave behind uncontrollable scandal.
+They're taking the usual approach:
+as they investigate the matter,
+they wait to see what happens.
+What fools.
+That's exactly what he wants them to do.
+If they just ignore the information
+from the front, eventually...
+Eventually they might poke into
+the wrong place and start real trouble.
+I'd like to catch the culprit before that happens.
+I hope you will cooperate with me.
+Arakawa, right?
+It's a very interesting story,
+but your story only has circumstantial
+evidence with no solid proof.
+As far as the video tape is concerned,
+you yourself proved that...
+it can't be used as evidence.
+I can't give you a hand based on this.
+Goto, you're exactly the man I was told you would be.
+I chose the right man after all.
+Let's assume that both tapes were fabricated.
+But the blown-up Bay Bridge is a fact.
+No mistaking that.
+Don't you think so?
+Can you take the file behind the seat?
+Tsuge Yukihito.
+The founding member of the group,
+his current whereabouts are unknown.
+He's the prime suspect we're looking for.
+Anyone involved in labors...
+should know his name.
+We aren't exactly good at finding people,
+but we can't bring the case to the police, either.
+We're police too, you know.
+I hear you have good connections.
+And SV2 goes beyond the call of duty,
+or should I call it bravery?
+I heard a lot about it.
+You must be mistaken.
+We're just public servants like you.
+Excuse me.
+Yes, it's me. What?
+Hey, remember, you have two police officers aboard.
+He made his move before we did.
+Three armed F-16J's took off
+from Misawa and are heading south.
+They'll reach Tokyo in 20 minutes.
+SIF confirmed. The planes belong to
+the Northern Air Defense Force,
+3rd Air Wing 8th squadron.
+Three F-16Js.
+Call sign "Wyvern". No response.
+Co-ordinates Hotel-Z Kilo-1.
+Heading 190.
+Altitude 32,000. Speed 720 knots.
+Still heading south.
+Any word from Misawa?
+No response from any air group,
+including Northern Air SOC.
+Call the base commander on the direct line.
+Let it ring until he picks it up.
+Or, has Misawa...
+Don't be crazy. That's impossible.
+Interceptors launched.
+From Hyakuri 204: Wizard-03.
+And from Komatsu 303: Priest-21.
+ETA to intercept for Wizard:
+Next-04, for Priest: Next-10.
+Trevor, this is Wizard-03.
+Now maintaining angel 32.
+Wizard-03, this is Trevor.
+You are under my control.
+Steer 040, maintain present angel.
+Rogen
+Wyvern continuing to head south...
+still no response.
+Target passing from SS-37 to SS-27.
+Updated ETA to intercept Wizard:
+Next-05.
+Wizard-03, target position 030.
+Range 90. Altitude 32.
+Sir, what if they don't respond upon interception?
+North Sector SOC on-line.
+Central SOC here. What's going on?
+Get those FSO's out of there.
+What? They're not from you??
+Misawa Control doesn't have
+any record of a take-off.
+We're trying to contact 8th squadron,
+but we can't get them on-line.
+No response on the direct line, either.
+Check all North Sector squadrons, top priority.
+Rogen
+Sir...
+The SIF code was changed as scheduled.
+Therefore, it can't be someone using our code.
+System Error?
+The self-diagnostic program
+is still active.
+It would stop if there was an error.
+Has Wizard made contact?
+Target dead ahead 25.
+Wizard-03, how about contact?
+Negative contact.
+Request target altitude.
+When will the target enter Tokyo air space?
+About ten minutes from now.
+Notify the First Anti-air battalion
+in Iruma to go to red alert.
+And inform the Secretary of Defense.
+Trevor, Wizard-03.
+Negative contact.
+Bogey dope.
+Target dead ahead 15, heading 190,
+altitude 32, Mach 1.2.
+Wizard, reduce speed!
+No joy! Negative contact!
+I say again, no JOY!
+Request target position!
+It's too dangerous. They should
+pull out and approach again.
+There's not enough time.
+If they change bearing, Priest's approach will be off.
+Caution! Almost same position!
+Same altitude!
+Caution! Wizard, caution!
+Wizard! Break, Wizard!
+Bail-out? Alien went down...
+No way...
+Change on target heading, now bearing 210.
+Target descending and accelerating.
+Priest closing in, distance 20 miles.
+- What's this?
+- What the hell's going on?
+It's heading this way.
+Is that the one Central Sector told us about?
+God, he's pushing his luck.
+Will this be another Bay Bridge incident?
+Don't joke.
+Get all planes except those already
+on approach, into a holding pattern!
+Watch your altitude!
+Send all international carriers
+to Osaka! Move it!
+Due to unstable weather,
+all arrivals and departures are on hold.
+We apologies for any inconvenience.
+Target passed Narita.
+Still heading towards Tokyo.
+Entering Tokyo air space in 60 seconds.
+Priest has made radar contact.
+Wyvern in range.
+- He's cleared to fire.
+- But...
+Take them out before they enter populated areas.
+Priest-21, This is Trevor.
+Clear to fire. Kill Wyvern.
+Clear to fire. Kill Wyvern.
+Trevor, say again.
+I say again, kill Wyvern.
+Roger, kill Wyvern.
+This is Wizard-03. Request order.
+This is Wizard-03.
+Priest-21, wait!
+Wizard! Wizard-03, this is Trevor.
+Are you normal?
+Trevor, this is Wizard.
+We have heavy jamming.
+And now lost position.
+Request further instruction.
+I say again, request order.
+Wizard-GS confirmed.
+No hostiles in local air space.
+Priest, hold your fire.
+Hold your fire.
+Wyvern disappeared.
+Fl is awaiting instructions.
+Cancel alert. Priest, return to base.
+Send Wizard back as well.
+This is Wizard-03. Lost position.
+Request order.
+This is Wizard-03. Request order.
+The ASDF's Badge system...
+is designed to be a closed system,
+but political reasons,
+The Security Treaty, and other factors...
+mean it is linked to the USAF bases in Japan.
+Are you listening to me?
+And the scramble incident was caused via this link, right?
+The culprit accessed the American university network...
+through a gateway from...
+a German information service company.
+From there, he broke into the USAF system,
+and got into the mainframe at Fuchu COC...
+to create the fake image of the bomber.
+That's the whole story.
+Theoretically, it's possible,
+but I wonder if it can really be done.
+The current Badge replaced the old one in 1991.
+But they updated the software last year
+to accelerate the processing speed.
+One of the engineers involved
+may have been a member of the group.
+And the truth was again kept from the public.
+Neither the government nor the defense agency...
+would want to admit that someone
+hacked into the Badge system.
+The lower ranks will get the blame again.
+Besides, what if they moved onto the next situation...
+before we can find the truth?
+But, in fact, that's exactly what has happened.
+Anything else on Tsuge?
+About the Tsuge School?
+I know the rough story.
+The "Multi-purpose Walking Machine...
+Research Group", wasn't it?
+They were the first to see the military value of labors...
+and proved it through various computer simulations.
+They also contributed to the establishment of the link...
+between the JSDF research group and commercial enterprise.
+The group was named after its core member, Tsuge.
+He requested a position when the JSDF...
+decided to send labors to PKO.
+I bet he wanted to put his theory to the test.
+A tropical rainforest is...
+the least favorable environment...
+to deploy labors in.
+He knew what would happen to a mechanized unit...
+being deployed in such an environment...
+without adequate backup.
+And yet, he still went. Why?
+Before he went there...
+there was a police officer sent to
+the Tsuge School to take lectures,
+prior to the establishment of
+the Metro Police Labor Division.
+Nagumo Shinobu.
+She was an outstanding student at the Tsuge School.
+And Tsuge's best partner.
+There was a minor incident and it's not on the records.
+No matter what they are, they are still a man and a woman.
+If he didn't have a wife and children,
+perhaps that would've been the end of the story...
+You looked into this incident?
+Anybody in the main station back then knew about it.
+Even lazy bones like me.
+I wouldn't want to sniff around the past of my colleague.
+Colleague? Fine.
+Whappen happened then?
+Police are pretty strict on affairs.
+She could have become an elite officer,
+but she was shipped off to the landfill.
+- Is that the reason?
+- Well...
+Chief!
+But your uniforms sure are fancy.
+It's quite a cruel uniform for
+a middle-aged bum.
+I envy your plain clothes.
+I have my own problems with this, though.
+Plain clothes don't always suit the job.
+It makes it hard to tell who the enemy is,
+but still staying inconspicuous.
+That's a very important element of my job.
+I see. Bye.
+Tell me, what is his final objective?
+Is he trying to start a war by himself?
+A war?
+It's already begun.
+The question is how to end it. That's all.
+What are you, the police officer,
+and I, the JSDF officer, trying to defend?
+It's been half a century since the last war.
+Neither you nor I...
+have experienced a war.
+Peace“.
+Peace is what we are supposed to defend.
+But what is the peace of this city, this nation?
+The all-out war and the defeat.
+The US occupation policy.
+The Cold War under the nuclear umbrella...
+and the proxy wars.
+And civil wars that still go on
+in many nations of the world.
+Ethnic clash, military conflict...
+Blood-drenched economical prosperity
+created and sustained...
+by those countless wars.
+That's what's behind our peace.
+Peace created by an indiscriminate fear of war.
+An unjust peace that is maintained
+by having the wars elsewhere,
+but we keep denying ourselves this truth.
+No matter how phony the peace may be,
+it's our job to defend it.
+No matter how unjust it may be,
+it's better than a just war.
+I understand how you hate "just wars".
+Whoever said that word was never half decent.
+History is filled with people
+who fell from grace believing in that.
+But you know only too well that...
+there isn't much of a difference...
+between a just war and an unjust peace.
+Ever since the word "Peace"
+became the excuse of the liars,
+we lost our faith in peace.
+Just as war creates peace,
+peace also creates war.
+A make-belief peace that's merely...
+the period between two wars...
+will eventually give way to a real war.
+Have you ever thought about that?
+While receiving the benefits of war,
+they're hiding the truth behind the TV screen.
+Forgetting that they're merely
+at the rear of the battle front.
+Or rather pretending to forget about it.
+Such deceit will be punished...
+sooner or later.
+Punished?
+By whom? God?
+In this town, everyone's more or less God.
+Seeing everything by living here.
+To have knowledge of everything
+without having physical contact.
+God does nothing.
+If God doesn't do it, the people will.
+We'll find out...
+if we can't catch him.
+I'm fully aware of that. Yes.
+That's not my point.
+But, sir...
+We must take every possible
+precaution should the emergency arise.
+This is a strong request from the General!
+I repeat my order.
+Effective 7am tomorrow,
+SV2 in co-operation with
+the local police force...
+and the 4th riot police will guard Nerima Base.
+That is all.
+Are you going to go?
+Shinobu?
+You know that all flights from Misawa Base are suspended.
+30 minutes ago, Aomori District Police
+took the base commander into custody...
+as he was about to head to Tokyo to voice his objections.
+Even worse, they arrested him right at the base gate.
+The director there was known as
+the shadow of the superintendent-general...
+since he was in the Guard Division.
+But what a thoughtless move.
+I wonder if they'll sit quietly after
+the police did that on their front door.
+Misawa Base cut off
+all communication links to the outside...
+and went into a de facto siege.
+And where were you at a time like this?
+You left your post without notification!
+Who do you think you are,
+asking the speed boat to pick you up?
+I take it you don't care about your promise...
+of not sneaking around behind my back.
+I'm sorry. I really am deeply sorry.
+But would you have okayed it
+if I told you I was going to see Arakawa?
+Of course not. Not that man.
+How could someone in the Guard Division...
+have a secret meeting with the intelligence...
+related section of the JSDF, under these circumstances?
+It's because we are in this situation
+that I had to see him.
+Say what?
+Calm down and think about
+what we and they are supposed to do.
+Think about what we should not do...
+what we should do.
+But by doing that so far,
+they've only complicated the matter.
+Don't you think so?
+But we have to take measures
+in case of an emergency.
+What kind of emergency?
+Ever since the unimaginable Bay Bridge incident...
+that raised everyone's suspicions...
+And look at the confusion caused by the scramble.
+I hear the air defense commander
+in Fuchu ordered the pilot to open fire.
+I bet the weasel was trying to
+take advantage of the situation...
+and expand the influence of the Guard Division.
+Imagine what could happen
+if the police try to meddle with...
+the JSDF in these circumstances...
+If Tsuge is the brain behind this whole incident,
+he's an excellent strategist.
+He created this whole situation using just one missile.
+And the aftermath is still going on.
+I don't think it's a good idea to go tomorrow.
+I don't want to go, either.
+But it's an official order by the division chief.
+My section won't go.
+As acting captain, I can order you to, if need be.
+Go ahead and order me.
+Never mind.
+Section 1 will act, regardless.
+I'll move to the captain's room.
+But, Shinobu...
+I will come to pick up my personal belongings later.
+Excuse me.
+But I won't go even if you do that.
+Ah, Shinobu?
+I changed my mind. Just now.
+We're over JSDF Nerima Base.
+In support of Misawa Base that went under siege yesterday,
+JSDF bases all over the country are taking the same steps.
+The First Division stationed at this base...
+is confronting the 4th riot squad and SV2...
+which has been on guard since this morning.
+I've been told your section's labors
+won't boot up. What's going on?
+Why are your labors down?
+I need an explanation.
+Oh, that?
+We've got mechanical difficulties.
+Is that so?
+So you people transport labors without repair equipment?
+Get serious.
+It's true.
+Fine, I just need them to be standing.
+Raise them up.
+But they have mechanical difficulties.
+They may fall over...
+and display our incompetence to
+the entire nation via the TV screens.
+Are you sure you want that?
+This is a clear case of sabotage to the field command.
+I will report this to the Guard Division Chief.
+Remember that.
+Goto here.
+It's me. I can see you on TV.
+Tough being a public servant, isn't it?
+The boss got too enthusiastic
+because some idiot subordinate of his...
+jumped the gun.
+Is it hard having a stupid boss.
+It's just about the same here.
+There's no bad army, just bad commanders.
+To take full responsibility of the siege,
+the chief of staff of all three forces resigned.
+Really?
+About 30 minutes ago.
+You'll see it on the news soon.
+They are planning to expose everything
+about the Bay Bridge now,
+but it's too late.
+Now that things have gone this far,
+once the US forces deny it, that'll be the end of it.
+Not only did they miss the time
+to reveal the complete truth...
+they also destroyed the channel to resolve the matter.
+Tsuge's one step closer to his goal.
+Are you listening?
+Yeah, but I really don't want to.
+You'll have to.
+Now we're getting down to business.
+The government is ignoring its own incompetence...
+and is trying to blame everything
+on the police for worsening the situation.
+Making the police look unreliable.
+And without changing the scenario,
+they'll change the cast.
+You mean...
+That's right.
+The stage is filling with the miscasts.
+I don't think anybody wants the leading role.
+Isn't it a wonderful story?
+That's how we do our civilian control.
+I think Tsuge just wants to see
+what kind of war we create...
+under the same rules...
+as the one he lost his men under.
+Raven to HQ.
+Confirmed pass of Kagiyamatol & 2.
+"Emergency Broadcast"
+This is an emergency notice...
+to the citizens of Tokyo and neighbouring areas.
+We ask everyone watching TV
+to advise people around you to watch as well.
+Thanks for your co-operation.
+Chief Cabinet Secretary lshikawa
+has just held a news conference.
+He announced that he has sent
+a dispatch to trustworthy JSDF units...
+to maintain order in the metropolitan region...
+and to prepare for extreme emergencies.
+CCS lshikawa also announced...
+the official government response.
+Regarding the series of...
+recent JSDF-related incidents,
+they have judged that the police...
+alone cannot handle this emergency.
+Following the decision,
+the units that are mobilizing now are:
+First Infantry Regiment,
+- Sit down!
+- But...
+Just sit down.
+31st Infantry Regiment and 32nd Infantry Regiments,
+1st Special Regiment, and the first Tank Battalion...
+Yes, this is the shopping detachment.
+It's me. Listen up. You guys are now
+the "Cornering" detachment.
+Buy as much food as you can from the store.
+I just sent you some reinforcements.
+Roger! We'll begin cornering!
+Good!
+Good evening.
+Ah, Buchiyama!
+You idiots! What are you guys doing,
+crawling around?
+We aren't going to a picnic.
+Think of preservation first!
+Go to a warehouse and buy up noodles by the boxful!
+Miss!
+The SV2 Maintenance Squad
+just bought up all food in this store.
+Check the voltage on all batteries.
+Charge all the backup batteries.
+The SV2 Maintenance Squad
+is now on 24-hour stand-by!
+Cut corners where possible!
+15cm of toilet paper per person per use.
+Mr. Shige, really...
+There they are!
+Those are Type 90's and Komatsu H's.
+Raven to 2nd Mobile HQ,
+confirmed arrival of Big Bird 1 & 2.
+Over.
+"Out of order"
+Yes, SV2 here.
+Goto?
+Hi, Matsui. How are you?
+Not so good, but let's just say
+there are no major disasters.
+How is business at your end?
+For now, peaceful.
+But, there may be units
+stationed in Tokyo that support Tsuge.
+Anything could happen.
+- Where are you?
+- Just outside Fussan.
+I'm staking out an airship company called Shin Teito Air.
+Airships? How come?
+I came across it...
+when I was looking into Towa Security,
+the front that the group on Arakawa's file used.
+It's more or less a dummy company,
+but they bought it up a year ago,
+when it was on the edge of bankruptcy.
+They sent in execs, too.
+Bought three American airships half a year ago.
+Haven't you seen them flying around town recently?
+It's been bugging me for a while.
+Oh, those? I'm amazed
+you managed to find out all this.
+There's always women or money in crime.
+Women are not my specialty, so I traced the money.
+The big boss chickened out on
+Tsuge's outrage and closed the company,
+but they can't erase the bank and tax records.
+How did you find them?
+Trade secret.
+Military types would never think of it.
+There they are. I see a couple of thugs...
+carrying nasty sticks.
+Out in the open?
+They must be getting bold.
+By the way, about a week before the Bay Bridge incident,
+the company made a huge purchase.
+I don't know what it was,
+but three pretty expensive items.
+They transferred
+a lot of money to the U.S.
+Three again? Did they buy
+nuclear missiles or something?
+I wonder. The company's
+in the neighbourhood of Yokota.
+Customs won't touch anything
+coming from the U.S. forces.
+I guess we'll have to take a closer look ourselves.
+Don't tell me you want me to sneak in.
+Destroying private property.
+Breaking and entering.
+Possibly personal assault,
+or even aggravated assault.
+This is no job for the police.
+He's a complete amateur.
+Must be a petty thief.
+No, I've seen him before.
+Yeah, he's the inspector...
+that hangs around with that Goto of SV2.
+Get rid of him?
+Our orders are to avoid killing if possible.
+Knock him out and lock him up.
+He won't have time to do anything.
+Go.
+For me?
+He needed to get hold of you
+and tried SV2 first, but...
+Alright, thank you.
+Have you eaten?
+I just came to pick up
+a change of clothes and some papers.
+Hello, Nagumo here.
+It's good to hear your voice.
+Stop!
+Forget it. It's too dark already.
+Get in contact with the group up ahead
+and have them follow from the ground.
+Kill the light.
+You were just a woman after all...
+How did you get here?
+People become informers
+not for ill intent, but for good reasons.
+Parents will do anything for their children.
+She told you?
+Unfortunately, I'm no good with ladies like her.
+But it surprised me whom she trusted.
+Where's a phone?!
+Chopper squad ahead.
+There's been no order for dispatch of attack choppers.
+Identify your unit.
+Can you hear me?
+Gong-Zero to all units.
+It's time. Begin the operation.
+Roger, proceeding into the city.
+Hey! What are you talking about?
+What operation is it?
+We have summoned
+all executive members
+early this morning in order to discuss...
+how we, the Guard Division,
+should handle the present situation.
+This is the only subject of this meeting.
+Given the urgency of the crisis,
+we have also requested
+the presence of Superintendent Kaiho.
+Before we go on, earlier today,
+the Kanagawa Prefectural Police
+Highway Patrol Labor Division...
+has received a dispatch order
+from the SV2's acting captain.
+Inspector Nagumo, what is the meaning of this?
+Before I answer that,
+I'd like to tell all of you present...
+We are not asking for your opinion.
+You did not ask for my permission as section chief.
+It is an act of insubordination.
+Don't you realise your thoughtless action...
+led to the disruption of the chain of command...
+and caused needless unrest in society?
+Does that mean that the needless deployment of forces...
+around the JSDF base
+based on no solid proof or formal order,
+and detaining of the base commander...
+also lacked thought?
+All of you here know that
+the cause of this current situation...
+is a faction of the upper-level command,
+which is acting on near-sighted vision,
+and taking advantage of the unstable social order...
+created out of the recent series of events.
+- How dare you!
+- Inspector Nagumo,
+I cannot ignore your accusation that...
+there was political motivation involved,
+but who is this faction you speak of?
+Why don't you ask yourself that question?
+Excuse me a moment.
+- Hey.
+- Leave him alone.
+Goto? Yeah, they got me.
+All three of them took off about fifteen minutes ago.
+I understand.
+Who will take the responsibility
+for worsening the situation...
+by repeating the needless dispatches...
+in the name of policing the metropolitan area,
+arousing their sense of danger?
+If we are to discuss the order within the section,
+we must make that clear.
+You are aware of the fact that...
+there are many defense agency people
+with police experience.
+This matter is already in the political arena.
+For now, we must not irritate them...
+and cooperate fully with them...
+for their early retreat.
+If that were so,
+the Metro Police should admit its mistakes publicly
+and take full responsibility.
+And you call yourself police officers?
+Because of your past contributions
+to the development of the labor unit,
+we have been generous.
+But we will not tolerate this abuse.
+You are hereby stripped of your position
+as captain of Section <i>2</i> and Section 1.
+You will be detained until further notice.
+Don't you dare touch me!
+Goto-kun, what do you think?
+As one gets further away from the battle front,
+one's optimism clouds one's perception of reality.
+And the decisions they make...
+are far from reality.
+This is especially true
+when a nation is about to lose a war.
+What are you talking about?
+Surely we are not at war.
+Oh, but we already are.
+It was too late the moment we noticed.
+When Tsuge returned to Japan...
+no, long before even that,
+the war had begun.
+I suddenly feel that I have had enough from you.
+I will join Inspector Nagumo!
+Goto, I thought you were smarter than this.
+Take both of them away.
+An ASDF chopperjust bombed...
+the Trans-Tokyo Bay Bridge.
+That's why I said that you are too late!
+Chief, we've lost cable links everywhere.
+Switch the international lines to the backup cables...
+and transfer to the Makuhari exchange.
+Hurry up with the damage report.
+Problems with local trunk lines.
+Minato, Chuo, Shinjuku,
+Bunkyo, Setagaya.
+Contact lost to those sectors.
+You! What are you doing?
+Shinobu!
+You were considering resigning, weren't you?
+You can't stop now.
+We couldn't stop him,
+but our fight isn't over yet.
+But how do we fight?
+We can't go back to the barracks.
+SV2 was probably destroyed.
+But we still have a force.
+We still have THEM.
+Ojiru, Keith here. 226.06. Over.
+Second unit command to company command,
+Respond.
+Unit 2, do you read? Unit 3, come in!
+HQ, 201 defense company here.
+HQ, come in.
+Do you copy?
+Onaga calling Tsunome.
+Civilian airship in the air, over.
+Onaga calling Tsunome.
+They can find worms in the field...
+and they should be able to
+survive the cold in the greenhouse.
+I bet they'll be okay.
+SV2-bred chickens are tough.
+Mr. Shige,
+where is the maintenance squad...
+going with all those things on the carrier?
+We had things arranged with Goto, just in case.
+Sorry I didn't fill you guys in.
+Take care of things like paying for moving and gas bills.
+Till later!
+Turn if off, would you?
+No point in listening.
+So, some stations are still on the air.
+I thought they were all out.
+That's the radio jamming.
+The hard part is you can still hear something.
+I end up trying to listen, knowing it's pointless.
+So, what do you think?
+I know they may have a grudge
+and complaints against the government.
+But do you think there's any reason...
+the ASDF should start a rebellion?
+Come to that, they haven't even
+tried to seize control of the government
+or made any political demands.
+This is not a normal coup.
+The reason they aren't making any demands is that...
+they haven't got any in the first place.
+Disrupting the flow of information and stopping it,
+it's not their method, but their objective.
+It's terrorism under the guise of a coup.
+And someone's set out to do this with one goal in mind.
+To create a war scenario...
+Or rather, to create a time that can be
+called a war in Tokyo.
+That's what he wants.
+The only way to stop this from happening...
+is to find the man and arrest him.
+But I don't get it. What's he doing it for?
+I can only guess.
+But the best way is to catch and ask him.
+I better go. Please take care of things.
+That's the back door.
+I'm supposed to be a man on the run.
+Old man, just to make sure, please don't...
+Don't order or force the guys, right?
+I understand.
+Bye.
+Nagumo, there's no point regretting what you couldn't do.
+Let's think of what we can do next.
+- Boss!
+- He's here.
+Boss!
+Guys, you know what you have to do!
+Yes!
+SV2 was destroyed, but we aren't finished yet.
+Let's settle this once and for all!
+Grab everyone and take them to Hachioji!
+If they complain, just drag them there!
+Dear!
+If you go, it's all over!
+You finally got to be chief.
+Why do you have to go?
+I'm sorry. But I have to.
+Or I'll lose something more important than my job.
+I better go. Everyone's waiting for me.
+The second child is coming.
+I'm expecting another baby.
+What's keeping you?
+We can't waste time.
+We'll just borrow your husband.
+Pardon the interruption.
+Evil! Devils! Kidnappers!
+Miki, come back alive!
+I'm glad you guys came to pick him up.
+The idiot's been trying to agitate
+the students to march into Tokyo.
+I had enough trouble stopping him.
+And how many joined him?
+Do you think young kids today
+would listen to his hot-blooded talk?
+Ohta, you have company.
+- Hi there!
+- Ohta, how have you been?
+You're late!
+What's wrong?
+I can turn back right now.
+This is beyond the call of duty.
+If you go, you could get thrown out of the force.
+Not only that, you may lose your labor license.
+Do you still want to go?
+You sound like you aren't so sure yourself.
+Can you be sure?
+I don't want to be
+a labor-loving girl forever.
+I just don't want to be a labor fanatic all my life.
+Just drive, please?
+Unmanned, as expected.
+It's just circling around on autopilot.
+Take it down before...
+the ASDF chopper comes around.
+Don't miss!
+How am I supposed to miss that?
+The birds are in my way.
+Who cares? Shoot them, too.
+It's going down. Hey, what did you hit?
+Don't blame me.
+I just hit the cabin, nothing else.
+Run for your life!
+There's gas!
+Run for your life!
+Evacuate all personnel without masks!
+Make it fast!
+What are you doing here?
+If you have a mask, lead the civilian evacuation.
+Ordinary gas?
+Completely harmless colored gas
+that won't even kill a bug.
+But its effect was tremendous.
+What if it were real gas?
+Must be a bluff.
+They found a real gas tank inside the ship.
+I don't know if they really planned to use it.
+But nobody in the upper levels
+would have the guts to try that.
+I knew they wouldn't have big blimps
+like that without a counter-measure.
+And this serves the same purpose
+as taking 100,000 residents hostage.
+It's a very good move.
+Now, it's stalemate.
+But we can't leave it that way.
+Take a look at this.
+An aerial shot of a landfill.
+It's #18.
+The second one is the close-up shot.
+That wreckage is a destroyed chopper.
+And that parabola is, according to a specialist,
+a powerful communication system for field command.
+It has to be the enemy's base.
+They're using this to control the airships?
+What else would they use it for?
+Otherwise, they couldn't jam a huge area like this.
+We should be able to end the ECM interference...
+by sending a compressed, coded signal...
+using the right frequency.
+There's no such thing as a remote control weapon...
+that can't be controlled from outside.
+What's the code and frequency?
+Ask Tsuge himself.
+He'll be there for sure.
+Can't we just fire missiles in there?
+What if the transmission is still going on...
+and disruption of the transmission is the signal...
+to start the program?
+I'd do it that way.
+You know who took that picture?
+The US forces.
+This whole incident was under their
+close supervision from the beginning.
+About an hour ago, a message came through the embassy.
+If there's no progress by 7am tomorrow,
+the US military will intervene directly.
+The 7th Fleet is heading this way west at full speed.
+All the US forces stationed in Japan are being mobilized.
+They're over-reacting.
+They'd do that. There's no
+true friendship between nations.
+For them, it's the best chance
+they could hope for. Don't you think so?
+This country will have to start all over
+just like at the end of WWII.
+Start the system transfer
+once you finish checking all electronics.
+Once the armour is on, you can't do it again.
+Unit 3, rolling out.
+They sure are working smoothly.
+After all, they trained their way through lngrams.
+At this pace, we'll make it.
+Considering we must mount
+a surprise attack on landfill 18,
+where the enemy's base is located,
+we cannot approach from the air or sea.
+We will use the tunnel used for labor transport...
+during the second phase of Project Babylon.
+- Next step.
+- Yes.
+1200 meters from Shiodome,
+through a man-made island...
+in midway point, to the destination.
+The problem is the last section.
+It's a typical Caisson-style
+underwater tunnel.
+250 meters in length.
+Descend to 50 meters depth by side
+elevator from the artificial island side.
+Then along a straight section
+that's 200 meters long and 9 meters high,
+then ascend on the landfill elevator.
+It's an ideal place for an ambush.
+We must assume the enemy is aware of the tunnel.
+Question. How do we get to
+this underground passage?
+The local area is filled with forces
+on who-knows-which-side, right?
+Chief Goto is making arrangements.
+Chief Goto...
+Great. It's a real anti-labor rifle.
+But... you don't have anything big,
+like a Vulcan cannon or machine guns?!
+You can do a pretty nasty job on an AFV...
+or even a military labor
+with riot guns using explosive slugs.
+The important part is to hit the target.
+Close one eye and take real good aim.
+That's all.
+Got to go.
+What if we run into a tank?
+Then close the other eye, too!
+Good. Stop.
+What are you two doing?
+Checking the disk Matsui got.
+We thought it might be some sort of code book.
+- A code book?
+- Here we go.
+"Shinbashi"
+I never imagined there could be such
+a place in Tokyo's underground system.
+This is what's left of the bay development frenzy.
+The place where old and new meet,
+between the bay underground construction...
+and the little-known Shinbashi Station
+on the Subway Ginza Line,
+left abandoned since 1943.
+It was never put to use, though.
+I bet there are places like this all over town.
+Without anybody finding them.
+They're here.
+Everyone, off the train, and line up.
+I'm glad you guys came.
+Shinohara.
+Izumi.
+Shinshi.
+Ohta.
+And Yamazaki.
+Your mission is...
+to accompany Chief Nagumo and apprehend the man...
+behind this whole incident hiding out in landfill 18.
+You are under the command of Chief Nagumo effective now.
+Use any force you see fit to remove obstacles.
+This is the last dispatch of SV2 Division 2.
+Give it everything you have.
+We'll depart immediately. All aboard.
+Shinobu,
+I don't want any "end up by killing each other" thing.
+Arrest him and come back alive.
+I'll be waiting.
+Departing.
+Why aren't you going?
+I have lots of other things to do.
+You helped us out a lot,
+but I'll have to arrest you.
+Everybody, stay where you are.
+Arakawa Shigeki,
+you are under arrest for subversive activities
+and sundry other charges.
+You have an explanation, I hope.
+Your information regarding this whole incident...
+was incredibly accurate and timely.
+Not surprising.
+You yourself are part of the group
+that you were investigating.
+You're on Tsuge's side.
+And he betrayed you.
+He changed what should have been
+a mere political demonstration...
+and went underground to start a real war.
+And that put you in a tight spot.
+You really can't investigate that openly, either.
+So, you kept your eyes on SV2.
+And by keeping an eye on Inspector Nagumo,
+you'll get two birds with one stone.
+That's all pure speculation.
+The night before it started, you let Tsuge go.
+Even if you didn't hit him, if you had fired,
+the security forces would've been all over him.
+It's only a narrow waterway.
+You had a very good chance of
+arresting him, but you didn't.
+Why?
+It's because you needed to catch him yourself.
+You had to stop Tsuge's plan,
+but you didn't want him to...
+reveal your organization either.
+And the final blow is
+you relied on an independent goon squad like us,
+not the regular forces,
+even at this late stage of the situation.
+It's not something a straight bureaucrat would do.
+But it's the same with you.
+There are only two types of
+non-straight bureaucrat.
+The criminal and the super hero.
+Arakawa, I loved your story.
+A phoney peace and a war as reality.
+But as you say, if the peace of this town is a fake,
+then so is the war he's creating.
+This town is too small for a real war.
+Wars were always unrealistic.
+There never was a time when
+ordinary people saw wars as realistic.
+Tell me, I'm here because I'm a police officer.
+But why aren't you with Tsuge?
+Let's go.
+There they are.
+They're tactical robots developed in the US,
+named EXTLs.
+It's a mobile battery using wire control,
+but they can be trouble.
+While you attract their attention with the labors,
+Shinshi and I double around behind them, sever the cable,
+and blast them with unit 3's ECM.
+We'll work on it as things come up.
+How is that?
+I suppose it's our only chance.
+Ohta, take the lead.
+Noa, guard Chief Nagumo.
+Hiromi, you provide their covering fire.
+When the flare goes up, that's the signal.
+Well? Come on. Come and get me!
+Ohta, you bonehead!
+Shut up.
+Ohta, what are you doing?
+That stupid Buchiyama, I'll get him for this.
+While I can fire one shot at a time,
+they fire back hundreds!
+Of course!
+Did you think you could shoot
+at that distance and take them out?
+Hiromi, where's the covering fire?
+Everything in front of me is a blur.
+I almost tripped because of the sudden brightness.
+Either way, we can't use that trick again.
+Those machines may be as stupid as Ohta,
+but a controller who's human.
+What'd you say!
+What do we do?
+No use just talking about it!
+Hold it, idiot!
+- I'll go, too.
+- Officer Izumi.
+We have no choice. Hiromi, fire at will!
+Shit!
+Ohta.
+Eat this!
+Ohta.
+Asuma!
+Asuma, I can't hang on.
+Asuma!
+Ohta. Ohta.
+Ohta, are you alive? Answer me.
+It's a beautiful flower.
+It's white and smells nice.
+They're moving in.
+Chief. Chief Nagumo!
+Nagumo here.
+Have the ECM on standby.
+Officer Shinohara, where are you now?
+Once the cable's cut,
+they'll go into auto-mode...
+and fire on anything that doesn't have the proper ID.
+Take them out quickly.
+Ohta, are you there?
+Your favourite: Close range combat!
+Get ready.
+Chief.
+All personnel, I am initiating jamming at optimum range.
+When I do, turn off all sensors...
+and rely on your naked eyes.
+Here we go.
+Eat this, Martian bastard!
+How was that?
+Izumi, finish this one off quickly.
+- It shot through the ceiling!
+- It's flooding!
+Chief, Go!
+- But...
+- Hurry!
+Out Of my way!
+From here, the city seems to be a mirage,
+Don't you think so?
+It may only be an illusion to you,
+but there are people living there, living in reality.
+Or are they an illusion to you, too?
+When I returned to this town 3 years ago,
+I lived in the illusion, too.
+And I tried to tell everyone that it was an illusion,
+but nobody noticed
+until the first shot was fired.
+Even now, some may still not have noticed.
+But I, standing in front of you,
+am not an illusion.
+Go ahead.
+Start the transmission at maximum output.
+"Do you think I came to bring peace on earth?
+"No, I tell you, but division.
+"From now on there will be divided against each other,
+"three against two...
+"and two against three.
+"They will be divided, father against son
+and son against father,
+"mother against daughter
+and daughter against mother..."
+You remembered it.
+It was the only thing you wrote
+on the last letter you sent me.
+When I got it, I thought it was meant
+to describe your experience over there.
+It's always too late by the time one notices.
+But sin must be punished.
+Isn't that correct?
+Tsuge Yukihito, you are under arrest.
+Shinohara, do you read?
+Shinohara here. Chief?
+We can hear the Chief's voice on the air.
+The jamming signal's stopped!
+We did it!
+Chief!
+And I'm left here, with them...
+I just got word that...
+your men who escaped by boat...
+surrendered to the security forces.
+Number of fatalities, unknown.
+God knows how much the damage will add up to.
+Tell me something.
+Having caused all this, you haven't taken your life yet?
+I probably wanted to see a bit more of it...
+See what?
+The future of this city.
