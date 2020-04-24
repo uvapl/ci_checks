@@ -3,7 +3,7 @@ import check50.internal
 import re
 import nbformat
 
-NOTEBOOK_PATH = "module 2.ipynb"
+NOTEBOOK_PATH = "module 3.ipynb"
 
 
 # TODO: move this into check_jupyter.py
@@ -32,8 +32,7 @@ def get_test_ids(notebook_path):
 @check50.check()
 def exists():
     """Notebook exists"""
-    check50.include("check_jupyter.py", "mini-movielens/",
-                    "micro-movielens/", "answers.py")
+    check50.include("check_jupyter.py", "data/", "answers.py")
 
     # Grab the last test
     test_ids = get_test_ids(NOTEBOOK_PATH)
