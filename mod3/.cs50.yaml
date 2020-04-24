@@ -7,4 +7,4 @@ check50:
     - "scipy>=1.4"
   files:
     - !exclude "*"
-    - !require "Module 3.ipynb"
+    - !require "module 3.ipynb"
