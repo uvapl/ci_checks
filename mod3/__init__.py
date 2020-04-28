@@ -1,5 +1,7 @@
 import check50
 import check50.internal
+import os
+import shutil
 import re
 import nbformat
 
