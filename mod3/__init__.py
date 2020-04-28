@@ -29,6 +29,14 @@ def get_test_ids(notebook_path):
     return test_cells
 
 
+def empty_cwd():
+    for root, dirs, files in os.walk(os.getcwd()):
+        for f in files:
+            os.unlink(os.path.join(root, f))
+        for d in dirs:
+            shutil.rmtree(os.path.join(root, d))
+
+
 @check50.check(timeout=900)
 def exists():
     """Notebook exists"""
@@ -61,7 +69,10 @@ def exists():
             if check_jupyter.is_test_cell(cell):
                 results.append(
                     (check_jupyter.get_cell_id(cell), passed, exception))
-
+    
+    # Remove all files in check directory
+    empty_cwd()
+    
     # Pass down the results to the actual checks
     return tuple(results)
 
