@@ -29,7 +29,7 @@ def get_test_ids(notebook_path):
     return test_cells
 
 
-@check50.check()
+@check50.check(timeout=900)
 def exists():
     """Notebook exists"""
     check50.include("check_jupyter.py", "data/", "answers.py")
