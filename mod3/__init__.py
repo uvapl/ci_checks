@@ -1,5 +1,7 @@
 import check50
 import check50.internal
+import os
+import shutil
 import re
 import nbformat
 
@@ -27,6 +29,15 @@ def get_test_ids(notebook_path):
             test_cells.append(cell_id)
 
     return test_cells
+
+
+def empty_cwd(excluded_files=(NOTEBOOK_PATH,)):
+    for root, dirs, files in os.walk(os.getcwd()):
+        for f in files:
+            if f not in excluded_files:
+                os.unlink(os.path.join(root, f))
+        for d in dirs:
+            shutil.rmtree(os.path.join(root, d))
 
 
 @check50.check(timeout=900)
@@ -61,7 +72,10 @@ def exists():
             if check_jupyter.is_test_cell(cell):
                 results.append(
                     (check_jupyter.get_cell_id(cell), passed, exception))
-
+    
+    # Remove all files in check directory
+    empty_cwd()
+    
     # Pass down the results to the actual checks
     return tuple(results)
 
