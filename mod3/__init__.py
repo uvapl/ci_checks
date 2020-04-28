@@ -31,10 +31,11 @@ def get_test_ids(notebook_path):
     return test_cells
 
 
-def empty_cwd():
+def empty_cwd(excluded_files=(NOTEBOOK_PATH,)):
     for root, dirs, files in os.walk(os.getcwd()):
         for f in files:
-            os.unlink(os.path.join(root, f))
+            if f not in excluded_files:
+                os.unlink(os.path.join(root, f))
         for d in dirs:
             shutil.rmtree(os.path.join(root, d))
 
