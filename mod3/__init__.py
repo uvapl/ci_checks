@@ -1,9 +1,9 @@
 import check50
 import check50.internal
-import os
-import shutil
-import re
 import nbformat
+import os
+import re
+import shutil
 
 NOTEBOOK_PATH = "module 3.ipynb"
 
@@ -14,6 +14,10 @@ def get_test_ids(notebook_path):
     Get all test ids from a notebook
     A test is marked by an nbgrader id with 'test_' as prefix
     """
+
+    if not os.path.exists(NOTEBOOK_PATH) and check50.internal.run_root_dir != check50.internal.student_dir:
+        shutil.copyfile(check50.internal.student_dir / NOTEBOOK_PATH, check50.internal.run_root_dir / NOTEBOOK_PATH)
+
     # Open and parse the notebook
     with open(notebook_path) as f:
         nb = nbformat.read(f, as_version=4)

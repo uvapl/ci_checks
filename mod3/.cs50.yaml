@@ -8,6 +8,7 @@ check50:
     - "spacy>=2.2"
     - "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz"
     - "scikit-learn>=0.22"
+    - "nbconvert>=6.0"
   files:
     - !exclude "*"
     - !require "module 3.ipynb"
