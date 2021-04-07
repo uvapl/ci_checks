@@ -63,6 +63,7 @@ def executor():
         results = []
         for index, cell in enumerate(cells):
             try:
+                ep.store_history = True
                 results.append(ep.preprocess_cell(cell, {}, index))
             except CellExecutionError as e:
                 raise check50.Failure(str(e))
