@@ -2,6 +2,7 @@ import check50
 import check50.internal
 import re
 import nbformat
+import shutil
 
 import os
 
@@ -14,7 +15,10 @@ def get_test_ids(notebook_path):
     A test is marked by an nbgrader id with 'test_' as prefix
     """
     
-    raise Exception(os.getcwd() + ", ".join(os.listdir()))
+    #raise Exception(os.getcwd() + ", ".join(os.listdir()))
+    
+    if not os.exists(NOTEBOOK_PATH) and check50.internal.run_root_dir != check50.internal.student_dir:
+        shutil.copyfile(check50.internal.student_dir / NOTEBOOK_PATH, check50.internal.run_root_dir / NOTEBOOK_PATH)
     
     # Open and parse the notebook
     with open(notebook_path) as f:
