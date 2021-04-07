@@ -5,7 +5,7 @@ check50:
     - "nbformat>=5"
     - "matplotlib>=3.2"
     - "scipy>=1.4"
-    - "nbconvert<=5.5.0"
+    - "nbconvert<=5.4.0"
   files:
     - !exclude "*"
     - !require "module1.ipynb"
