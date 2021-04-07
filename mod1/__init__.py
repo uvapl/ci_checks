@@ -4,11 +4,6 @@ import re
 import nbformat
 import shutil
 
-import os
-import subprocess
-from importlib.metadata import version
-import nbconvert
-
 NOTEBOOK_PATH = "module1.ipynb"
 
 # TODO: move this into check_jupyter.py
@@ -17,17 +12,9 @@ def get_test_ids(notebook_path):
     Get all test ids from a notebook
     A test is marked by an nbgrader id with 'test_' as prefix
     """
-    
-    #raise Exception(os.getcwd() + ", ".join(os.listdir()))
-    
+
     if not os.path.exists(NOTEBOOK_PATH) and check50.internal.run_root_dir != check50.internal.student_dir:
         shutil.copyfile(check50.internal.student_dir / NOTEBOOK_PATH, check50.internal.run_root_dir / NOTEBOOK_PATH)
-    
-#     process = subprocess.run(['pip', 'show', 'nbconvert'], 
-#                          stdout=subprocess.PIPE, 
-#                          universal_newlines=True)
-    
-#     raise Exception(process.stdout)
 
     # Open and parse the notebook
     with open(notebook_path) as f:
