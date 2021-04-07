@@ -75,8 +75,8 @@ def executor():
     ep = ExecutePreprocessor(timeout=600, kernel_name='python3')
 
     # Start a Kernel Manager
-    #with ep.setup_preprocessor(None, {}):
-    yield execute
+    with ep.setup_preprocessor(None, {}):
+        yield execute
 
 
 def output_from_cell(cell):
