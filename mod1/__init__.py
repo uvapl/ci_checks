@@ -1,7 +1,8 @@
 import check50
 import check50.internal
-import re
 import nbformat
+import os
+import re
 import shutil
 
 NOTEBOOK_PATH = "module1.ipynb"
