@@ -1,7 +1,6 @@
 check50:
   dependencies:
-    - "nbconvert==6.0.7"
-    - "notebook>=6.3"
+    - "jupyter>=1.0"
     - "pandas>=1.0"
     - "nbformat>=5"
     - "matplotlib>=3.2"
