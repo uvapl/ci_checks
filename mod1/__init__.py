@@ -13,8 +13,8 @@ def get_test_ids(notebook_path):
     Get all test ids from a notebook
     A test is marked by an nbgrader id with 'test_' as prefix
     """
-    print(os.getcwd())
-    print(os.listdir())
+    
+    raise Exception(os.getcwd() + ", ".join(os.listdir()))
     
     # Open and parse the notebook
     with open(notebook_path) as f:
