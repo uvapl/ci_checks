@@ -6,6 +6,8 @@ import shutil
 
 import os
 import subprocess
+from importlib.metadata import version
+import nbconvert
 
 NOTEBOOK_PATH = "module1.ipynb"
 
@@ -26,6 +28,8 @@ def get_test_ids(notebook_path):
 #                          universal_newlines=True)
     
 #     raise Exception(process.stdout)
+
+    raise Exception(version(nbconvert))
     
     # Open and parse the notebook
     with open(notebook_path) as f:
