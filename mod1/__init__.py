@@ -85,7 +85,7 @@ def create_check(test_id):
 
 
 def init():
-    for test_id in get_test_ids("module 1.ipynb"):
+    for test_id in get_test_ids(NOTEBOOK_PATH ):
         check = create_check(test_id)
 
         # Register the check with check50
