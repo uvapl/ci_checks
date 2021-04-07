@@ -21,11 +21,11 @@ def get_test_ids(notebook_path):
     if not os.path.exists(NOTEBOOK_PATH) and check50.internal.run_root_dir != check50.internal.student_dir:
         shutil.copyfile(check50.internal.student_dir / NOTEBOOK_PATH, check50.internal.run_root_dir / NOTEBOOK_PATH)
     
-    process = subprocess.run(['pip', 'show', 'nbconvert'], 
-                         stdout=subprocess.PIPE, 
-                         universal_newlines=True)
+#     process = subprocess.run(['pip', 'show', 'nbconvert'], 
+#                          stdout=subprocess.PIPE, 
+#                          universal_newlines=True)
     
-    raise Exception(process.stdout)
+#     raise Exception(process.stdout)
     
     # Open and parse the notebook
     with open(notebook_path) as f:
