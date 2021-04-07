@@ -17,7 +17,7 @@ def get_test_ids(notebook_path):
     
     #raise Exception(os.getcwd() + ", ".join(os.listdir()))
     
-    if not os.exists(NOTEBOOK_PATH) and check50.internal.run_root_dir != check50.internal.student_dir:
+    if not os.path.exists(NOTEBOOK_PATH) and check50.internal.run_root_dir != check50.internal.student_dir:
         shutil.copyfile(check50.internal.student_dir / NOTEBOOK_PATH, check50.internal.run_root_dir / NOTEBOOK_PATH)
     
     # Open and parse the notebook
