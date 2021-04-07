@@ -29,8 +29,6 @@ def get_test_ids(notebook_path):
     
 #     raise Exception(process.stdout)
 
-    raise Exception(version('nbconvert'))
-    
     # Open and parse the notebook
     with open(notebook_path) as f:
         nb = nbformat.read(f, as_version=4)
