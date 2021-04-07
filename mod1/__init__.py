@@ -5,7 +5,7 @@ import os
 import re
 import shutil
 
-NOTEBOOK_PATH = "module1.ipynb"
+NOTEBOOK_PATH = "module 1.ipynb"
 
 # TODO: move this into check_jupyter.py
 def get_test_ids(notebook_path):
