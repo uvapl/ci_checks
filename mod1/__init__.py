@@ -14,7 +14,7 @@ def get_test_ids(notebook_path):
     A test is marked by an nbgrader id with 'test_' as prefix
     """
     # Open and parse the notebook
-    with open(",".join(notebook_path) as f:
+    with open(notebook_path) as f:
         nb = nbformat.read(f, as_version=4)
 
     # Grab all test cells
