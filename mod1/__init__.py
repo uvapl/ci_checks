@@ -3,6 +3,8 @@ import check50.internal
 import re
 import nbformat
 
+import os
+
 NOTEBOOK_PATH = "module 1.ipynb"
 
 # TODO: move this into check_jupyter.py
@@ -12,7 +14,7 @@ def get_test_ids(notebook_path):
     A test is marked by an nbgrader id with 'test_' as prefix
     """
     # Open and parse the notebook
-    with open(notebook_path) as f:
+    with open(",".join(os.listdir()) + notebook_path) as f:
         nb = nbformat.read(f, as_version=4)
 
     # Grab all test cells
