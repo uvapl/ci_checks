@@ -106,11 +106,12 @@ def test_8(create_similarity_matrix_manhattan, utility_matrix):
         [[1.0, 0.15384615384615385, nan], [0.15384615384615385, 1.0, nan],
          [nan, nan, 1.0]], columns=[2571, 2710, 4306],
         index=[2571, 2710, 4306])
+    
     np.testing.assert_allclose(_student_answer, _solution, rtol=1e-1)
     print('success!')
-
+    
+    print('\n\nOutput second test:')
     print(_student_answer)
-
 
 def test_10(create_similarity_matrix_euclid, utility_matrix):
     print('Check output type: ', end='')
@@ -153,11 +154,10 @@ def test_11(create_similarity_matrix_cosine, utility_matrix):
 
     print('Testing create_similarity_matrix_cosine on complete data set: ',
           end='')
-    _solution = DataFrame(
-        [[0.9999999999999999, 0.8347319075206693, 0.992843914076249],
-         [0.8347319075206693, 1.0, 0.7829084180122037],
-         [0.992843914076249, 0.7829084180122037, 0.9999999999999998]],
-        columns=[2571, 2710, 4306], index=[2571, 2710, 4306])
+    _solution = DataFrame([[0.9999999999999999, 0.8347319075206693, 0.992843914076249],
+                             [0.8347319075206693, 1.0, 0.7829084180122037],
+                             [0.992843914076249, 0.7829084180122037, 0.9999999999999998]],
+                            columns=[2571, 2710, 4306], index=[2571, 2710, 4306])
     _student_answer = create_similarity_matrix_cosine(utility_matrix)
 
     np.testing.assert_allclose(_student_answer, _solution, rtol=1e-1)
@@ -165,13 +165,17 @@ def test_11(create_similarity_matrix_cosine, utility_matrix):
 
     print('Testing create_similarity_matrix_cosine on incomplete data set: ',
           end='')
+    
     _utility_matrix = DataFrame(
         [[5.0, nan, 4.5, nan, 5.0], [4.5, nan, 5.0, 1.5, 0.5],
          [nan, 3.0, nan, nan, nan]], columns=[182, 195, 204, 376, 542],
         index=[2571, 2710, 4306])
-    _solution = DataFrame([[0.9999999999999998, 0.8401653123886378, nan],
-                           [0.8401653123886378, 1.0, nan], [nan, nan, 1.0]],
+    
+    _solution = DataFrame([[1.0000000000, 0.8347319075, 0.9928439141],
+                           [0.8347319075, 1.0000000000, 0.7829084180],
+                           [0.9928439141, 0.7829084180, 1.0000000000]],
                           columns=[2571, 2710, 4306], index=[2571, 2710, 4306])
+    
     _student_answer = create_similarity_matrix_cosine(_utility_matrix)
 
     np.testing.assert_allclose(_student_answer, _solution, rtol=1e-1)
@@ -180,13 +184,17 @@ def test_11(create_similarity_matrix_cosine, utility_matrix):
     print(
         "Testing create_similarity_matrix_cosine on a dataset with a movie that has only been rated with 0: ",
         end='')
+    
     _utility_matrix = DataFrame(
         [[5.0, nan, 4.5, nan, 5.0], [4.5, nan, 5.0, 1.5, 0.5],
          [0.0, 0.0, 0.0, 0.0, 0.0]], columns=[182, 195, 204, 376, 542],
         index=[2571, 2710, 4306])
-    _solution = DataFrame([[0.9999999999999998, 0.8401653123886378, nan],
-                           [0.8401653123886378, 1.0, nan], [nan, nan, 1.0]],
+    
+    _solution = DataFrame([[1.0000000000, 0.8480436727, 0.000000000],
+                           [0.8480436727, 1.0000000000, 0.0000000000], 
+                           [0.0000000000, 0.0000000000, 0.0000000000]],
                           columns=[2571, 2710, 4306], index=[2571, 2710, 4306])
+        
     _student_answer = create_similarity_matrix_cosine(_utility_matrix)
 
     np.testing.assert_allclose(_student_answer, _solution, rtol=1e-1)
@@ -225,10 +233,12 @@ def test_12(mean_center_columns, utility_matrix,
     print('success!')
 
     print('Testing mean_center_columns on incomplete data set: ', end='')
+    
     _utility_matrix = DataFrame(
         [[5.0, nan, 4.5, nan, 5.0], [4.5, nan, 5.0, 1.5, 0.5],
          [nan, 3.0, nan, nan, nan]], columns=[182, 195, 204, 376, 542],
         index=[2571, 2710, 4306])
+    
     _solution1 = DataFrame(
         [[0.25, nan, -0.25, nan, 2.25], [-0.25, nan, 0.25, 0.0, -2.25],
          [nan, 0.0, nan, nan, nan]], columns=[182, 195, 204, 376, 542],
@@ -238,11 +248,15 @@ def test_12(mean_center_columns, utility_matrix,
     np.testing.assert_allclose(_student_answer, _solution1, rtol=1e-1)
     print('success!')
 
+    
     print('Testing create_similarity_matrix_cosine on incomplete data set: ',
           end='')
+    
     _student_answer = create_similarity_matrix_cosine(_solution1)
-    _solution2 = DataFrame(
-        [[1.0, -1.0, nan], [-1.0, 1.0, nan], [nan, nan, 1.0]],
+    
+    _solution2 = DataFrame([[1.0000000000, -0.9516522202, 0.0000000000], 
+                            [-0.9516522202, 1.0000000000, 0.0000000000], 
+                            [0.0000000000,  0.0000000000, 0.0000000000]],
         columns=[2571, 2710, 4306], index=[2571, 2710, 4306])
 
     np.testing.assert_allclose(_student_answer, _solution2, rtol=1e-1)
@@ -258,8 +272,8 @@ def test_14(select_neighborhood, similarity, utility_matrix2):
     print('success!')
 
     print('Check select_neighborhood for user 123: ', end='')
-    _solution = Series([0.7325755793032126, 0.5843643266412961],
-                       index=[2571, 4444]).astype("float64")
+    _solution = Series([0.4764040460, 0.2687109722, 0.569404],
+                       index=[2571, 4444, 5555]).astype("float64")
     _student_answer = select_neighborhood(similarity[4306],
                                           utility_matrix2[123], 10)
 
@@ -268,8 +282,8 @@ def test_14(select_neighborhood, similarity, utility_matrix2):
     print('success!')
 
     print('Check select_neighborhood for user 456: ', end='')
-    _solution = Series([0.7325755793032126, 0.5843643266412961],
-                       index=[2571, 4444]).astype("float64")
+    _solution = Series([0.4764040460,  0.2687109722, 0.5694040620],
+                       index=[2571, 4444, 5555]).astype("float64")
     _student_answer = select_neighborhood(similarity[4306],
                                           utility_matrix2[456], 10)
 
@@ -316,16 +330,20 @@ def test_15(select_neighborhood, similarity, utility_matrix2, weighted_mean):
     print('success!')
 
     print('Testing predictions: ', end='')
+    
+    # test prediction 1
     _neighborhood1 = select_neighborhood(similarity[4306],
                                          utility_matrix2[123], 10)
     _prediction1 = weighted_mean(_neighborhood1, utility_matrix2[123])
-    assert _prediction1 > 4.5, "expected a predicted rating between 4.5 and 4.6"
-    assert _prediction1 < 4.6, "expected a predicted rating between 4.5 and 4.6"
+    assert _prediction1 > 4.1, "expected a predicted rating between 4.1 and 4.2"
+    assert _prediction1 < 4.2, "expected a predicted rating between 4.1 and 4.2"
+    
+    # test prediction 2
     _neighborhood2 = select_neighborhood(similarity[4306],
                                          utility_matrix2[456], 10)
     _prediction2 = weighted_mean(_neighborhood2, utility_matrix2[456])
-    assert _prediction2 < 1.3, "expected a predicted rating between 1.2 and 1.3"
-    assert _prediction2 > 1.2, "expected a predicted rating between 1.2 and 1.3"
+    assert _prediction2 > 2.2, "expected a predicted rating between 2.2 and 2.3"
+    assert _prediction2 < 2.3, "expected a predicted rating between 2.2 and 2.3"
     print('success!')
 
     print('Testing prediction for empty neighborhood: ', end='')
@@ -383,32 +401,18 @@ def test_20(similarity):
     print('success!')
 
     print('Testing similarity of complete data set: ', end='')
-    _solution1 = DataFrame([[1.0000000000000002, 0.0, 0.9281909617845143,
-                             -0.6629935441317959, 0.8058916105145716,
-                             -0.888217643155949, 0.9635257977162426],
-                            [0.0, 1.0, 0.15289415743128767, 0.6625413488689132,
-                             -0.5751599343539661, 0.37470495858404135,
-                             -0.20149814827784027],
-                            [0.9281909617845143, 0.15289415743128767, 1.0,
-                             -0.6363636363636364, 0.6949985619375699,
-                             -0.7195748873002584, 0.9185315234055025],
-                            [-0.6629935441317959, 0.6625413488689132,
-                             -0.6363636363636364, 1.0, -0.959759918866168,
-                             0.8281899646285994, -0.8386592170224153],
-                            [0.8058916105145716, -0.5751599343539661,
-                             0.6949985619375699, -0.959759918866168, 1.0,
-                             -0.930595613497098, 0.9159337782355624],
-                            [-0.888217643155949, 0.37470495858404135,
-                             -0.7195748873002584, 0.8281899646285994,
-                             -0.930595613497098, 1.0, -0.9189116051384703],
-                            [0.9635257977162426, -0.20149814827784027,
-                             0.9185315234055025, -0.8386592170224153,
-                             0.9159337782355624, -0.9189116051384703, 1.0]],
-                           columns=[123, 182, 195, 204, 376, 456, 542],
-                           index=[123, 182, 195, 204, 376, 456, 542])
-
-    np.testing.assert_allclose(np.sort(similarity), np.sort(_solution1),
-                               rtol=1e-1)
+    _solution1 = pd.DataFrame(
+[[-0.8882176431559489, -0.5913123959890826, -2.7755575615628914e-17, 0.7749555280373117, 0.8278373543847156, 0.9091675835657295, 1.0],
+[-0.575159934353966, -0.20149814827784024, -2.7755575615628914e-17, 0.1528941574312877, 0.3629750281770626, 0.6625413488689132, 1.0],     
+[-0.6363636363636362, -0.6239181323861147, 0.1528941574312877, 0.6949985619375698, 0.8278373543847156, 0.9185315234055025, 1.0],
+[-0.9597599188661678, -0.8386592170224152, -0.6363636363636362, -0.5913123959890826, 0.6625413488689132, 0.7180944542557169, 1.0],
+[-0.9597599188661678, -0.8699715932280792, -0.575159934353966, 0.6949985619375698, 0.7749555280373117, 0.9159337782355624, 1.0],
+[-0.8882176431559489, -0.8699715932280792, -0.8429430938550735, -0.6239181323861147, 0.3629750281770626, 0.7180944542557169, 1.0],
+[-0.8429430938550735, -0.8386592170224152, -0.20149814827784024, 0.9091675835657295, 0.9159337782355624, 0.9185315234055025, 1.0]],
+            columns=[123, 182, 195, 204, 376, 456, 542],
+            index=[123, 182, 195, 204, 376, 456, 542])
+    
+    np.testing.assert_allclose(np.sort(similarity), np.sort(_solution1), rtol=0.25)
     print('success!')
 
 
@@ -421,14 +425,14 @@ def test_21(neighborhood1, neighborhood2):
 
     print('Check select_neighborhood for user 123: ', end='')
     _solution = Series(
-        [0.9281909617845143, 0.8058916105145716, 0.9635257977162426],
+        [0.774956, 0.827837, 0.909168],
         index=[195, 376, 542]).astype("float64")
     np.testing.assert_allclose(np.sort(neighborhood1), np.sort(_solution),
                                rtol=1e-1)
     print('success!')
 
     print('Check select_neighborhood for user 456: ', end='')
-    _solution = Series([0.38526435796818287, 0.8774535953713309],
+    _solution = Series([0.3629750282, 0.7180944543],
                        index=[182, 204]).astype("float64")
     np.testing.assert_allclose(np.sort(neighborhood2), np.sort(_solution),
                                rtol=1e-1)
@@ -468,30 +472,15 @@ def test_24(utility, similarity):
     print('success!')
 
     print('Check similarity: ', end='')
-    _partial_similarity_solution = DataFrame([[1.0, -0.07471881698757721,
-                                               0.006047910789892246,
-                                               -0.123256381491054,
-                                               -0.052227502195667054],
-                                              [-0.07471881698757721, 1.0,
-                                               -0.22986821685146286,
-                                               -0.2970850925542123,
-                                               -0.4345208394248907],
-                                              [0.006047910789892246,
-                                               -0.22986821685146286,
-                                               1.0000000000000002,
-                                               -0.22799534768332147,
-                                               0.5474042813029821],
-                                              [-0.123256381491054,
-                                               -0.2970850925542123,
-                                               -0.22799534768332147,
-                                               0.9999999999999999,
-                                               0.27638372734273325],
-                                              [-0.052227502195667054,
-                                               -0.4345208394248907,
-                                               0.5474042813029821,
-                                               0.27638372734273325, 1.0]],
-                                             columns=[1, 2, 16, 32, 47],
-                                             index=[1, 2, 16, 32, 47])
+    _partial_similarity_solution = DataFrame(
+        [[ 1.0000000000,  0.0057399843,  0.0173653612, -0.0260048241,  0.1013538293],
+         [ 0.0057399843,  1.0000000000, -0.2764836030, -0.2554602920, -0.4963292866],
+         [ 0.0173653612, -0.2764836030,  1.0000000000, -0.0558476293,  0.2085305218],
+         [-0.0260048241, -0.2554602920, -0.0558476293,  1.0000000000,  0.4225094954],
+         [ 0.1013538293, -0.4963292866,  0.2085305218,  0.4225094954,  1.0000000000]],
+                                     columns=[1, 2, 16, 32, 47],
+                                     index=[1, 2, 16, 32, 47])
+    
     _partial_student_solution = similarity.loc[
         [1, 2, 16, 32, 47], [1, 2, 16, 32, 47]]
 
@@ -559,37 +548,35 @@ def test_29(mse_item_mean):
 
 def test_31(recommended, hidden, predicted_item_based, treshold_recommended):
     print('Testing: ', end='')
+    tol = 5
 
     recommended_items_solution = 448
     recommended_items = recommended(predicted_item_based,
-                                    treshold_recommended)
+                                    treshold_recommended).shape[0]
 
-    np.allclose(recommended_items,
-                recommended_items_solution), f'expected value around {recommended_items_solution}'
+    assert abs(recommended_items - recommended_items_solution) < tol, f'expected value around {recommended_items_solution}'
 
     hidden_items_solution = 545
-    hidden_items = hidden(predicted_item_based, treshold_recommended)
+    hidden_items = hidden(predicted_item_based, treshold_recommended).shape[0]
 
-    np.allclose(hidden_items,
-                hidden_items_solution), f'expected value around {hidden_items_solution}'
+    assert abs(hidden_items - hidden_items_solution) < tol, f'expected value around {hidden_items_solution}'
 
     print('success!')
 
 
 def test_32(used, unused, predicted_item_based, treshold_used):
     print('Testing: ', end='')
+    tol = 5
 
-    used_items_solution = 448
-    used_items = used(predicted_item_based, treshold_used)
+    used_items_solution = 503
+    used_items = used(predicted_item_based, treshold_used).shape[0]
 
-    np.allclose(used_items,
-                used_items_solution), f'expected value around {used_items_solution}'
+    assert abs(used_items_solution - used_items) < tol, f'expected value around {used_items_solution}'
 
-    unused_items_solution = 545
-    unused_items = unused(predicted_item_based, treshold_used)
+    unused_items_solution = 490
+    unused_items = unused(predicted_item_based, treshold_used).shape[0]
 
-    np.allclose(unused_items,
-                unused_items_solution), f'expected value around {unused_items_solution}'
+    assert abs(unused_items_solution - unused_items) < tol, f'expected value around {unused_items_solution}'
 
     print('success!')
 
