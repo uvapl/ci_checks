@@ -73,13 +73,8 @@ def executor():
     # https://github.com/jupyter/nbconvert/blob/master/nbconvert/preprocessors/execute.py
     ep = ExecutePreprocessor(timeout=600, kernel_name='python3')
 
-    # https://github.com/jupyter/nbconvert/blob/e49b9a8a220c9f9f87c23764ea7b48eac4707937/nbconvert/preprocessors/execute.py#L23
-    # this new dependency on NotebookClient also creates some ugliness on our end
-    ep.store_history = True            
-    ep.nb = {"cells": {}}
-
     # Start a Kernel Manager
-    with ep.setup_kernel():
+    with ep.setup_preprocessor(None, {}):
         yield execute
 
 
