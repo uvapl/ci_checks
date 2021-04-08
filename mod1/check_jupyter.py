@@ -1,5 +1,6 @@
 import nbformat
 import check50
+import time
 from nbconvert.preprocessors import ExecutePreprocessor, CellExecutionError
 
 import contextlib
@@ -65,6 +66,7 @@ def executor():
             try:
                 results.append(ep.preprocess_cell(cell, {}, index))
             except CellExecutionError as e:
+                time.sleep(.5)
                 raise check50.Failure(str(e))
 
         return results
