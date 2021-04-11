@@ -39,7 +39,7 @@ def get_test_ids(notebook_path):
 def exists():
     """Notebook exists"""
     check50.include("check_jupyter.py", "mini-movielens/",
-                    "micro-movielens/", "answers.py")
+                    "micro-movielens/", "answers_new.py")
 
     # Grab the last test
     test_ids = get_test_ids(NOTEBOOK_PATH)
